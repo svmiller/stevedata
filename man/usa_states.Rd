@@ -3,7 +3,7 @@
 \docType{data}
 \name{usa_states}
 \alias{usa_states}
-\title{State Abbreviations, State Names, and State Regions/Divisions}
+\title{State Abbreviations, Names, and Regions/Divisions}
 \format{
 A data frame with 51 observations on the following 4 variables.
 \describe{
