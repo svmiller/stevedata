@@ -20,4 +20,6 @@ NULL
 #' \item{\code{trumpw}}{did Trump win the state?}
 #' }
 #'
+#'#' @details Data were created in early 2017 for an upper-division course on quantitative methods. Educational attainment and division/region data come from the Census. Voter turout data come from the Elections Project at George Mason University. GDP per capita estimates come from Bureau of Economic Analysis.
+#'
 "election_turnout"
