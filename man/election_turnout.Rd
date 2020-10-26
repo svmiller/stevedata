@@ -27,6 +27,9 @@ election_turnout
 A simple data set on education and state-level (+ DC) turnout in the 2016 presidential election. This is inspired by what Pollock (2012) does in his book.
 }
 \details{
-Data were created in early 2017 for an upper-division course on quantitative methods. Educational attainment and division/region data come from the Census. Voter turout data come from the Elections Project at George Mason University. GDP per capita estimates come from Bureau of Economic Analysis.
+Data were created in early 2017 for an upper-division course on
+quantitative methods. Educational attainment and division/region data come from the
+Census. Voter turnout data come from the Elections Project at George Mason University.
+GDP per capita estimates come from Bureau of Economic Analysis.
 }
 \keyword{datasets}

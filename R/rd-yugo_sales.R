@@ -1,0 +1,22 @@
+#' @importFrom tibble tibble
+NULL
+
+#' Yugo Sales in the United States, 1985-1992
+#'
+#' A data set on Yugo sales vis-a-vis two competing models in the United States
+#' from 1985 to 1992.
+#'
+#' @format A data frame with 24 observations on the following 3 variables.
+#' \describe{
+#' \item{\code{year}}{the year}
+#' \item{\code{statename}}{the car type, either the Hyundai Excel, Yugo, or Toyota Tercel}
+#' \item{\code{sales}}{the number of units sold in the United States}
+#' }
+#'
+#' @details Data come from \url{carsalesbase.com}. I'm aware the inclusion of the
+#' Tercel is questionable since the third generation of Tercels were quite different
+#' from the first and second generations. However, I use these data to illustrate
+#' how poorly the Yugo fared against competing models, including the first and
+#' second generation Tercels. I think the inclusion is fair for that purpose.
+#'
+"yugo_sales"
