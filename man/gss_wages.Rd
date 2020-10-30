@@ -3,7 +3,7 @@
 \docType{data}
 \name{gss_wages}
 \alias{gss_wages}
-\title{The Gender Pay Gap in the General Social Survey (1974-2018)}
+\title{The Gender Pay Gap in the General Social Survey}
 \format{
 A data frame with eight variables:
 \describe{
