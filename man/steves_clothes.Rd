@@ -5,7 +5,7 @@
 \alias{steves_clothes}
 \title{Steve's (Professional) Clothes, as of March 3, 2019}
 \format{
-A data frame with 24 observations on the following 3 variables.
+A data frame with 79 observations on the following 4 variables.
 \describe{
 \item{\code{type}}{Type of clothing}
 \item{\code{brand}}{The brand of clothing (e.g. Apt. 9, Saddlebred)}
