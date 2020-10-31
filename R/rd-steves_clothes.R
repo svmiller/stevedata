@@ -7,7 +7,7 @@ NULL
 #' (polos, long-sleeve dress shirts, pants) in my closet, largely for
 #' illustration on the origins of apparel in the U.S. for an intro lecture on trade.
 #'
-#' @format A data frame with 24 observations on the following 3 variables.
+#' @format A data frame with 79 observations on the following 4 variables.
 #' \describe{
 #' \item{\code{type}}{Type of clothing}
 #' \item{\code{brand}}{The brand of clothing (e.g. Apt. 9, Saddlebred)}
