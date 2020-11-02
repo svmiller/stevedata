@@ -29,7 +29,6 @@ The ensuing output will look like this.
 ```{r, echo=F, eval=T}
 alldata <- data(package = "stevedata")
 library(knitr)
-library(kableExtra)
 library(tibble)
 
 tibble(`**Object Name**` = alldata$results[, "Item"],

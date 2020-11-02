@@ -39,6 +39,7 @@ The ensuing output will look like this.
 
 | **Object Name**   | **Title/Description**                               |
 | :---------------- | :-------------------------------------------------- |
+| Datasaurus        | The Datasaurus Dozen                                |
 | ESS9GB            | British Attitudes Toward Immigration (2018-19)      |
 | anes\_prochoice   | Abortion Attitudes (ANES, 2012)                     |
 | arg\_tariff       | Simple Mean Tariff Rate for Argentina               |
