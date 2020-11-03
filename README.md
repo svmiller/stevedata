@@ -37,28 +37,29 @@ data(package = "stevedata")
 
 The ensuing output will look like this.
 
-| **Object Name**    | **Title/Description**                               |
-| :----------------- | :-------------------------------------------------- |
-| Arca               | NYSE Arca Steel Index data, 2017–present            |
-| DJIA               | Dow Jones Industrial Average, 1885-Present          |
-| Datasaurus         | The Datasaurus Dozen                                |
-| ESS9GB             | British Attitudes Toward Immigration (2018-19)      |
-| Presidents         | U.S. Presidents and Their Terms in Office           |
-| aluminum\_premiums | LME Aluminum Premiums Data                          |
-| anes\_prochoice    | Abortion Attitudes (ANES, 2012)                     |
-| arg\_tariff        | Simple Mean Tariff Rate for Argentina               |
-| asn\_stats         | Aviation Safety Network Statistics, 1942-2019       |
-| clemson\_temps     | Daily Clemson Temperature Data                      |
-| coffee\_imports    | Coffee Imports for Select Importing Countries       |
-| election\_turnout  | State-Level Education and Voter Turnout in 2016     |
-| eq\_passengercars  | Export Quality Data for Passenger Cars, 1963-2014   |
-| eustates           | EU Member States (Current as of 2019)               |
-| fakeLogit          | Fake Data for a Logistic Regression                 |
-| ghp100k            | Gun Homicide Rate per 100,000 People, by Country    |
-| gss\_abortion      | Abortion Opinions in the General Social Survey      |
-| gss\_wages         | The Gender Pay Gap in the General Social Survey     |
-| mvprod             | Motor Vehicle Production by Country, 1950-2019      |
-| steves\_clothes    | Steve’s (Professional) Clothes, as of March 3, 2019 |
-| uniondensity       | Cross-National Rates of Trade Union Density         |
-| usa\_states        | State Abbreviations, Names, and Regions/Divisions   |
-| yugo\_sales        | Yugo Sales in the United States, 1985-1992          |
+| **Object Name**    | **Title/Description**                                                       |
+| :----------------- | :-------------------------------------------------------------------------- |
+| Arca               | NYSE Arca Steel Index data, 2017–present                                    |
+| DJIA               | Dow Jones Industrial Average, 1885-Present                                  |
+| DST                | Casualties/Fatalities in the U.S. for Drunk-Driving, Suicide, and Terrorism |
+| Datasaurus         | The Datasaurus Dozen                                                        |
+| ESS9GB             | British Attitudes Toward Immigration (2018-19)                              |
+| Presidents         | U.S. Presidents and Their Terms in Office                                   |
+| aluminum\_premiums | LME Aluminum Premiums Data                                                  |
+| anes\_prochoice    | Abortion Attitudes (ANES, 2012)                                             |
+| arg\_tariff        | Simple Mean Tariff Rate for Argentina                                       |
+| asn\_stats         | Aviation Safety Network Statistics, 1942-2019                               |
+| clemson\_temps     | Daily Clemson Temperature Data                                              |
+| coffee\_imports    | Coffee Imports for Select Importing Countries                               |
+| election\_turnout  | State-Level Education and Voter Turnout in 2016                             |
+| eq\_passengercars  | Export Quality Data for Passenger Cars, 1963-2014                           |
+| eustates           | EU Member States (Current as of 2019)                                       |
+| fakeLogit          | Fake Data for a Logistic Regression                                         |
+| ghp100k            | Gun Homicide Rate per 100,000 People, by Country                            |
+| gss\_abortion      | Abortion Opinions in the General Social Survey                              |
+| gss\_wages         | The Gender Pay Gap in the General Social Survey                             |
+| mvprod             | Motor Vehicle Production by Country, 1950-2019                              |
+| steves\_clothes    | Steve’s (Professional) Clothes, as of March 3, 2019                         |
+| uniondensity       | Cross-National Rates of Trade Union Density                                 |
+| usa\_states        | State Abbreviations, Names, and Regions/Divisions                           |
+| yugo\_sales        | Yugo Sales in the United States, 1985-1992                                  |
