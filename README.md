@@ -50,6 +50,7 @@ The ensuing output will look like this.
 | arg\_tariff        | Simple Mean Tariff Rate for Argentina                                       |
 | asn\_stats         | Aviation Safety Network Statistics, 1942-2019                               |
 | clemson\_temps     | Daily Clemson Temperature Data                                              |
+| co2emissions       | Carbon Dioxide Emissions Data                                               |
 | coffee\_imports    | Coffee Imports for Select Importing Countries                               |
 | coffee\_price      | The Primary Commodity Price for Coffee (Arabica, Robustas)                  |
 | election\_turnout  | State-Level Education and Voter Turnout in 2016                             |
