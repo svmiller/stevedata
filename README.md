@@ -54,6 +54,7 @@ The ensuing output will look like this.
 | eq\_passengercars  | Export Quality Data for Passenger Cars, 1963-2014   |
 | eustates           | EU Member States (Current as of 2019)               |
 | fakeLogit          | Fake Data for a Logistic Regression                 |
+| ghp100k            | Gun Homicide Rate per 100,000 People, by Country    |
 | gss\_abortion      | Abortion Opinions in the General Social Survey      |
 | gss\_wages         | The Gender Pay Gap in the General Social Survey     |
 | mvprod             | Motor Vehicle Production by Country, 1950-2019      |
