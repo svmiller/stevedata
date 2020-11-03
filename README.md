@@ -59,6 +59,7 @@ The ensuing output will look like this.
 | gss\_abortion      | Abortion Opinions in the General Social Survey                              |
 | gss\_wages         | The Gender Pay Gap in the General Social Survey                             |
 | mvprod             | Motor Vehicle Production by Country, 1950-2019                              |
+| recessions         | United States Recessions, 1855-present                                      |
 | steves\_clothes    | Steve’s (Professional) Clothes, as of March 3, 2019                         |
 | uniondensity       | Cross-National Rates of Trade Union Density                                 |
 | usa\_states        | State Abbreviations, Names, and Regions/Divisions                           |
