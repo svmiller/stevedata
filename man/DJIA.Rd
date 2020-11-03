@@ -8,7 +8,7 @@
 A data frame with 36951 observations on the following 2 variables.
 \describe{
 \item{\code{date}}{the date}
-\item{\code{DJIA}}{the value of the the Dow Jones Industrial Average at daily close}
+\item{\code{value}}{the value of the the Dow Jones Industrial Average at daily close}
 }
 }
 \usage{
