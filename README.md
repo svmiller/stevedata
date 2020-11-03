@@ -40,6 +40,7 @@ The ensuing output will look like this.
 | **Object Name**    | **Title/Description**                               |
 | :----------------- | :-------------------------------------------------- |
 | Arca               | NYSE Arca Steel Index data, 2017–present            |
+| DJIA               | Dow Jones Industrial Average, 1885-Present          |
 | Datasaurus         | The Datasaurus Dozen                                |
 | ESS9GB             | British Attitudes Toward Immigration (2018-19)      |
 | aluminum\_premiums | LME Aluminum Premiums Data                          |
