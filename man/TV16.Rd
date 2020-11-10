@@ -39,8 +39,8 @@ TV16
 }
 \description{
 These data come from the 2016 CCES and allow interested students to model the
-individual correlates of the Trump vote in 2016. Code/analysis heavily indebted
-to a 2017 analysis I did on my blog (see references).
+ individual correlates of the Trump vote in 2016. Code/analysis heavily indebted
+ to a 2017 analysis I did on my blog (see references).
 }
 \details{
 The latent estimates for religiosity, cognitive racism, and empathetic

@@ -4,10 +4,10 @@ NULL
 #' Carbon Dioxide Emissions Data
 #'
 #' This is a sample data set, cobbled from various sources, about
-#' carbon dioxide emissions in the history of the planet from 800,000 BCE to
-#' the most recently concluded calendar year. I use this for a data visualization
-#' example for a lecture on climate change and international politics.
-#' Data communicate yearly averages/estimates.
+#'  carbon dioxide emissions in the history of the planet from 800,000 BCE to
+#'  the most recently concluded calendar year. I use this for a data visualization
+#'  example for a lecture on climate change and international politics.
+#'  Data communicate yearly averages/estimates.
 #'
 #' @format A data frame with 3,099 observations on the following 2 variables.
 #' \describe{

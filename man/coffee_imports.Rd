@@ -16,7 +16,8 @@ A data frame with 29 observations on the following 3 variables.
 coffee_imports
 }
 \description{
-A simple time series on coffee imports for select importing countries (i.e. European Union + Japan + Russia + Tunisia + United States).
+A simple time series on coffee imports for select importing
+ countries (i.e. European Union + Japan + Russia + Tunisia + United States).
 }
 \details{
 Data come from the International Coffee Organization, of which I feel I should be a member.

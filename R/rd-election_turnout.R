@@ -3,7 +3,8 @@ NULL
 
 #' State-Level Education and Voter Turnout in 2016
 #'
-#' A simple data set on education and state-level (+ DC) turnout in the 2016 presidential election. This is inspired by what Pollock (2012) does in his book.
+#' A simple data set on education and state-level (+ DC) turnout in the 2016
+#'  presidential election. This is inspired by what Pollock (2012) does in his book.
 #'
 #' @format A data frame with 51 observations on the following 11 variables.
 #' \describe{

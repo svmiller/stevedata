@@ -4,7 +4,7 @@ NULL
 #' United States Recessions, 1855-present
 #'
 #' Data on U.S. recessions, past to present. Data include information on contraction,
-#' expansion, and cycle.
+#'  expansion, and cycle.
 #'
 #' @format A data frame with 35 observations on the following 8 variables.
 #' \describe{

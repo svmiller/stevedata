@@ -30,6 +30,6 @@ anes_prochoice
 }
 \description{
 A simple data set for in-class illustration about how to estimate and interpret
-interactive relationships. The data here are deliberately minimal for that end.
+ interactive relationships. The data here are deliberately minimal for that end.
 }
 \keyword{datasets}

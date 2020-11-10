@@ -4,7 +4,7 @@ NULL
 #' The Datasaurus Dozen
 #'
 #' An illustrative exercise in never trusting the summary statistics without
-#' also visualizing them.
+#'  also visualizing them.
 #'
 #' @format A data frame with 1,846 observations on the following 3 variables.
 #' \describe{

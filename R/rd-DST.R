@@ -4,9 +4,9 @@ NULL
 #' Casualties/Fatalities in the U.S. for Drunk-Driving, Suicide, and Terrorism
 #'
 #' These are fatalities (and, in the case of terrorism, casualties as well) for
-#' drunk-driving, suicide, and acts of terrorism in the U.S. spanning 1970 to 2018.
-#' Only one of these is sufficiently important to command public attention despite
-#' being the least severe public bad. Do you want to guess which one?
+#'  drunk-driving, suicide, and acts of terrorism in the U.S. spanning 1970 to 2018.
+#'  Only one of these is sufficiently important to command public attention despite
+#'  being the least severe public bad. Do you want to guess which one?
 #'
 #' @format A data frame with 49 observations on the following 5 variables.
 #' \describe{

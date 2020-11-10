@@ -4,8 +4,8 @@ NULL
 #' The Individual Correlates of the Trump Vote in 2016
 #'
 #' These data come from the 2016 CCES and allow interested students to model the
-#' individual correlates of the Trump vote in 2016. Code/analysis heavily indebted
-#' to a 2017 analysis I did on my blog (see references).
+#'  individual correlates of the Trump vote in 2016. Code/analysis heavily indebted
+#'  to a 2017 analysis I did on my blog (see references).
 #'
 #' @format A data frame with 64600 observations on the following 2 variables.
 #' \describe{

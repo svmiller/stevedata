@@ -17,7 +17,7 @@ yugo_sales
 }
 \description{
 A data set on Yugo sales vis-a-vis two competing models in the United States
-from 1985 to 1992.
+ from 1985 to 1992.
 }
 \details{
 Data come from \url{carsalesbase.com}. I'm aware the inclusion of the

@@ -4,12 +4,12 @@ NULL
 #' Abortion Opinions in the General Social Survey
 #'
 #' This is a toy data set derived from the General Social Survey that I intend
-#' to use for several purposes. First, the battery of abortion items can serve as
-#' toy data to illustrate mixed effects modeling as equivalent to a
-#' one-parameter (Rasch) model. Second, I include some covariates to also do some
-#' basic regressions. I think abortion opinions are useful learning tools for
-#' statistical inference for college students. Third, there's a time-series component
-#' as well for understanding how abortion attitudes have changed over time.
+#'  to use for several purposes. First, the battery of abortion items can serve as
+#'  toy data to illustrate mixed effects modeling as equivalent to a
+#'  one-parameter (Rasch) model. Second, I include some covariates to also do some
+#'  basic regressions. I think abortion opinions are useful learning tools for
+#'  statistical inference for college students. Third, there's a time-series component
+#'  as well for understanding how abortion attitudes have changed over time.
 #'
 #' @format A data frame with 64,814 observations on the following 18 variables.
 #' \describe{

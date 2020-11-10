@@ -4,7 +4,7 @@ NULL
 #' U.S. Presidents and Their Terms in Office
 #'
 #' This should be self-evident. Here are all U.S. presidents who have completed
-#' their terms in office (i.e. excluding the current one).
+#'  their terms in office (i.e. excluding the current one).
 #'
 #' @format A data frame with 44 observations on the following 3 variables.
 #' \describe{

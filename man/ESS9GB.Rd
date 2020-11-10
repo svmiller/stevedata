@@ -37,8 +37,8 @@ ESS9GB
 }
 \description{
 This is a replication data originally set to accompany a blog post and
-presentation to students at the University of Nottingham on March 2020.
-However, COVID-19 led to the cancellation of the talk.
+ presentation to students at the University of Nottingham on March 2020.
+ However, COVID-19 led to the cancellation of the talk.
 }
 \details{
 See accompanying blog post at \url{http://svmiller.com/blog/2020/03/what-explains-british-attitudes-toward-immigration-a-pedagogical-example/}.

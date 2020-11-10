@@ -26,7 +26,7 @@ eq_passengercars
 }
 \description{
 Data from the International Monetary Fund for the export quality and
-unit/trade value of passenger cars for all available countries and years
-from 1963 to 2014.
+ unit/trade value of passenger cars for all available countries and years
+ from 1963 to 2014.
 }
 \keyword{datasets}

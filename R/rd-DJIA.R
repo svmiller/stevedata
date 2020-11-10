@@ -4,9 +4,9 @@ NULL
 #' Dow Jones Industrial Average, 1885-Present
 #'
 #' This data set contains the value of the Dow Jones Industrial Average
-#' on daily close for all available dates (to the best of my knowledge) from 1885
-#' to the most recently concluded calendar year. Extensions shouldn't be too
-#' difficult with existing packages.
+#'  on daily close for all available dates (to the best of my knowledge) from 1885
+#'  to the most recently concluded calendar year. Extensions shouldn't be too
+#'  difficult with existing packages.
 #'
 #' @format A data frame with 36951 observations on the following 2 variables.
 #' \describe{

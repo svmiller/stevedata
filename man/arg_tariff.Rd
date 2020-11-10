@@ -16,7 +16,8 @@ A data frame with three variables:
 arg_tariff
 }
 \description{
-Simple mean tariff rate for Argentina, starting in 1980. The goal is to keep these data current.
+Simple mean tariff rate for Argentina, starting in 1980.
+ The goal is to keep these data current.
 }
 \details{
 Data come from various sources. World Bank estimates are used for

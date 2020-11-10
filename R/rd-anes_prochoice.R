@@ -4,7 +4,7 @@ NULL
 #' Abortion Attitudes (ANES, 2012)
 #'
 #' A simple data set for in-class illustration about how to estimate and interpret
-#' interactive relationships. The data here are deliberately minimal for that end.
+#'  interactive relationships. The data here are deliberately minimal for that end.
 #'
 #' @format A data frame with 5914 observations on the following 14 variables.
 #' \describe{

@@ -23,7 +23,8 @@ A data frame with eight variables:
 gss_wages
 }
 \description{
-Wage data from the General Social Survey (1974-2018) to illustrate wage discrepancies by gender (while also considering respondent occupation, age, and education).
+Wage data from the General Social Survey (1974-2018) to illustrate
+ wage discrepancies by gender (while also considering respondent occupation, age, and education).
 }
 \details{
 For further details, see \url{https://gssdataexplorer.norc.org}. Consult \url{https://census.gov} for more information about occupation codes.

@@ -3,7 +3,8 @@ NULL
 
 #' The Gender Pay Gap in the General Social Survey
 #'
-#' Wage data from the General Social Survey (1974-2018) to illustrate wage discrepancies by gender (while also considering respondent occupation, age, and education).
+#' Wage data from the General Social Survey (1974-2018) to illustrate
+#'  wage discrepancies by gender (while also considering respondent occupation, age, and education).
 #'
 #' @format A data frame with eight variables:
 #' \describe{

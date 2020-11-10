@@ -4,8 +4,8 @@ NULL
 #' Export Quality Data for Passenger Cars, 1963-2014
 #'
 #' Data from the International Monetary Fund for the export quality and
-#' unit/trade value of passenger cars for all available countries and years
-#' from 1963 to 2014.
+#'  unit/trade value of passenger cars for all available countries and years
+#'  from 1963 to 2014.
 #'
 #' @format A data frame with 60424 observations on the following 6 variables.
 #' \describe{

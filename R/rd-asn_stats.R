@@ -4,8 +4,8 @@ NULL
 #' Aviation Safety Network Statistics, 1942-2019
 #'
 #' These are yearly counts on air accidents and fatalities, including measures for
-#' corporate jet accidents and hijackings. The hijackings are of particular interest
-#' to me, at least from a historical terrorism perspective.
+#'  corporate jet accidents and hijackings. The hijackings are of particular interest
+#'  to me, at least from a historical terrorism perspective.
 #'
 #' @format A data frame with 78 observations on the following 7 variables.
 #' \describe{

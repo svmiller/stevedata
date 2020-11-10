@@ -3,9 +3,10 @@ NULL
 
 #' Daily Clemson Temperature Data
 #'
-#' This data set contains daily temperatures (highs) for Clemson, South Carolina from Jan. 1, 1930 to
-#' the end of the most recent calendar year. The goal is to update this periodically with new data for
-#' as long as I live in this town.
+#' This data set contains daily temperatures (highs) for Clemson, South Carolina
+#'  from Jan. 1, 1930 to the end of the most recent calendar year.
+#'  The goal is to update this periodically with new data for
+#'  as long as I live in this town.
 #'
 #' @format A data frame with 32,777 observations on the following 8 variables.
 #' \describe{

@@ -4,8 +4,8 @@ NULL
 #' The Primary Commodity Price for Coffee (Arabica, Robustas)
 #'
 #' This is primary commodity price data for coffee (Arabica, Robustas)
-#' from 1980 to the present. I manually update these data since FRED's
-#' coverage since 2017 has been spotty.
+#'  from 1980 to the present. I manually update these data since FRED's
+#'  coverage since 2017 has been spotty.
 #'
 #' @format A data frame with 489 observations on the following 3 variables.
 #' \describe{
