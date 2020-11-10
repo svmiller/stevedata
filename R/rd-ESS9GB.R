@@ -4,7 +4,7 @@ NULL
 #' British Attitudes Toward Immigration (2018-19)
 #'
 #' This is a replication data originally set to accompany a blog post and
-#'  presentation to students at the University of Nottingham on March 2020.
+#'  presentation to students at the University of Nottingham in March 2020.
 #'  However, COVID-19 led to the cancellation of the talk.
 #'
 #' @format A data frame with 1,905 observations on the following 19 variables.
