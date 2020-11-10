@@ -3,7 +3,7 @@ NULL
 
 #' Gun Homicide Rate per 100,000 People, by Country
 #'
-#' This the yearly rate of gun homicides per 100,000 people in the population,
+#' This is the yearly rate of gun homicides per 100,000 people in the population,
 #'  selecting on "Western" countries of interest.
 #'
 #' @format A data frame with 561 observations on the following 3 variables.
