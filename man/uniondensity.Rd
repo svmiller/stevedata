@@ -40,8 +40,7 @@ uniondensity
 Cross-national data on relative size of the trade unions and predictors in 20 countries.
  This is a data set of interest to replicating Western and Jackman (1994),
  who themselves were addressing a debate between Wallerstein and Stephens on
- which of two highly correlated predictors (\code{size}, \code{concen}) explains
- trade union density (\code{union}).
+ which of two highly correlated predictors explains trade union density.
 }
 \details{
 Data documentation are derived from Simon Jackman's \code{pscl} package.

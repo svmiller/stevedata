@@ -5,7 +5,8 @@ NULL
 #'
 #' This data set contains yearly observations by the Environmental Protection Agency
 #'  on the concentration of sulfur dioxide in parts per billion, based on 35 sites.
-#'  I use this for in-class illustration. Note that the national standard is 75ppb.
+#'  I use this for in-class illustration. Note that the national standard is
+#'  75 parts per billion.
 #'
 #' @format A data frame with 40 observations on the following 4 variables.
 #' \describe{
