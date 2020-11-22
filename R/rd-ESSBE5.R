@@ -1,0 +1,29 @@
+#' @importFrom tibble tibble
+NULL
+
+#' Trust in the Police in Belgium (European Social Survey, Round 5)
+#'
+#' This is a sample data set cobbled from the fifth round of
+#'  European Social Survey data for Belgium. It offers a means to do a
+#'  basic replication of some of Chapter 5 of The SAGE Handbook of
+#'  Regression Analysis and Causal Inference.
+#'
+#' @format A data frame with 1704 observations on the following 10 variables.
+#' \describe{
+#'     \item{\code{essround}}{a numeric for the ESS round}
+#'     \item{\code{edition}}{a character for the edition number of the 5th round}
+#'     \item{\code{idno}}{a numeric id number}
+#'     \item{\code{cntry}}{a character vector for the country (i.e. Belgium, or \code{BE})}
+#'     \item{\code{trstplc}}{a numeric vector for trust in the police on an 11-point scale. Higher values indicate more trust. 0 = "no trust at all". 10 = "complete trust"}
+#'     \item{\code{agea}}{a numeric vector for the respondent's age}
+#'     \item{\code{female}}{a numeric vector for whether the respondent is a woman or not.}
+#'     \item{\code{eduyrs}}{a numeric vector for years of education.}
+#'     \item{\code{hincfel}}{a numeric vector for the respondent's feeling about their household income. 1 = "living comfortably", 2 = "coping on present income", 3 = "difficult on present income", 4 = "very difficult on present income"}
+#'     \item{\code{plcpvcr}}{a numeric vector for how successful police are at preventing crimes in a country on an 11-point scale. 0 = "extremely unsuccessful". 10  = "extremely successful."}
+#' }
+#'
+#' @details See Chapter 5 of The SAGE Handbook of Regression Analysis and Causal Inference for more information.
+#'
+#' @source European Social Survey (Round 5)
+#'
+"ESSBE5"
