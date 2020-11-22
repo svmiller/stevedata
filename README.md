@@ -1,10 +1,10 @@
 
-# Steve’s Toy Data
+# `stevedata`: Steve’s Toy Data
 
 <img src="http://svmiller.com/images/stevedata-hexlogo.png" alt="My stevedata  hexlogo" align="right" width="200" style="padding: 0 15px; float: right;"/>
 
 `stevedata` is an R package full of toy data sets that you may find
-useful for your own purposes. Namely, I’ve created probably over a
+useful for various purposes. Namely, I’ve created probably over a
 hundred toy data sets along the way, either to riff on some topic on [my
 blog](http://svmiller.com/blog), show my students something in one of
 [my many classes](http://svmiller.com/teaching), or just to entertain
@@ -14,6 +14,12 @@ these into [`stevemisc`](https://github.com/svmiller/stevemisc), but I
 want to keep that package mostly about the functions (and whatever data
 are useful for showing off the functions). `stevedata` will have all my
 toy data going forward.
+
+I will also be having my methods students (undergraduate and graduate)
+download this package to work through problem sets in the R programming
+language. It’d be a benefit to them (and less hassle/headache for
+myself) to have my students download this package from CRAN rather than
+workthrough potential Curl issues by installing through Github.
 
 ## Installation
 
