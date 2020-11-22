@@ -43,51 +43,52 @@ data(package = "stevedata")
 
 The ensuing output will look like this.
 
-| **Object Name**          | **Title/Description**                                                       |
-| :----------------------- | :-------------------------------------------------------------------------- |
-| Arca                     | NYSE Arca Steel Index data, 2017–present                                    |
-| DJIA                     | Dow Jones Industrial Average, 1885-Present                                  |
-| DST                      | Casualties/Fatalities in the U.S. for Drunk-Driving, Suicide, and Terrorism |
-| Datasaurus               | The Datasaurus Dozen                                                        |
-| ESS9GB                   | British Attitudes Toward Immigration (2018-19)                              |
-| LOTI                     | Land-Ocean Temperature Index, 1880-2020                                     |
-| LTPT                     | Long-Term Price Trends for Computers, TVs, and Related Items                |
-| LTWT                     | “Let Them Watch TV”                                                         |
-| ODGI                     | Ozone Depleting Gas Index Data, 1992-2019                                   |
-| Presidents               | U.S. Presidents and Their Terms in Office                                   |
-| TV16                     | The Individual Correlates of the Trump Vote in 2016                         |
-| aluminum\_premiums       | LME Aluminum Premiums Data                                                  |
-| anes\_prochoice          | Abortion Attitudes (ANES, 2012)                                             |
-| arcticseaice             | Arctic Sea Ice Extent Data, 1901-2015                                       |
-| arg\_tariff              | Simple Mean Tariff Rate for Argentina                                       |
-| asn\_stats               | Aviation Safety Network Statistics, 1942-2019                               |
-| clemson\_temps           | Daily Clemson Temperature Data                                              |
-| co2emissions             | Carbon Dioxide Emissions Data                                               |
-| coffee\_imports          | Coffee Imports for Select Importing Countries                               |
-| coffee\_price            | The Primary Commodity Price for Coffee (Arabica, Robustas)                  |
-| election\_turnout        | State-Level Education and Voter Turnout in 2016                             |
-| eq\_passengercars        | Export Quality Data for Passenger Cars, 1963-2014                           |
-| eustates                 | EU Member States (Current as of 2019)                                       |
-| fakeLogit                | Fake Data for a Logistic Regression                                         |
-| fakeTSCS                 | Fake Data for a Time-Series Cross-Section                                   |
-| fakeTSD                  | Fake Data for a Time-Series                                                 |
-| ghp100k                  | Gun Homicide Rate per 100,000 People, by Country                            |
-| gss\_abortion            | Abortion Opinions in the General Social Survey                              |
-| gss\_wages               | The Gender Pay Gap in the General Social Survey                             |
-| mvprod                   | Motor Vehicle Production by Country, 1950-2019                              |
-| quartets                 | Anscombe’s (1973) Quartets                                                  |
-| recessions               | United States Recessions, 1855-present                                      |
-| sealevels                | Global Average Absolute Sea Level Change, 1880–2015                         |
-| so2concentrations        | Sulfur Dioxide Emissions, 1980-2017                                         |
-| steves\_clothes          | Steve’s (Professional) Clothes, as of March 3, 2019                         |
-| sugar\_price             | IMF Primary Commodity Price Data for Sugar                                  |
-| uniondensity             | Cross-National Rates of Trade Union Density                                 |
-| usa\_chn\_gdp\_forecasts | United States-China GDP and GDP Forecasts, 1960-2050                        |
-| usa\_computers           | Percentage of U.S. Households with Computer Access, by Year                 |
-| usa\_states              | State Abbreviations, Names, and Regions/Divisions                           |
-| wvs\_ccodes              | Syncing Word Values Survey Country Codes with CoW Codes                     |
-| wvs\_immig               | Attitudes about Immigration in the World Values Survey                      |
-| yugo\_sales              | Yugo Sales in the United States, 1985-1992                                  |
+| **Object Name**          | **Title/Description**                                                         |
+| :----------------------- | :---------------------------------------------------------------------------- |
+| Arca                     | NYSE Arca Steel Index data, 2017–present                                      |
+| DJIA                     | Dow Jones Industrial Average, 1885-Present                                    |
+| DST                      | Casualties/Fatalities in the U.S. for Drunk-Driving, Suicide, and Terrorism   |
+| Datasaurus               | The Datasaurus Dozen                                                          |
+| ESS9GB                   | British Attitudes Toward Immigration (2018-19)                                |
+| LOTI                     | Land-Ocean Temperature Index, 1880-2020                                       |
+| LTPT                     | Long-Term Price Trends for Computers, TVs, and Related Items                  |
+| LTWT                     | “Let Them Watch TV”                                                           |
+| ODGI                     | Ozone Depleting Gas Index Data, 1992-2019                                     |
+| Presidents               | U.S. Presidents and Their Terms in Office                                     |
+| TV16                     | The Individual Correlates of the Trump Vote in 2016                           |
+| aluminum\_premiums       | LME Aluminum Premiums Data                                                    |
+| anes\_prochoice          | Abortion Attitudes (ANES, 2012)                                               |
+| arcticseaice             | Arctic Sea Ice Extent Data, 1901-2015                                         |
+| arg\_tariff              | Simple Mean Tariff Rate for Argentina                                         |
+| asn\_stats               | Aviation Safety Network Statistics, 1942-2019                                 |
+| clemson\_temps           | Daily Clemson Temperature Data                                                |
+| co2emissions             | Carbon Dioxide Emissions Data                                                 |
+| coffee\_imports          | Coffee Imports for Select Importing Countries                                 |
+| coffee\_price            | The Primary Commodity Price for Coffee (Arabica, Robustas)                    |
+| election\_turnout        | State-Level Education and Voter Turnout in 2016                               |
+| eq\_passengercars        | Export Quality Data for Passenger Cars, 1963-2014                             |
+| eustates                 | EU Member States (Current as of 2019)                                         |
+| fakeLogit                | Fake Data for a Logistic Regression                                           |
+| fakeTSCS                 | Fake Data for a Time-Series Cross-Section                                     |
+| fakeTSD                  | Fake Data for a Time-Series                                                   |
+| ghp100k                  | Gun Homicide Rate per 100,000 People, by Country                              |
+| gss\_abortion            | Abortion Opinions in the General Social Survey                                |
+| gss\_wages               | The Gender Pay Gap in the General Social Survey                               |
+| mvprod                   | Motor Vehicle Production by Country, 1950-2019                                |
+| quartets                 | Anscombe’s (1973) Quartets                                                    |
+| recessions               | United States Recessions, 1855-present                                        |
+| sealevels                | Global Average Absolute Sea Level Change, 1880–2015                           |
+| so2concentrations        | Sulfur Dioxide Emissions, 1980-2017                                           |
+| steves\_clothes          | Steve’s (Professional) Clothes, as of March 3, 2019                           |
+| sugar\_price             | IMF Primary Commodity Price Data for Sugar                                    |
+| uniondensity             | Cross-National Rates of Trade Union Density                                   |
+| usa\_chn\_gdp\_forecasts | United States-China GDP and GDP Forecasts, 1960-2050                          |
+| usa\_computers           | Percentage of U.S. Households with Computer Access, by Year                   |
+| usa\_states              | State Abbreviations, Names, and Regions/Divisions                             |
+| wvs\_ccodes              | Syncing Word Values Survey Country Codes with CoW Codes                       |
+| wvs\_immig               | Attitudes about Immigration in the World Values Survey                        |
+| wvs\_justifbribe         | Attitudes about the Justifiability of Bribe-Taking in the World Values Survey |
+| yugo\_sales              | Yugo Sales in the United States, 1985-1992                                    |
 
 Here is a simple scraping job to provide more information (by way of the
 `description` field in the associated R Documentation file).
@@ -136,4 +137,5 @@ Here is a simple scraping job to provide more information (by way of the
 | usa\_states              | A simple data set from state.abb, state.name, state.region, and state.division (+ District of Columbia). I’d rather just have all these in one place.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | wvs\_ccodes              | A simple data set that syncs World Values Survey country codes (s003) with corresponding country codes from the Correlates of War state system membership data.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | wvs\_immig               | A data set on attitudes about immigration for all observations in the third to sixth wave of the World Values Survey. I use these data for in-class illustration.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| wvs\_justifbribe         | A data set on attitudes about the justifiability of bribe-taking for all observations in the third to sixth wave of the World Values Survey. I use these data for in-class illustration about seemingly interval-level, but information-poor measurements.                                                                                                                                                                                                                                                                                                                                                                                                            |
 | yugo\_sales              | A data set on Yugo sales vis-a-vis two competing models in the United States from 1985 to 1992.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
