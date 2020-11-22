@@ -18,6 +18,7 @@ NULL
 #' }
 #'
 #' @details 1 = "let anyone come". 2 = "as long as jobs are available". 3 = "strict limits".
-#' 4 = "Prohibit people from coming" for the \code{e143} variable.
+#' 4 = "Prohibit people from coming" for the \code{e143} variable. See \code{?wvs_ccodes} for
+#' more information about naming/identifying countries.
 #'
 "wvs_immig"
