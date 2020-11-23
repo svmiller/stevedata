@@ -1,5 +1,5 @@
 
-# `stevedata`: Steve’s Toy Data
+# `stevedata`: Steve’s Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics
 
 <img src="http://svmiller.com/images/stevedata-hexlogo.png" alt="My stevedata  hexlogo" align="right" width="200" style="padding: 0 15px; float: right;"/>
 
@@ -68,9 +68,8 @@ devtools::install_github("svmiller/stevedata")
 
 ## Usage
 
-The usage, as of writing, is minimal. This should be a pretty rich data
-package when I’m done with it. Until then, you can do this to see what’s
-in it.
+The data set already has a lot to offer those who might be curious about
+its contents. You can do this to see what is in it.
 
 ``` r
 data(package = "stevedata")
@@ -78,63 +77,65 @@ data(package = "stevedata")
 
 The ensuing output will look like this.
 
-| **Object Name**          | **Title/Description**                                                         |
-| :----------------------- | :---------------------------------------------------------------------------- |
-| Arca                     | NYSE Arca Steel Index data, 2017–present                                      |
-| CP77                     | Education Expenditure Data (Chatterjee and Price, 1977)                       |
-| DJIA                     | Dow Jones Industrial Average, 1885-Present                                    |
-| DST                      | Casualties/Fatalities in the U.S. for Drunk-Driving, Suicide, and Terrorism   |
-| Datasaurus               | The Datasaurus Dozen                                                          |
-| Dee04                    | Are There Civics Returns to Education?                                        |
-| ESS9GB                   | British Attitudes Toward Immigration (2018-19)                                |
-| ESSBE5                   | Trust in the Police in Belgium (European Social Survey, Round 5)              |
-| Guber99                  | School Expenditures and Test Scores for 50 States, 1994-95                    |
-| LOTI                     | Land-Ocean Temperature Index, 1880-2020                                       |
-| LTPT                     | Long-Term Price Trends for Computers, TVs, and Related Items                  |
-| LTWT                     | “Let Them Watch TV”                                                           |
-| Newhouse77               | Medical-Care Expenditure: A Cross-National Survey (Newhouse, 1977)            |
-| ODGI                     | Ozone Depleting Gas Index Data, 1992-2019                                     |
-| Presidents               | U.S. Presidents and Their Terms in Office                                     |
-| TV16                     | The Individual Correlates of the Trump Vote in 2016                           |
-| aluminum\_premiums       | LME Aluminum Premiums Data                                                    |
-| anes\_prochoice          | Abortion Attitudes (ANES, 2012)                                               |
-| arcticseaice             | Arctic Sea Ice Extent Data, 1901-2015                                         |
-| arg\_tariff              | Simple Mean Tariff Rate for Argentina                                         |
-| asn\_stats               | Aviation Safety Network Statistics, 1942-2019                                 |
-| clemson\_temps           | Daily Clemson Temperature Data                                                |
-| co2emissions             | Carbon Dioxide Emissions Data                                                 |
-| coffee\_imports          | Coffee Imports for Select Importing Countries                                 |
-| coffee\_price            | The Primary Commodity Price for Coffee (Arabica, Robustas)                    |
-| election\_turnout        | State-Level Education and Voter Turnout in 2016                               |
-| eq\_passengercars        | Export Quality Data for Passenger Cars, 1963-2014                             |
-| eustates                 | EU Member States (Current as of 2019)                                         |
-| fakeLogit                | Fake Data for a Logistic Regression                                           |
-| fakeTSCS                 | Fake Data for a Time-Series Cross-Section                                     |
-| fakeTSD                  | Fake Data for a Time-Series                                                   |
-| ghp100k                  | Gun Homicide Rate per 100,000 People, by Country                              |
-| gss\_abortion            | Abortion Opinions in the General Social Survey                                |
-| gss\_spending            | Attitudes Toward National Spending in the General Social Survey (2018)        |
-| gss\_wages               | The Gender Pay Gap in the General Social Survey                               |
-| illiteracy30             | Illiteracy in the Population 10 Years Old and Over, 1930                      |
-| mm\_nhis                 | Data from the 2009 National Health Interview Survey (NHIS)                    |
-| mm\_randhie              | Data from the RAND Health Insurance Experiment (HIE)                          |
-| mvprod                   | Motor Vehicle Production by Country, 1950-2019                                |
-| pwt\_sample              | Penn World Table (9.1) Macroeconomic Data for Select Countries, 1950-2017     |
-| quartets                 | Anscombe’s (1973) Quartets                                                    |
-| recessions               | United States Recessions, 1855-present                                        |
-| sealevels                | Global Average Absolute Sea Level Change, 1880–2015                           |
-| so2concentrations        | Sulfur Dioxide Emissions, 1980-2017                                           |
-| steves\_clothes          | Steve’s (Professional) Clothes, as of March 3, 2019                           |
-| sugar\_price             | IMF Primary Commodity Price Data for Sugar                                    |
-| therms                   | Thermometer Ratings for Donald Trump and Barack Obama                         |
-| uniondensity             | Cross-National Rates of Trade Union Density                                   |
-| usa\_chn\_gdp\_forecasts | United States-China GDP and GDP Forecasts, 1960-2050                          |
-| usa\_computers           | Percentage of U.S. Households with Computer Access, by Year                   |
-| usa\_states              | State Abbreviations, Names, and Regions/Divisions                             |
-| wvs\_ccodes              | Syncing Word Values Survey Country Codes with CoW Codes                       |
-| wvs\_immig               | Attitudes about Immigration in the World Values Survey                        |
-| wvs\_justifbribe         | Attitudes about the Justifiability of Bribe-Taking in the World Values Survey |
-| yugo\_sales              | Yugo Sales in the United States, 1985-1992                                    |
+| **Object Name**          | **Title/Description**                                                                                                 |
+| :----------------------- | :-------------------------------------------------------------------------------------------------------------------- |
+| Arca                     | NYSE Arca Steel Index data, 2017–present                                                                              |
+| CFT15                    | Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate |
+| CP77                     | Education Expenditure Data (Chatterjee and Price, 1977)                                                               |
+| DJIA                     | Dow Jones Industrial Average, 1885-Present                                                                            |
+| DST                      | Casualties/Fatalities in the U.S. for Drunk-Driving, Suicide, and Terrorism                                           |
+| Datasaurus               | The Datasaurus Dozen                                                                                                  |
+| Dee04                    | Are There Civics Returns to Education?                                                                                |
+| ESS9GB                   | British Attitudes Toward Immigration (2018-19)                                                                        |
+| ESSBE5                   | Trust in the Police in Belgium (European Social Survey, Round 5)                                                      |
+| Guber99                  | School Expenditures and Test Scores for 50 States, 1994-95                                                            |
+| LOTI                     | Land-Ocean Temperature Index, 1880-2020                                                                               |
+| LTPT                     | Long-Term Price Trends for Computers, TVs, and Related Items                                                          |
+| LTWT                     | “Let Them Watch TV”                                                                                                   |
+| Newhouse77               | Medical-Care Expenditure: A Cross-National Survey (Newhouse, 1977)                                                    |
+| ODGI                     | Ozone Depleting Gas Index Data, 1992-2019                                                                             |
+| Presidents               | U.S. Presidents and Their Terms in Office                                                                             |
+| TV16                     | The Individual Correlates of the Trump Vote in 2016                                                                   |
+| aluminum\_premiums       | LME Aluminum Premiums Data                                                                                            |
+| anes\_prochoice          | Abortion Attitudes (ANES, 2012)                                                                                       |
+| arcticseaice             | Arctic Sea Ice Extent Data, 1901-2015                                                                                 |
+| arg\_tariff              | Simple Mean Tariff Rate for Argentina                                                                                 |
+| asn\_stats               | Aviation Safety Network Statistics, 1942-2019                                                                         |
+| clemson\_temps           | Daily Clemson Temperature Data                                                                                        |
+| co2emissions             | Carbon Dioxide Emissions Data                                                                                         |
+| coffee\_imports          | Coffee Imports for Select Importing Countries                                                                         |
+| coffee\_price            | The Primary Commodity Price for Coffee (Arabica, Robustas)                                                            |
+| election\_turnout        | State-Level Education and Voter Turnout in 2016                                                                       |
+| eq\_passengercars        | Export Quality Data for Passenger Cars, 1963-2014                                                                     |
+| eustates                 | EU Member States (Current as of 2019)                                                                                 |
+| fakeLogit                | Fake Data for a Logistic Regression                                                                                   |
+| fakeTSCS                 | Fake Data for a Time-Series Cross-Section                                                                             |
+| fakeTSD                  | Fake Data for a Time-Series                                                                                           |
+| ghp100k                  | Gun Homicide Rate per 100,000 People, by Country                                                                      |
+| gss\_abortion            | Abortion Opinions in the General Social Survey                                                                        |
+| gss\_spending            | Attitudes Toward National Spending in the General Social Survey (2018)                                                |
+| gss\_wages               | The Gender Pay Gap in the General Social Survey                                                                       |
+| illiteracy30             | Illiteracy in the Population 10 Years Old and Over, 1930                                                              |
+| mm\_mlda                 | Minimum Legal Drinking Age Fatalities Data                                                                            |
+| mm\_nhis                 | Data from the 2009 National Health Interview Survey (NHIS)                                                            |
+| mm\_randhie              | Data from the RAND Health Insurance Experiment (HIE)                                                                  |
+| mvprod                   | Motor Vehicle Production by Country, 1950-2019                                                                        |
+| pwt\_sample              | Penn World Table (9.1) Macroeconomic Data for Select Countries, 1950-2017                                             |
+| quartets                 | Anscombe’s (1973) Quartets                                                                                            |
+| recessions               | United States Recessions, 1855-present                                                                                |
+| sealevels                | Global Average Absolute Sea Level Change, 1880–2015                                                                   |
+| so2concentrations        | Sulfur Dioxide Emissions, 1980-2017                                                                                   |
+| steves\_clothes          | Steve’s (Professional) Clothes, as of March 3, 2019                                                                   |
+| sugar\_price             | IMF Primary Commodity Price Data for Sugar                                                                            |
+| therms                   | Thermometer Ratings for Donald Trump and Barack Obama                                                                 |
+| uniondensity             | Cross-National Rates of Trade Union Density                                                                           |
+| usa\_chn\_gdp\_forecasts | United States-China GDP and GDP Forecasts, 1960-2050                                                                  |
+| usa\_computers           | Percentage of U.S. Households with Computer Access, by Year                                                           |
+| usa\_states              | State Abbreviations, Names, and Regions/Divisions                                                                     |
+| wvs\_ccodes              | Syncing Word Values Survey Country Codes with CoW Codes                                                               |
+| wvs\_immig               | Attitudes about Immigration in the World Values Survey                                                                |
+| wvs\_justifbribe         | Attitudes about the Justifiability of Bribe-Taking in the World Values Survey                                         |
+| yugo\_sales              | Yugo Sales in the United States, 1985-1992                                                                            |
 
 Here is a simple scraping job to provide more information (by way of the
 `description` field in the associated R Documentation file). I include
@@ -143,6 +144,7 @@ these descriptions as a vignette as well.
 | **Object Name**          | **Description**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Arca                     | Daily data on the NYSE Arca Steel Index. These data are useful for me in teaching how Trump’s 2018 steel tariffs didn’t do much good for the steel industry.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| CFT15                    | This is the replication data for “Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate”, published in 2015 in Journal of Causal Infernece. I use these data to teach about regression discontinuity designs.                                                                                                                                                                                                                                                                                                                                                                                         |
 | CP77                     | This is a simple data set provided by Chatterjee and Price (1977, p. 108) that serves as a known example of heteroscedasticity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | DJIA                     | This data set contains the value of the Dow Jones Industrial Average on daily close for all available dates (to the best of my knowledge) from 1885 to the most recently concluded calendar year. Extensions shouldn’t be too difficult with existing packages.                                                                                                                                                                                                                                                                                                                                                                                                       |
 | DST                      | These are fatalities (and, in the case of terrorism, casualties as well) for drunk-driving, suicide, and acts of terrorism in the U.S. spanning 1970 to 2018. Only one of these is sufficiently important to command public attention despite being the least severe public bad. Do you want to guess which one?                                                                                                                                                                                                                                                                                                                                                      |
@@ -178,6 +180,7 @@ these descriptions as a vignette as well.
 | gss\_spending            | This is a toy data set that collects attitudes on toward national spending for various things in the General Social Survey for 2018. I use these data for in-class illustration about ordinal variables and ordinal models.                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | gss\_wages               | Wage data from the General Social Survey (1974-2018) to illustrate wage discrepancies by gender (while also considering respondent occupation, age, and education).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | illiteracy30             | This is perhaps the canonical data set for illustrating the ecological fallacy.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| mm\_mlda                 | These are data you can use to replicate the regression discontinuity design analyses throughout Chapter 4 of Mastering ’Metrics. Original analyses come from Carpenter and Dobkin (2009, 2011).                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | mm\_nhis                 | These are data from the 2009 NHIS survey. People who have read Mastering ‘Metrics should recognize these data. They’re featured prominently in that book and the authors’ discussion of random assignment and experiments.                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | mm\_randhie              | These are data from the RAND Health Insurance Experiment (HIE).People who have read Mastering ‘Metrics should recognize these data. They’re featured prominently in that book and the authors’ discussion of random assignment and experiments.                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | mvprod                   | Data, largely from Organisation Internationale des Constructeurs d’Automobiles (OICA), on motor vehicle production in various countries (and the world totals) from 1950 to 2019 at various intervals. Tallies include production of passenger cars, light commercial vehicles, minibuses, trucks, buses and coaches.                                                                                                                                                                                                                                                                                                                                                 |

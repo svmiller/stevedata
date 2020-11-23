@@ -2,7 +2,7 @@
 output: github_document
 ---
 
-# `stevedata`: Steve's Toy Data
+# `stevedata`: Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics
 
 <img src="http://svmiller.com/images/stevedata-hexlogo.png" alt="My stevedata  hexlogo" align="right" width="200" style="padding: 0 15px; float: right;"/>
 
@@ -24,7 +24,7 @@ devtools::install_github("svmiller/stevedata")
 
 ## Usage
 
-The usage, as of writing, is minimal. This should be a pretty rich data package when I'm done with it. Until then, you can do this to see what's in it.
+The data set already has a lot to offer those who might be curious about its contents. You can do this to see what is in it.
 
 ```r
 data(package = "stevedata")

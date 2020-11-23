@@ -1,0 +1,39 @@
+#' @importFrom tibble tibble
+NULL
+
+#' Minimum Legal Drinking Age Fatalities Data
+#'
+#' These are data you can use to replicate the regression discontinuity design
+#'  analyses throughout Chapter 4 of \emph{Mastering 'Metrics}.
+#'  Original analyses come from Carpenter and Dobkin (2009, 2011).
+#'
+#' @format A data frame with 50 observations on the following 19 variables.
+#' \describe{
+#' \item{\code{agecell}}{a numeric}
+#' \item{\code{all}}{a numeric}
+#' \item{\code{allfitted}}{a numeric}
+#' \item{\code{internal}}{a numeric}
+#' \item{\code{internalfitted}}{a numeric}
+#' \item{\code{external}}{a numeric}
+#' \item{\code{externalfitted}}{a numeric}
+#' \item{\code{alcohol}}{a numeric}
+#' \item{\code{alcoholfitted}}{a numeric}
+#' \item{\code{homicide}}{a numeric}
+#' \item{\code{homicidefitted}}{a numeric}
+#' \item{\code{suicide}}{a numeric}
+#' \item{\code{suicidefitted}}{a numeric}
+#' \item{\code{mva}}{a numeric}
+#' \item{\code{mvafitted}}{a numeric}
+#' \item{\code{drugs}}{a numeric}
+#' \item{\code{drugsfitted}}{a numeric}
+#' \item{\code{externalother}}{a numeric}
+#' \item{\code{externalotherfitted}}{a numeric}
+#' }
+#'
+#' @details These data are not well-documented. You guys are on your own here. Good luck.
+#'
+#' @references Carpenter, Christopher and Carlos Dobkin. 2009. "The Effect of Alcohol Consumption on Mortality: Regression Discontinuity Evidence from the Minimum Drinking Age". \emph{American Economic Journal: Applied Economics} 1(1): 164--182.
+#'
+#' Carpenter, Christopher and Carloss Dobkin. 2011. "The Minimum Legal Drinking Age and Public Health". \emph{Journal of Economic Perspectives} 25(2): 133--156.
+#'
+"mm_mlda"
