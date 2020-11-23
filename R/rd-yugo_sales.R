@@ -9,7 +9,7 @@ NULL
 #' @format A data frame with 24 observations on the following 3 variables.
 #' \describe{
 #' \item{\code{year}}{the year}
-#' \item{\code{statename}}{the car type, either the Hyundai Excel, Yugo, or Toyota Tercel}
+#' \item{\code{car}}{the car type, either the Hyundai Excel, Yugo, or Toyota Tercel}
 #' \item{\code{sales}}{the number of units sold in the United States}
 #' }
 #'

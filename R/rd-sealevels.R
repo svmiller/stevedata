@@ -14,7 +14,7 @@ NULL
 #' \item{\code{adjlev}}{adjusted sea level (in inches)}
 #' \item{\code{lb}}{the lower bound of the estimate (in inches)}
 #' \item{\code{ub}}{the upper bound of the estimate (in inches)}
-#' \item{\code{adjev_noaa}}{NOAA's adjusted sea level (in inches)}
+#' \item{\code{adjlev_noaa}}{NOAA's adjusted sea level (in inches)}
 #' }
 #'
 #' @source \url{https://www.epa.gov/climate-indicators/climate-change-indicators-sea-level}

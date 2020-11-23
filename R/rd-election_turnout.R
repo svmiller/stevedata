@@ -6,11 +6,10 @@ NULL
 #' A simple data set on education and state-level (+ DC) turnout in the 2016
 #'  presidential election. This is inspired by what Pollock (2012) does in his book.
 #'
-#' @format A data frame with 51 observations on the following 11 variables.
+#' @format A data frame with 51 observations on the following 10 variables.
 #' \describe{
 #' \item{\code{year}}{the year of the presidential election (2016)}
-#' \item{\code{stateabb}}{the state abbreviation}
-#' \item{\code{statename}}{the state's name}
+#' \item{\code{state}}{the state abbreviation}
 #' \item{\code{region}}{the state's Census region}
 #' \item{\code{division}}{the state's Census division}
 #' \item{\code{turnoutho}}{voter turnout for the highest office as percent of voting-eligible population (VEP)}

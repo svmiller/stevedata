@@ -23,5 +23,6 @@ Suggests:
     knitr,
     rmarkdown,
     tibble,
-    tools
+    tools,
+    testthat
 VignetteBuilder: knitr

@@ -14,7 +14,7 @@ NULL
 #' \item{\code{y}}{an outcome}
 #' \item{\code{x1}}{a continuous variable}
 #' \item{\code{x2}}{a binary variable}
-#' \item{\code{x2}}{randomly generated errors}
+#' \item{\code{e}}{randomly generated errors}
 #' }
 #'
 #' @details Errors are random-normal with a mean of 0 and a standard deviation of 1.

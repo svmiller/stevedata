@@ -14,6 +14,7 @@ A data frame with 5914 observations on the following 14 variables.
 \item{\code{incest}}{oppose/NFNO/favor [0:2] abortion if pregnancy was caused by incest}
 \item{\code{rape}}{oppose/NFNO/favor [0:2] abortion if pregnancy was caused by rape}
 \item{\code{bd}}{oppose/NFNO/favor [0:2] abortion if fetus would be born with serious birth defect}
+\item{\code{fin}}{oppose/NFNO/favor [0:2] abortion if having child would impose financial hardship}
 \item{\code{sex}}{oppose/NFNO/favor [0:2] abortion if the child will not be the sex the woman wants}
 \item{\code{choice}}{oppose/NFNO/favor [0:2] abortion if woman chooses to have one}
 \item{\code{pid}}{respondent's partisanship [0:2] (Democrat, Independent, Republican)}

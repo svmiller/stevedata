@@ -11,7 +11,7 @@ A data frame with 100 observations on the following 5 variables.
 \item{\code{y}}{an outcome}
 \item{\code{x1}}{a continuous variable}
 \item{\code{x2}}{a binary variable}
-\item{\code{x2}}{randomly generated errors}
+\item{\code{e}}{randomly generated errors}
 }
 }
 \usage{

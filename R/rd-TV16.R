@@ -7,13 +7,12 @@ NULL
 #'  individual correlates of the Trump vote in 2016. Code/analysis heavily indebted
 #'  to a 2017 analysis I did on my blog (see references).
 #'
-#' @format A data frame with 64600 observations on the following 2 variables.
+#' @format A data frame with 64600 observations on the following 21 variables.
 #' \describe{
 #'  \item{\code{uid}}{a numeric vector, a unique identifier for the respondent as they first appear in the CCES data.}
 #'  \item{\code{state}}{a character vector for the state in which the respondent resides}
 #'  \item{\code{votetrump}}{a numeric that equals 1 if the respondent voted says s/he voted for Trump in 2016.}
 #'  \item{\code{age}}{a numeric vector for age that is roughly calculated as 2016 - \code{birthyr}, as it's coded in the CCES data.}
-#'  \item{\code{generation}}{a character vector for the generation into which we can put the respondent. Generation cutoffs come from Pew (see references for exact link).}
 #'  \item{\code{female}}{a numeric that equals 1 if the respondent is a woman}
 #'  \item{\code{collegeed}}{a numeric vector that equals 1 if the respondent says s/he has a college degree}
 #'  \item{\code{racef}}{a character vector for the race of the respondent}

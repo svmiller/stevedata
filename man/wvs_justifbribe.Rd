@@ -5,14 +5,14 @@
 \alias{wvs_justifbribe}
 \title{Attitudes about the Justifiability of Bribe-Taking in the World Values Survey}
 \format{
-A data frame with 348,532 observations on the following 6 variables.
+A data frame with 348532 observations on the following 6 variables.
 \describe{
 \item{\code{s002}}{the World Values Survey wave}
 \item{\code{s003}}{the World Values Survey country code}
 \item{\code{country}}{the country name}
 \item{\code{s020}}{the survey year}
 \item{\code{uid}}{a unique identifier for the survey respondent}
-\item{\code{e143}}{an attitude about the justifiability of bribe-taking in the World Values Survey}
+\item{\code{f117}}{an attitude about the justifiability of bribe-taking in the World Values Survey}
 }
 }
 \usage{
