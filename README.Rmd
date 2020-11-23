@@ -42,7 +42,7 @@ tibble(`**Object Name**` = alldata$results[, "Item"],
   kable(., format="markdown")
 ```
 
-Here is a simple scraping job to provide more information (by way of the `description` field in the associated R Documentation file).
+Here is a simple scraping job to provide more information (by way of the `description` field in the associated R Documentation file). I include these descriptions as a vignette as well.
 
 ```{r, echo=F, eval=T}
 getdescript <- function(package){

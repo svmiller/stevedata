@@ -13,6 +13,8 @@ NULL
 #' \item{\code{sales}}{the end date of the term, as a date}
 #' }
 #'
-#' @details I scraped this from \url{https://www.presidentsusa.net/presvplist.html}
+#' @details I scraped this from \url{https://www.presidentsusa.net/presvplist.html}.
+#' Data frame is capital-P "Presidents" to avoid a conflict with the
+#' \code{presidents} data frame from the \code{datasets} package.
 #'
-"presidents"
+"Presidents"

@@ -28,4 +28,4 @@ NULL
 #'
 #' @source National Health Interview Survey (2009).
 #'
-"NHIS2009"
+"mm_nhis"
