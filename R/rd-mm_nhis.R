@@ -6,7 +6,7 @@ NULL
 #' These are data from the 2009 NHIS survey. People who have read
 #'  \emph{Mastering 'Metrics} should recognize these data. They're
 #'  featured prominently in that book and the authors' discussion of
-#'  random assignment and experiments
+#'  random assignment and experiments.
 #'
 #' @format A data frame with 18790 observations on the following 10 variables.
 #' \describe{

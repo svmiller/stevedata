@@ -29,7 +29,7 @@ mm_nhis
 These are data from the 2009 NHIS survey. People who have read
  \emph{Mastering 'Metrics} should recognize these data. They're
  featured prominently in that book and the authors' discussion of
- random assignment and experiments
+ random assignment and experiments.
 }
 \details{
 Data are already cleaned in a way that facilitates an easy
