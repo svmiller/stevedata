@@ -23,6 +23,6 @@ NULL
 #'
 #' @references Samuel H. Williamson, 'Daily Closing Value of the Dow Jones Average, 1885 to Present,' MeasuringWorth, 2019.
 #'
-#' Jeffrey A. Ryan and Joshua M. Ulrich, 'quantmod: Quantitative Financial Modelling Framework,' 2018.
+#' Jeffrey A. Ryan and Joshua M. Ulrich, '\code{quantmod}: Quantitative Financial Modelling Framework,' 2018.
 #'
 "DJIA"
