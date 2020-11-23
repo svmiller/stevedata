@@ -4,3 +4,5 @@
 ^README\.Rmd$
 ^LICENSE$
 ^cran-comments\.md$
+^NEWS\.md$
+^CRAN-RELEASE$
