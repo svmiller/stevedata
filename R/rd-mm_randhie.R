@@ -31,7 +31,7 @@ NULL
 #' \item{\code{ftf}}{the number of face-to-face visits for the respondent}
 #' \item{\code{out_inf}}{the total of out-patient expenses for the respondent}
 #' \item{\code{totadm}}{the number of hospital admissions for the respondent}
-#' \item{\code{tot_inf}}{th total health expenses for the respondent}
+#' \item{\code{tot_inf}}{the total health expenses for the respondent}
 #' }
 #'
 #' @details Data are already cleaned in a way that facilitates an easy

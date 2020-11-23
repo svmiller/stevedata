@@ -11,7 +11,7 @@ NULL
 #' \describe{
 #' \item{\code{s003}}{the World Values Survey country code}
 #' \item{\code{country}}{a character vector for the corresponding country name}
-#' \item{\code{ccode}}{the equivalent country code from the Correlates of War state system memberhsip data}
+#' \item{\code{ccode}}{the equivalent country code from the Correlates of War state system membership data}
 #' }
 #'
 #' @details \url{http://svmiller.com/blog/2015/06/syncing-word-values-survey-country-codes-with-cow-codes/}

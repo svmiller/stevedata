@@ -5,7 +5,7 @@ NULL
 #'
 #' This is the replication data for "Randomization Inference in the Regression
 #'  Discontinuity Design: An Application to Party Advantages in the U.S. Senate",
-#'  published in 2015 in \emph{Journal of Causal Infernece}. I use these data to
+#'  published in 2015 in \emph{Journal of Causal Inference}. I use these data to
 #'  teach about regression discontinuity designs.
 #'
 #' @format A data frame with 1390 observations on the following 9 variables.
@@ -21,9 +21,9 @@ NULL
 #' \item{\code{treatment}}{a numeric vector that is 1 if \code{margin} > 0 and is 0 if \code{margin} < 0.}
 #' }
 #'
-#' @source Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24. DOI: https://doi.org/10.1515/jci-2013-0010.
+#' @source Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24. DOI: \url{https://doi.org/10.1515/jci-2013-0010.}
 #'
-#' @references Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24. DOI: https://doi.org/10.1515/jci-2013-0010.
+#' @references Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24. DOI: \url{https://doi.org/10.1515/jci-2013-0010.}
 #'
 #' Calonico, Sebastian and Matias D. Cattaneo and Max H. Farrell and Rocio Titiunik. 2017. "\code{rdrobust}: Software for regression-discontinuity designs". \emph{The Stata Journal} 17(2):372--404.
 

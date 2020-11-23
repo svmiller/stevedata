@@ -17,7 +17,7 @@ NULL
 #'     \item{\code{degree}}{a numeric vector for the respondent's highest degree (0 = did not graduate high school, 1 = high school, 2 = junior college, 3 = bachelor degree, 4 = graduate degree)}
 #'     \item{\code{race}}{a numeric vector for the respondent's race (1 = white, 2 = black, 3 = other)}
 #'     \item{\code{rincom16}}{a numeric vector for the respondent's yearly income (min: 1 (under $1,000), max: 26 ($170,000 or over))}
-#'     \item{\code{partyid}}{a numeric vector for the respondent's party identification on the familiary seven-point scale. NOTE: D to R partisanship in this variable goes from 0 to 6. 7 = supporters of other parties. You may want to recode this if you want an interval-level measure of partisanship.}
+#'     \item{\code{partyid}}{a numeric vector for the respondent's party identification on the familiar seven-point scale. NOTE: D to R partisanship in this variable goes from 0 to 6. 7 = supporters of other parties. You may want to recode this if you want an interval-level measure of partisanship.}
 #'     \item{\code{polviews}}{a numeric vector for the respondent's ideology (min: 1 (extremely liberal), max: 7 (extremely conservative))}
 #'     \item{\code{xnorcsiz}}{a numeric vector for the NORC size code. This is a measure of what kind of area in which the respondent took the survey (i.e. lives). 1 = city, greater than 250k residents. 2 = city, between 50k-250k residents. 3 = suburbs of a large city. 4 = suburbs of a medium-sized city. 5 = unincorporated area of a large city. 6 = unincorporated area of a medium city. 7 = city, between 10-50k residents. 8 = town, greater than 2,500 residents. 9 = smaller areas. 10 = open country.}
 #'     \item{\code{news}}{a numeric vector for how often the respondent reads the newspapers. 1 = everyday. 2 = a few times a week. 3 = once a week. 4 = less than once a week. 5 = never.}
@@ -26,8 +26,8 @@ NULL
 #'     \item{\code{natenvir}}{a numeric vector for attitudes toward spending on improving/protecting the environment.}
 #'     \item{\code{natheal}}{a numeric vector for attitudes toward spending on improving/protecting the nation's health.}
 #'     \item{\code{natcity}}{a numeric vector for attitudes toward spending on solving the big city's problems.}
-#'     \item{\code{natcrime}}{a numeric vector for attitudes toward spending on halting the "rising (ed. lol...) crime rate"}
-#'     \item{\code{natdrug}}{a numeric vector for atttiudes toward spending on dealing with drug addiction.}
+#'     \item{\code{natcrime}}{a numeric vector for attitudes toward spending on halting the "rising crime rate." This question is subtly hilarious.}
+#'     \item{\code{natdrug}}{a numeric vector for attitudes toward spending on dealing with drug addiction.}
 #'     \item{\code{nateduc}}{a numeric vector for attitudes toward spending on improving the nation's education system.}
 #'     \item{\code{natrace}}{a numeric vector for attitudes toward spending on improving the condition of black people.}
 #'     \item{\code{natarms}}{a numeric vector for attitudes toward spending on the military/armaments/defense.}
@@ -41,7 +41,7 @@ NULL
 #'     \item{\code{natsci}}{a numeric vector for attitudes toward spending on scientific research.}
 #'     \item{\code{natenrgy}}{a numeric vector for attitudes toward spending on alternative sources of energy.}
 #'     \item{\code{sumnat}}{a numeric vector for the sum total of responses to all the aforementioned spending variables (i.e. those that begin with \code{nat}). This creates an interval-ish measure with a nice and mostly normal distribution.}
-#'     \item{\code{sumnatsoc}}{a numeric vector for the sum of all responses toward various "social" prompts (i.e. natenvir, natheal, natdrug, nateduc, natrace, natfare, natroad, natmass, natpark,  natsoc, natchld). This creates an interval-ish measure with a mostly normal (but small left skew) distribution.}
+#'     \item{\code{sumnatsoc}}{a numeric vector for the sum of all responses toward various "social" prompts (i.e. \code{natenvir}, \code{natheal}, \code{natdrug}, \code{nateduc}, \code{natrace}, \code{natfare}, \code{natroad}, \code{natmass}, \code{natpark},  \code{natsoc}, \code{natchld}). This creates an interval-ish measure with a mostly normal (but small left skew) distribution.}
 #' }
 #'
 #' @source General Social Survey, 2018

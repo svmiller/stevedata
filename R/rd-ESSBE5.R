@@ -11,7 +11,7 @@ NULL
 #' @format A data frame with 1704 observations on the following 10 variables.
 #' \describe{
 #'     \item{\code{essround}}{a numeric for the ESS round}
-#'     \item{\code{edition}}{a character for the edition number of the 5th round}
+#'     \item{\code{edition}}{a character for the edition number of the fifth round}
 #'     \item{\code{idno}}{a numeric id number}
 #'     \item{\code{cntry}}{a character vector for the country (i.e. Belgium, or \code{BE})}
 #'     \item{\code{trstplc}}{a numeric vector for trust in the police on an 11-point scale. Higher values indicate more trust. 0 = "no trust at all". 10 = "complete trust"}

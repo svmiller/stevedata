@@ -3,7 +3,7 @@ NULL
 
 #' Yugo Sales in the United States, 1985-1992
 #'
-#' A data set on Yugo sales vis-a-vis two competing models in the United States
+#' A data set on Yugo sales against two competing models in the United States
 #'  from 1985 to 1992.
 #'
 #' @format A data frame with 24 observations on the following 3 variables.

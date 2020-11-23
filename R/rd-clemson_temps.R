@@ -17,7 +17,7 @@ NULL
 #' \item{\code{yd}}{the day of the year}
 #' \item{\code{station}}{the unique station identifier for NOAA}
 #' \item{\code{value}}{the daily high in Celsius*10. I don't know why NOAA does it this way, but there you go.}
-#' \item{\code{tmax}}{the daily high, adjusted to Fahrenheith}
+#' \item{\code{tmax}}{the daily high, adjusted to Fahrenheit}
 #' }
 #'
 #' @details Data obtained from NOAA, via the rnoaa package.

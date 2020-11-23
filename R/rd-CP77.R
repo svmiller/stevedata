@@ -16,8 +16,9 @@ NULL
 #'  \item{\code{edexppc}}{a numeric vector for per capita public school expenditures in a state, projected for 1975.}
 #' }
 #'
-#' @details I ganked this from the \code{robustbase} package. I just didn't want to make my
-#' students install it. Note: I'm pretty sure "NB" was suppose to be "NE" and that
+#' @details I copied these data from the \code{robustbase} package.
+#' I just didn't want to make my students install it.
+#' Note: I'm pretty sure "NB" was suppose to be "NE" and that
 #' "DY" is supposed to be "KY". I made those changes.
 #'
 #' @references P. J. Rousseeuw and A. M. Leroy (1987) Robust Regression and Outlier Detection; Wiley, p.110, table 16.

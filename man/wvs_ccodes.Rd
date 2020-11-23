@@ -9,7 +9,7 @@ A data frame with 112 observations on the following 3 variables.
 \describe{
 \item{\code{s003}}{the World Values Survey country code}
 \item{\code{country}}{a character vector for the corresponding country name}
-\item{\code{ccode}}{the equivalent country code from the Correlates of War state system memberhsip data}
+\item{\code{ccode}}{the equivalent country code from the Correlates of War state system membership data}
 }
 }
 \usage{

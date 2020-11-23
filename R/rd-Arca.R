@@ -15,7 +15,7 @@ NULL
 #' \item{\code{low}}{the daily low in that day's trading}
 #' }
 #'
-#' @details These data are ganked from \code{investing.com}.
+#' @details These data are taken from \code{investing.com}.
 #' See: \url{https://www.investing.com/indices/arca-steel-historical-data}
 #'
 

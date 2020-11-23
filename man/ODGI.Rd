@@ -20,7 +20,7 @@ A data frame with 56 observations on the following 16 variables.
 \item{\code{hcfcs}}{aggregate concentration in parts per trillion of HCFC-22, HCFC-141b, and HCFC-142b}
 \item{\code{wmo_minor}}{aggregate concentration in parts per trillion of CFC-114, CFC-115, halon 2402 and halon 1201}
 \item{\code{sum}}{the sum of all greenhouse gas concentration measurements}
-\item{\code{eesc}}{includes concsideration of lag times for transport and mixing associated with transport. New as of 2012}
+\item{\code{eesc}}{includes consideration of lag times for transport and mixing associated with transport. New as of 2012}
 \item{\code{odgi_old}}{old greenhouse gas index, no longer supported as of 2012}
 \item{\code{odgi_new}}{new greenhouse gas index, as of 2012}
 }
