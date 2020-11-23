@@ -15,11 +15,46 @@ want to keep that package mostly about the functions (and whatever data
 are useful for showing off the functions). `stevedata` will have all my
 toy data going forward.
 
-I will also be having my methods students (undergraduate and graduate)
-download this package to work through problem sets in the R programming
-language. It’d be a benefit to them (and less hassle/headache for
-myself) to have my students download this package from CRAN rather than
-work through potential Curl issues by installing through Github.
+I anticipate two sets of R users may find these data useful. First,
+instructors may find these data useful for classes on a variety of
+topics, but prominently quantitative methods and international
+relations. Many of the toy data sets included in this R package are data
+I’ve acquired or assembled to teach about topics in quantitative methods
+or international relations in a reproducible way. Users should see my
+Github repositories for my classes on [introduction to international
+relations](https://github.com/svmiller/posc1020), [quantitative methods
+in political science](https://github.com/svmiller/posc3410), and
+[foundations of social science research for public
+policy](https://github.com/svmiller/post8000) to see how I’ve used these
+data (or development versions of them). Topics here are diverse,
+including (but not limited to) [carbon dioxide emissions over 800,000
+years](https://github.com/svmiller/stevedata/blob/master/man/co2emissions.Rd)
+(as an illustration of climate change), [coffee
+prices](https://github.com/svmiller/stevedata/blob/master/man/coffee_price.Rd)
+(as an illustration of the worsening [terms of
+trade](https://www.economicsonline.co.uk/Global_economics/Terms_of_trade.html#:~:text=A%20worsening%20terms%20of%20trade,the%20price%20of%20manufactured%20goods.)),
+[the justifiability of
+bribe-taking](https://github.com/svmiller/stevedata/blob/master/man/wvs_justifbribe.Rd)
+(as an illustration of information-poor and discrete variables that a
+researcher may be tempted to treat as drawn from a normal distribution),
+the canonical case of [illiteracy rates in the 1930 U.S.
+Census](https://github.com/svmiller/stevedata/blob/master/man/illiteracy30.Rd)
+(as an illustration of an [ecological
+fallacy](https://www.britannica.com/science/ecological-fallacy)), and
+many, many more topics.
+
+Second, my students in these classes (but especially my methods classes)
+should find this R package useful. I will also be having my methods
+students (undergraduate and graduate) download this package to work
+through problem sets in the R programming language. It’d be a benefit to
+them (and less hassle/headache for myself) to have my students download
+this package from CRAN rather than work through potential
+[`curl`](https://curl.se) issues by installing through Github.
+
+In almost all instances, each data set has an underlying code/script
+that generates them. These are in a `data-raw` directory that is not
+included in the Github repository or the R package. However, I invite
+users to reach out with questions about the data if they have them.
 
 ## Installation
 

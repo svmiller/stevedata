@@ -15,4 +15,4 @@ NULL
 #'
 #' @details I scraped this from \url{https://www.presidentsusa.net/presvplist.html}
 #'
-"Presidents"
+"presidents"

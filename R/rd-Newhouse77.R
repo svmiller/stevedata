@@ -8,7 +8,7 @@ NULL
 #'  per capita for these countries. It's probably the easiest OLS model I can find
 #'  in print because Newhouse helpfully provides all the data in one simple table.
 #'
-#' @formatA data frame with 13 observations on the following 5 variables.
+#' @format A data frame with 13 observations on the following 5 variables.
 #' \describe{
 #' \item{\code{country}}{a character vector for the country}
 #' \item{\code{year}}{a numeric vector for the year}

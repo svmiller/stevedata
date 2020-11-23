@@ -5,7 +5,14 @@
 \alias{Newhouse77}
 \title{Medical-Care Expenditure: A Cross-National Survey (Newhouse, 1977)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 13 rows and 5 columns.
+A data frame with 13 observations on the following 5 variables.
+\describe{
+\item{\code{country}}{a character vector for the country}
+\item{\code{year}}{a numeric vector for the year}
+\item{\code{gdppc}}{a numeric vector for the per capita GDP in USD}
+\item{\code{medsharegdp}}{a numeric vector for the medical care share as percentage of GDP}
+\item{\code{medexppc}}{a numeric vector for per capita medical care expenditure (in USD)}
+}
 }
 \usage{
 Newhouse77
