@@ -8,11 +8,10 @@ Authors@R: person("Steve", "Miller",
                   role = c("aut", "cre"),
                   comment = c(ORCID = "0000-0003-4072-6263"))
 Maintainer: Steve Miller <steven.v.miller@gmail.com>
-Description: This is an R package for all my toy data. Any toy data set I create
-    that's not for showing off a function in my main package will ultimately go here.
-    Its main uses are for teaching. My students and academics like me who teach the same
-    topics I teach should find this useful if their teaching workflow is also built 
-    around the R programming language.
+Description: This is an R package for all my toy data. Its main uses are for teaching. 
+    My students, and academics like me who teach the same topics I teach, should find 
+    this useful if their teaching workflow is also built around the R programming 
+    language.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
