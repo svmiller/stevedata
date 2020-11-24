@@ -13,7 +13,7 @@ NULL
 #' \item{\code{sales}}{the number of units sold in the United States}
 #' }
 #'
-#' @details Data come from \url{carsalesbase.com}. I'm aware the inclusion of the
+#' @details Data come from \url{https://carsalesbase.com}. I'm aware the inclusion of the
 #' Tercel is questionable since the third generation of Tercels were quite different
 #' from the first and second generations. However, I use these data to illustrate
 #' how poorly the Yugo fared against competing models, including the first and

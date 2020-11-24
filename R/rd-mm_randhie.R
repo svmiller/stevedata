@@ -37,9 +37,9 @@ NULL
 #' @details Data are already cleaned in a way that facilitates an easy
 #' replication of Table 1.3 and a partial replication of
 #' Table 1.4 in \emph{Mastering 'Metrics}. Check
-#' \url{http://masteringmetrics.com} for more information. I want to note
+#' \url{http://www.masteringmetrics.com} for more information. I want to note
 #' that my treatment of the data leans heavily on Jeff Arnold's
-#' treatment of it. Check \url{https://jrnold.github.io/masteringmetrics} for
+#' treatment of it. Check \url{https://jrnold.github.io/masteringmetrics/} for
 #' more information. Future updates to the data may pursue a more exhaustive
 #' replication. I will only note these data are a mess and the authors of
 #' \emph{Mastering 'Metrics} do not do a great job annotating code.

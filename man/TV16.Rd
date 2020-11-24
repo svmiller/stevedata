@@ -50,7 +50,5 @@ racism come from a graded response model estimated in \code{mirt}. The concepts 
 \url{http://svmiller.com/blog/2017/04/age-income-racism-partisanship-trump-vote-2016/}
 
 \url{https://github.com/svmiller/2016-cces-trump-vote/blob/master/1-2016-cces-trump.R}
-
-\url{https://www.pewresearch.org/fact-tank/2018/03/01/millennials-overtake-baby-boomers/}
 }
 \keyword{datasets}

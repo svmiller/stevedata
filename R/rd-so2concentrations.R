@@ -17,7 +17,7 @@ NULL
 #' \item{\code{lb}}{the upper bound of the value (90th percentile)}
 #' }
 #'
-#' @source Environmental Protection Agency, 2020. \url{www.epa.gov/air-trends/sulfur-dioxide-tr}
+#' @source Environmental Protection Agency, 2020. \url{https://www.epa.gov/air-trends/sulfur-dioxide-trends}
 #'
 #'
 "so2concentrations"

@@ -42,6 +42,4 @@ NULL
 #'
 #' \url{https://github.com/svmiller/2016-cces-trump-vote/blob/master/1-2016-cces-trump.R}
 #'
-#' \url{https://www.pewresearch.org/fact-tank/2018/03/01/millennials-overtake-baby-boomers/}
-#'
 "TV16"

@@ -6,8 +6,8 @@
 `stevedata` is an R package full of toy data sets that you may find
 useful for various purposes. Namely, I’ve created probably over a
 hundred toy data sets along the way, either to riff on some topic on [my
-blog](http://svmiller.com/blog), show my students something in one of
-[my many classes](http://svmiller.com/teaching), or just to entertain
+blog](http://svmiller.com/blog/), show my students something in one of
+[my many classes](http://svmiller.com/teaching/), or just to entertain
 myself for [spamming Twitter with my assorted
 thoughts](https://twitter.com/stevenvmiller). I had stuffed a lot of
 these into [`stevemisc`](https://github.com/svmiller/stevemisc), but I
