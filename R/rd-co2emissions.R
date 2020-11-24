@@ -32,7 +32,7 @@ NULL
 #' Etheridge, D.M., L.P. Steele, R.L. Langenfelds, R.J. Francey, J.-M. Barnola,
 #' and V.I. Morgan. 1998. Historical CO2 records from the Law Dome DE08, DE08-2,
 #' and DSS ice cores. In: Trends: A compendium of data on global change.
-#' Oak Ridge, TN: U.S. Department of Energy. \url{https://cdiac.ess-dive.lbl.gov/trends/co2/lawdome.html.
+#' Oak Ridge, TN: U.S. Department of Energy. \url{https://cdiac.ess-dive.lbl.gov/trends/co2/lawdome.html}.
 #'
 #' Siple Station, Antarctica: approximately 1744 CE to 1953 CE Neftel, A.,
 #' H. Friedli, E. Moor, H. Lötscher, H. Oeschger, U. Siegenthaler, and B. Stauffer.

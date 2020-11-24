@@ -19,8 +19,8 @@ Bureau of Labor Statistics, via the \code{blscrapeR} package.
 LTWT
 }
 \description{
-These data contain price indices for various items for the general urban consumer.
- Categories include medical services, college tuition, college textbooks,
+"Let Them Watch TV": These data contain price indices for various items for the general
+ urban consumer. Categories include medical services, college tuition, college textbooks,
  child care, housing, food and beverages, all items (i.e. general CPI),
  new vehicles, apparel, and televisions. The base period in value was originally
  the 1982-4 average, but I converted the base period to January 2000. I use these
@@ -30,6 +30,6 @@ These data contain price indices for various items for the general urban consume
  policy has failed to address.
 }
 \details{
-Inspiration comes from this AEI chart: \url{http://www.aei.org/publication/chart-of-the-day-century-price-changes-1997-to-2017/}
+Inspiration comes from this AEI chart: \url{https://www.aei.org/carpe-diem/chart-of-the-day-century-price-changes-1997-to-2017/}
 }
 \keyword{datasets}
