@@ -30,6 +30,6 @@ LTWT
  policy has failed to address.
 }
 \details{
-Inspiration comes from this AEI chart: \url{https://www.aei.org/carpe-diem/chart-of-the-day-century-price-changes-1997-to-2017/}
+Inspiration comes from a blog post titled "Chart of the day (century?): Price changes 1997 to 2017", which was published by the American Enterprise Institute on Feb. 2, 2018.
 }
 \keyword{datasets}

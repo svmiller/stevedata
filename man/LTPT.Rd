@@ -13,7 +13,7 @@ A data frame with 1,704 observations on the following 3 variables.
 }
 }
 \source{
-\url{https://www.bls.gov/opub/ted/2015/long-term-price-trends-for-computers-tvs-and-related-items.htm}
+U.S. Bureau of Labor Statistics.
 }
 \usage{
 LTPT
@@ -25,6 +25,6 @@ These data are a monthly time-series of changes in the consumer price index
  consumer electronics cheaper across the board for Americans.
 }
 \details{
-This is a web-scraping job from the U.S. Bureau of Labor Statistics. Check the source entry.
+This is a web-scraping job from the U.S. Bureau of Labor Statistics. Post is titled "Long-term price trends for computers, TVs, and related items" and was published on Oct. 13, 2015.
 }
 \keyword{datasets}

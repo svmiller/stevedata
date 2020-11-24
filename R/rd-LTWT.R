@@ -20,7 +20,7 @@ NULL
 #' \item{\code{value}}{the price index. Base: January 2000}
 #' }
 #'
-#' @details Inspiration comes from this AEI chart: \url{https://www.aei.org/carpe-diem/chart-of-the-day-century-price-changes-1997-to-2017/}
+#' @details Inspiration comes from a blog post titled "Chart of the day (century?): Price changes 1997 to 2017", which was published by the American Enterprise Institute on Feb. 2, 2018.
 #'
 #' @source Bureau of Labor Statistics, via the \code{blscrapeR} package.
 #'

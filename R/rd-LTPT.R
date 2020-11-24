@@ -15,8 +15,8 @@ NULL
 #' \item{\code{value}}{the consumer price index (Dec. 1997 = 100)}
 #' }
 #'
-#' @details This is a web-scraping job from the U.S. Bureau of Labor Statistics. Check the source entry.
+#' @details This is a web-scraping job from the U.S. Bureau of Labor Statistics. Post is titled "Long-term price trends for computers, TVs, and related items" and was published on Oct. 13, 2015.
 #'
-#' @source \url{https://www.bls.gov/opub/ted/2015/long-term-price-trends-for-computers-tvs-and-related-items.htm}
+#' @source U.S. Bureau of Labor Statistics.
 #'
 "LTPT"

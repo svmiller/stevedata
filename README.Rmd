@@ -37,7 +37,10 @@ alldata <- data(package = "stevedata")
 library(knitr)
 library(tibble)
 
-tibble(`**Object Name**` = paste0("`",alldata$results[, "Item"],"`"),
+object_name <- paste0("`",alldata$results[, "Item"],"`")
+object_link <- paste0("[",object_name,"](https://github.com/svmiller/stevedata/blob/master/man/",alldata$results[, "Item"],".Rd)")
+
+tibble(`**Object Name**` = object_link,
        `**Title/Description**` = alldata$results[, "Title"]) %>%
   kable(., format="markdown")
 ```
@@ -61,7 +64,7 @@ getdescript <- function(package){
 
 descripts <- getdescript("stevedata")
 
-tibble(`**Object Name**` = paste0("`",alldata$results[, "Item"],"`"),
+tibble(`**Object Name**` = object_link,
        `**Description**` = descripts)  %>%
   kable(., format="markdown")
 
