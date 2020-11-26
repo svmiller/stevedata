@@ -4,6 +4,19 @@ output: github_document
 
 # `stevedata`: Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics
 
+```{r echo=FALSE, results="hide", message=FALSE}
+library("badger")
+```
+
+```{r, echo = FALSE, results='asis'}
+cat(
+	badge_cran_release("stevedata", "green"),
+	badge_cran_download("stevedata", "grand-total", "green"),
+	badge_cran_download("stevedata", "last-month", "green"),
+	badge_cran_download("stevedata", "last-week", "green")
+)
+```
+
 <img src="http://svmiller.com/images/stevedata-hexlogo.png" alt="My stevedata  hexlogo" align="right" width="200" style="padding: 0 15px; float: right;"/>
 
 `stevedata` is an R package full of toy data sets that you may find useful for various purposes. Namely, I've created probably over a hundred toy data sets along the way, either to riff on some topic on [my blog](http://svmiller.com/blog/), show my students something in one of [my many classes](http://svmiller.com/teaching/), or just to entertain myself for [spamming Twitter with my assorted thoughts](https://twitter.com/stevenvmiller). I had stuffed a lot of these into [`stevemisc`](https://github.com/svmiller/stevemisc), but I want to keep that package mostly about the functions (and whatever data are useful for showing off the functions). `stevedata` will have all my toy data going forward. 
@@ -16,7 +29,13 @@ In almost all instances, each data set has an underlying code/script that genera
 
 ## Installation
 
-The goal is to get this on CRAN, eventually. Until then, you can install the development version of `stevedata` from Github via the `devtools` package. I suppose using the `remotes` package would work as well.
+This package is now on CRAN. You can download it as you would any other R package.
+
+```r
+install.packages("stevedata")
+```
+
+You can also install the development version of `stevedata` from Github via the `devtools` package. I suppose using the `remotes` package would work as well.
 
 ```r
 devtools::install_github("svmiller/stevedata")
