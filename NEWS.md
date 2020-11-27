@@ -7,6 +7,7 @@ The newest release will have some new and updated data sets. These include:
 - `nesarc_drinkspd`: a data frame on the self-reported drink habits of Americans from a survey in 2001-2002.
 - `ukg_eeri`: a data frame on real effective exchange rates for the United Kingdom from 1990 to the most recent year.
 - `usa_migration`: a data frame on inbound/outbound migration patterns for the United States from 1990 to 2017.
+- `usa_tradegdp`: a data frame on yearly trade and GDP in the United States from 1790 to 2018.
 
 
 
