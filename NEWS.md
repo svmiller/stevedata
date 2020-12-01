@@ -3,7 +3,7 @@ stevedata 0.2.0
 
 The newest release will have some new and updated data sets. These include:
 
-- `fakeAPI`: a data frame on academic performance for 10,000 schools in a hypothetical territorial unit. Note: data are fake.
+- `fakeAPI`: a data frame on academic performance for 10,000 schools in a hypothetical territorial unit. Note: data are fake, but useful for survey-type analyses.
 - `nesarc_drinkspd`: a data frame on the self-reported drink habits of Americans from a survey in 2001-2002.
 - `SCP16`: a data frame of observations about the South Carolina party primaries from 2016.
 - `ukg_eeri`: a data frame on real effective exchange rates for the United Kingdom from 1990 to the most recent year.
