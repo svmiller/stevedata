@@ -21,18 +21,19 @@ A data frame with 46 observations on the following 15 variables.
 \item{\code{population}}{An estimate of the county-level population}
 \item{\code{romneyshare2012}}{Mitt Romney's vote share at the county-level from the 2012 general election}
 \item{\code{perhsgrad}}{Percentage of the county whose residents 25 years and older have at least a high school education}
-\item{\code{unemployment}}{Unemployment rate for the county for January 2016.}
+\item{\code{unemployment}}{Unemployment rate for the county for January 2016}
 }
 }
 \usage{
 SCP16
 }
 \description{
-Data on vote share and various background/demographic information for the
- 2016 South Carolina GOP/Democratic primaries.
+County-level data on vote share and various background/demographic
+ information for the 2016 South Carolina GOP/Democratic primaries.
 }
 \details{
-The illiteracy estimate comes from a Department of Education report. The unemployment rate data come from
-the Bureau of Labor Statistics. A Github repository contains more information: \url{https://github.com/svmiller/sc-primary-2016}.
+The illiteracy estimate comes from a Department of Education report from 2003.
+The unemployment rate data come from the Bureau of Labor Statistics. A Github repository contains
+more information: \url{https://github.com/svmiller/sc-primary-2016}.
 }
 \keyword{datasets}

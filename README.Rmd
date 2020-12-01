@@ -51,16 +51,18 @@ data(package = "stevedata")
 
 The ensuing output will look like this.
 
-```{r, echo=F, eval=T}
+```{r, echo=F, eval=T, message=F, warning=F}
 alldata <- data(package = "stevedata")
 library(knitr)
 library(tibble)
+library(dplyr)
 
 object_name <- paste0("`",alldata$results[, "Item"],"`")
 object_link <- paste0("[",object_name,"](https://github.com/svmiller/stevedata/blob/master/man/",alldata$results[, "Item"],".Rd)")
 
 tibble(`**Object Name**` = object_link,
        `**Title/Description**` = alldata$results[, "Title"]) %>%
+  arrange(`**Object Name**`) %>%
   kable(., format="markdown")
 ```
 
@@ -85,6 +87,7 @@ descripts <- getdescript("stevedata")
 
 tibble(`**Object Name**` = object_link,
        `**Description**` = descripts)  %>%
+  arrange(`**Object Name**`) %>%
   kable(., format="markdown")
 
 ```
