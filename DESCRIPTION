@@ -2,7 +2,7 @@ Package: stevedata
 Type: Package
 Title: Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics
 Depends: R (>= 3.5.0)
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: person("Steve", "Miller",
                   email = "steven.v.miller@gmail.com", 
                   role = c("aut", "cre"),
@@ -11,7 +11,8 @@ Maintainer: Steve Miller <steven.v.miller@gmail.com>
 Description: This is an R package for all my toy data. Its main uses are for teaching. 
     My students, and academics like me who teach the same topics I teach, should find 
     this useful if their teaching workflow is also built around the R programming 
-    language.
+    language. The applications are multiple but mostly cluster on topics of statistical
+    methodology and inernational relations and political economy.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
