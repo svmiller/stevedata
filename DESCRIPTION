@@ -12,7 +12,7 @@ Description: This is an R package for all my toy data. Its main uses are for tea
     My students, and academics like me who teach the same topics I teach, should find 
     this useful if their teaching workflow is also built around the R programming 
     language. The applications are multiple but mostly cluster on topics of statistical
-    methodology and inernational relations and political economy.
+    methodology and international relations and political economy.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true
