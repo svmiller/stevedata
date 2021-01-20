@@ -5,7 +5,7 @@
 \alias{Presidents}
 \title{U.S. Presidents and Their Terms in Office}
 \format{
-A data frame with 44 observations on the following 3 variables.
+A data frame with 45 observations on the following 3 variables.
 \describe{
 \item{\code{president}}{the president}
 \item{\code{start}}{the start date of the term, as a date}
