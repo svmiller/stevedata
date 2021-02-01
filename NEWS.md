@@ -8,7 +8,6 @@ The newest release will have some new and updated data sets. These include:
 Updates include:
 
 - Add `wkrstat` variable to `gss_wages`.
-- Updating `Presidents` because Trump's tenure is mercifully over.
 
 
 stevedata 0.2.0
