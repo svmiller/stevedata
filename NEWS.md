@@ -4,10 +4,12 @@ stevedata 0.3.0
 The newest release will have some new and updated data sets. These include:
 
 -`anes_vote84`: a data frame on individual-level voter turnout in the 1984 general election. Data come from the 1984 time-series of the American National election Studies.
+-`eight_schools`: a data frame on the effect of special SAT coaching programs in the famous "eight schools" that we all get when learning Bayesian stuff.
 
 Updates include:
 
 - Add `wkrstat` variable to `gss_wages`.
+- Updating `Presidents` because Trump's tenure is mercifully over.
 
 
 stevedata 0.2.0

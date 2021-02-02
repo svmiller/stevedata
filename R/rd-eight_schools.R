@@ -4,9 +4,9 @@ NULL
 #' The Effect of Special Preparation on SAT-V Scores in Eight Randomized Experiments
 #'
 #' You've all seen these before. These are the "eight schools" that everyone gets when
-#'  being introduced to Bayesian programming. Here's the full data for your consideration,
-#'  which you can used instead of awkwardly searching where the data are and copy-pasting
-#'  them as a list.
+#'  being introduced to Bayesian programming. Here are the full data for your consideration,
+#'  which you can use instead of awkwardly searching where the data are and copy-pasting
+#'  them as a list. Every damn time, Steve.
 #'
 #' @format A data frame with 8 observations on the following 6 variables.
 #' \describe{
