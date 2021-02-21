@@ -6,7 +6,7 @@ NULL
 #' This should be self-evident. Here are all U.S. presidents who have completed
 #'  their terms in office (i.e. excluding the current one).
 #'
-#' @format A data frame with 44 observations on the following 3 variables.
+#' @format A data frame with 45 observations on the following 3 variables.
 #' \describe{
 #' \item{\code{president}}{the president}
 #' \item{\code{start}}{the start date of the term, as a date}
