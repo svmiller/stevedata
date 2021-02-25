@@ -5,14 +5,14 @@ NULL
 #'
 #' A data set on the various federal minimum wage rates.
 #'
-#' @format A data frame with 25 observations on the following 5 variables.
+#' @format A data frame with 23 observations on the following 5 variables.
 #' \describe{
 #' \item{\code{date}}{a date for when a new minimum wage was introduced}
 #' \item{\code{wage}}{the (nominal) value of the wage}
 #' }
 #'
-#' @details Data come from the Department of Labor. Wages are mostly taken from wage adjustments
-#' from the 1938 act, though I do code the 1964 and 1965 adjustments from the 1961 amendments.
+#' @details Data come from the Department of Labor. Wages are taken from wage adjustments
+#' from the 1938 act.
 #'
 #' @source \url{https://www.dol.gov/agencies/whd/minimum-wage/history/chart}
 #'
