@@ -19,7 +19,7 @@ A data frame with 1390 observations on the following 9 variables.
 }
 }
 \source{
-Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24. DOI: \url{https://doi.org/10.1515/jci-2013-0010}
+Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24.
 }
 \usage{
 CFT15
@@ -31,7 +31,7 @@ This is the replication data for "Randomization Inference in the Regression
  teach about regression discontinuity designs.
 }
 \references{
-Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24. DOI: \url{https://doi.org/10.1515/jci-2013-0010}
+Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24.
 
 Calonico, Sebastian and Matias D. Cattaneo and Max H. Farrell and Rocio Titiunik. 2017. "\code{rdrobust}: Software for regression-discontinuity designs". \emph{The Stata Journal} 17(2):372--404.
 }

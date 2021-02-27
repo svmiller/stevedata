@@ -21,9 +21,9 @@ NULL
 #' \item{\code{treatment}}{a numeric vector that is 1 if \code{margin} > 0 and is 0 if \code{margin} < 0.}
 #' }
 #'
-#' @source Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24. DOI: \url{https://doi.org/10.1515/jci-2013-0010}
+#' @source Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24.
 #'
-#' @references Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24. DOI: \url{https://doi.org/10.1515/jci-2013-0010}
+#' @references Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24.
 #'
 #' Calonico, Sebastian and Matias D. Cattaneo and Max H. Farrell and Rocio Titiunik. 2017. "\code{rdrobust}: Software for regression-discontinuity designs". \emph{The Stata Journal} 17(2):372--404.
 

@@ -10,6 +10,8 @@ R CMD check done via `devtools::check()`, resulting in 0 errors, 0 warnings, and
 
 `devtools::check_rhub()` suggested a few handshake errors for otherwise valid URLs that would render in a browser. These concerned source/detail URLs for the `LTPT` and `LTWT` documentation files. Rather than fight it, or try to belabor the point to CRAN, I elected to remove the URLs in lieu of text descriptions of these URLs. There are still two notes that emerge from this check. One is a possibly misspelled word in the DESCRIPTION entry ("workflow"). That is a false positive. The other is the size of the data directory, which I explained above should not be happening.
 
+An automatic inspection suggested possibly invalid URLs in the `co2emissions.Rd` and `README.md` files. In the first case, that FTP link is valid and that error should be interpreted as a false positive. In the other two cases, those links go to the Github repository and are valid.
+
 ## Downstream dependencies
 
 This is a simple data package and there are no downstream dependencies to note. The `NEWS.md` file outlines changes to this package relative to previous versions. Given the nature of this R package, it's basically the addition of new data sets.

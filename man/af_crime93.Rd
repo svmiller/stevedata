@@ -9,7 +9,6 @@ A data frame with 51 observations on the following 8 variables.
 \describe{
 \item{\code{state}}{a character vector for the state}
 \item{\code{violent}}{a numeric vector for the violent crime rate (per 100,000 people in population)}
-\item{\code{violent}}{a numeric vector for the violent crime rate (per 100,000 people in population)}
 \item{\code{murder}}{a numeric vector for the murder rate (per 100,000 people in population)}
 \item{\code{poverty}}{a numeric vector for the  percent with income below the poverty level}
 \item{\code{single}}{a numeric vector for the percent of families headed by a single parent}
