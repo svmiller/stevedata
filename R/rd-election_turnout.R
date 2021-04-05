@@ -18,11 +18,12 @@ NULL
 #' \item{\code{gdppercap}}{an estimate of the state's GDP per capita}
 #' \item{\code{ss}}{is it a ``swing state?''}
 #' \item{\code{trumpw}}{did Trump win the state?}
+#' \item{\code{trumpshare}}{the share of the vote Trump received}
 #' }
 #'
 #' @details Data were created in early 2017 for an upper-division course on
 #' quantitative methods. Educational attainment and division/region data come from the
-#' Census. Voter turnout data come from the Elections Project at George Mason University.
+#' Census. Voter turnout/share data come from the Elections Project at George Mason University.
 #' GDP per capita estimates come from Bureau of Economic Analysis.
 #'
 "election_turnout"
