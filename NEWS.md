@@ -12,6 +12,7 @@ Updates include:
 
 - Add `wkrstat` variable to `gss_wages`.
 - Updating `Presidents` because Trump's tenure is mercifully over.
+- Added a few variables to `election_turnout`.
 
 
 stevedata 0.2.0
