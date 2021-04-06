@@ -20,6 +20,7 @@ A data frame with 51 observations on the following 13 variables.
 \item{\code{trumpshare}}{the share of the vote Trump received}
 \item{\code{sunempr}}{the state-level unemployment rate entering Nov. 2016}
 \item{\code{sunempr12md}}{the state-level unemployment rate (12-month difference) entering Nov. 2016}
+\item{\code{gdp}}{an estimate of the state's GDP}
 }
 }
 \usage{
