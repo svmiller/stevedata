@@ -1,3 +1,9 @@
+stevedata 0.3.1
+---------------------------------------------------------------------
+
+The newest release adds a few variables to `election_turnout` (with the idea of ultimately phasing out this data set). More importantly, CRAN flagged this as a package with unnecessarily large "LazyData" data sets. It makes the change implored by Brian Ripley in the DESCRIPTION file.
+
+
 stevedata 0.3.0
 ---------------------------------------------------------------------
 
@@ -12,7 +18,6 @@ Updates include:
 
 - Add `wkrstat` variable to `gss_wages`.
 - Updating `Presidents` because Trump's tenure is mercifully over.
-- Added a few variables to `election_turnout`.
 
 
 stevedata 0.2.0
