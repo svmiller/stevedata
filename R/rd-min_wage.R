@@ -14,6 +14,6 @@ NULL
 #' @details Data come from the Department of Labor. Wages are taken from wage adjustments
 #' from the 1938 act.
 #'
-#' @source \url{https://www.dol.gov/agencies/whd/minimum-wage/history/chart}
+#' @source Department of Labor
 #'
 "min_wage"

@@ -12,7 +12,7 @@ A data frame with 23 observations on the following 5 variables.
 }
 }
 \source{
-\url{https://www.dol.gov/agencies/whd/minimum-wage/history/chart}
+Department of Labor
 }
 \usage{
 min_wage
