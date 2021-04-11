@@ -1,3 +1,10 @@
+stevedata 0.4.0 (in development)
+---------------------------------------------------------------------
+
+The newest release will have some new and updated data sets. These include:
+
+- `turnips`: a data frame on turnip prices in Animal Crossing. This will be here, likely, as long as I can commit to doing this.
+
 stevedata 0.3.1
 ---------------------------------------------------------------------
 
