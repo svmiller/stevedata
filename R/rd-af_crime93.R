@@ -4,8 +4,8 @@ NULL
 #' Statewide Crime Data (1993)
 #'
 #' These data are in Table 9.1 of the 3rd edition of Agresti and Finlay's
-#'  \emph{Statistical Methods for the Social Sciences}. The data are from
-#'  \emph{Statistical Abstract of the United States} and most variables were measured in 1993.
+#'  *Statistical Methods for the Social Sciences*. The data are from
+#'  *Statistical Abstract of the United States* and most variables were measured in 1993.
 #'
 #' @format A data frame with 51 observations on the following 8 variables.
 #' \describe{
