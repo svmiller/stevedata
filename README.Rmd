@@ -58,7 +58,7 @@ library(tibble)
 library(dplyr)
 
 object_name <- paste0("`",alldata$results[, "Item"],"`")
-object_link <- paste0("[",object_name,"](https://github.com/svmiller/stevedata/blob/master/man/",alldata$results[, "Item"],".Rd)")
+object_link <- paste0("[",object_name,"](http://svmiller.com/stevedata/reference/",alldata$results[, "Item"],".html)")
 
 tibble(`**Object Name**` = object_link,
        `**Title/Description**` = alldata$results[, "Title"]) %>%
