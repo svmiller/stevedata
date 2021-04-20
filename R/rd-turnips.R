@@ -8,7 +8,7 @@ NULL
 #' @format A data frame with the following 3 variables.
 #' \describe{
 #' \item{\code{date}}{a date}
-#' \item{\code{time}}{a "period" vector referring to the particular time period of observation}
+#' \item{\code{time}}{a character vector referring to the particular time period of observation}
 #' \item{\code{price}}{a numeric vector for the price of turnips, in bells}
 #' }
 #'
