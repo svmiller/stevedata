@@ -76,7 +76,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">stevedata</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.3.1</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.4.0</span>
       </span>
     </div>
 
@@ -143,7 +143,7 @@
 
     <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
 
-    <p>A data frame with 33830 observations on the following 15 variables.</p><dl>
+    <p>A data frame with 33830 observations on the following 19 variables.</p><dl>
 <dt><code>year</code></dt><dd><p>the survey year</p></dd>
 <dt><code>uid</code></dt><dd><p>a unique identifier for each respondent, taken directly from the time-series files for potential merging</p></dd>
 <dt><code>stateabb</code></dt><dd><p>the two-character abbreviation for the state of residence for the respondent</p></dd>
@@ -162,6 +162,12 @@
 <dt><code>race4</code></dt><dd><p>respondent's race-ethnicity summary. 1 = White, non-hispanic. 2 = Black, non-hispanic. 3 = Hispanic. 4 = Other.</p></dd>
 <dt><code>unemployed</code></dt><dd><p>a binary numeric vector for if the respondent is temporarily unemployed.</p></dd>
 <dt><code>polint</code></dt><dd><p>the respondent's self-reported interest in public affairs. 1 = Hardly at all. 2 = Only now and then. 3 = Some of the time. 4 = Most of the time.</p></dd>
+<dt><code>distrust_govt</code></dt><dd><p>the respondent's self-reported (dis)trust in the federal government's ability to do what's right. 1 = Just about always (trust the government).
+2 = Most of the time. 3 = Some of the time. 4 = None of the time/never.</p></dd>
+<dt><code>govt_crooked</code></dt><dd><p>the respondent's assessment of how many government officials are crooked. 1 = Hardly any. 2 = Not many. 3 = Quite a few; quite a lot.</p></dd>
+<dt><code>govt_waste</code></dt><dd><p>the respondent's assessment of how much the government wastes in tax money. 1 = Not very much. 2 = Some. 3 = A lot.</p></dd>
+<dt><code>govt_biginterests</code></dt><dd><p>the respondent's assessment of whether the government is run by a few big interests. 0 = Run for the benefit of all people.
+ 1 = Run by a few big interests.</p></dd>
 
 </dl>
 
@@ -172,7 +178,8 @@
 
     <p>The major party thermometer index is calculated as the thermometer rating for the
 Democratic party minus the thermometer rating for the Republican party. 100 is then added to that difference, which is then divided by 2.
-Fractional results are rounded to the next highest integer.</p>
+Fractional results are rounded to the next highest integer. Also note the coding of the "government distrust" measures. These are reverse-coded
+from their original scales.</p>
 
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
