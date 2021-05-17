@@ -1,3 +1,12 @@
+stevedata 0.5.0 (in development)
+---------------------------------------------------------------------
+
+The newest release will have some new and updated data sets. 
+
+Updates include:
+
+- "zap" formats in `af_crime93`.
+
 stevedata 0.4.0
 ---------------------------------------------------------------------
 
