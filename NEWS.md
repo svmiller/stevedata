@@ -1,10 +1,13 @@
 stevedata 0.5.0 (in development)
 ---------------------------------------------------------------------
 
-The newest release will have some new and updated data sets. 
+The newest release will have some new and updated data sets.  Additions include:
+
+- `wvs_usa_educat`: a data set on how World Values Survey codes education categories for the United States across waves of its data set.
 
 Updates include:
 
+- new turnip prices in `turnips`.
 - "zap" formats in `af_crime93`.
 
 stevedata 0.4.0
