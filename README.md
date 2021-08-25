@@ -8,17 +8,17 @@
 
 <img src="http://svmiller.com/images/stevedata-hexlogo.png" alt="My stevedata  hexlogo" align="right" width="200" style="padding: 0 15px; float: right;"/>
 
-`stevedata` is an R package full of toy data sets that you may find
+`{stevedata}` is an R package full of toy data sets that you may find
 useful for various purposes. Namely, I’ve created probably over a
 hundred toy data sets along the way, either to riff on some topic on [my
 blog](http://svmiller.com/blog/), show my students something in one of
 [my many classes](http://svmiller.com/teaching/), or just to entertain
 myself for [spamming Twitter with my assorted
 thoughts](https://twitter.com/stevenvmiller). I had stuffed a lot of
-these into [`stevemisc`](https://github.com/svmiller/stevemisc), but I
+these into [`{stevemisc}`](https://github.com/svmiller/stevemisc), but I
 want to keep that package mostly about the functions (and whatever data
-are useful for showing off the functions). `stevedata` will have all my
-toy data going forward.
+are useful for showing off the functions). `{stevedata}` will have all
+my toy data going forward.
 
 I anticipate two sets of R users may find these data useful. First,
 instructors may find these data useful for classes on a variety of
@@ -70,9 +70,9 @@ R package.
 install.packages("stevedata")
 ```
 
-You can also install the development version of `stevedata` from Github
-via the `devtools` package. I suppose using the `remotes` package would
-work as well.
+You can also install the development version of `{stevedata}` from
+Github via the `{devtools}` package. I suppose using the `{remotes}`
+package would work as well.
 
 ``` r
 devtools::install_github("svmiller/stevedata")
@@ -160,6 +160,8 @@ The ensuing output will look like this.
 | [`wvs_immig`](http://svmiller.com/stevedata/reference/wvs_immig.html)                         | Attitudes about Immigration in the World Values Survey                                                                |
 | [`wvs_justifbribe`](http://svmiller.com/stevedata/reference/wvs_justifbribe.html)             | Attitudes about the Justifiability of Bribe-Taking in the World Values Survey                                         |
 | [`wvs_usa_abortion`](http://svmiller.com/stevedata/reference/wvs_usa_abortion.html)           | Attitudes on the Justifiability of Abortion in the United States (World Values Survey, 1982-2011)                     |
+| [`wvs_usa_educat`](http://svmiller.com/stevedata/reference/wvs_usa_educat.html)               | Education Categories for the United States in the World Values Survey                                                 |
+| [`wvs_usa_regions`](http://svmiller.com/stevedata/reference/wvs_usa_regions.html)             | Region Categories for the United States in the World Values Survey                                                    |
 | [`yugo_sales`](http://svmiller.com/stevedata/reference/yugo_sales.html)                       | Yugo Sales in the United States, 1985-1992                                                                            |
 
 Here is a simple scraping job to provide more information (by way of the
@@ -237,4 +239,6 @@ these descriptions as a vignette as well.
 | [`wvs_immig`](http://svmiller.com/stevedata/reference/wvs_immig.html)                         | A data set on attitudes about immigration for all observations in the third to sixth wave of the World Values Survey. I use these data for in-class illustration.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | [`wvs_justifbribe`](http://svmiller.com/stevedata/reference/wvs_justifbribe.html)             | A data set on attitudes about the justifiability of bribe-taking for all observations in the third to sixth wave of the World Values Survey. I use these data for in-class illustration about seemingly interval-level, but information-poor measurements.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | [`wvs_usa_abortion`](http://svmiller.com/stevedata/reference/wvs_usa_abortion.html)           | A data set on attitudes about the justifiability of abortion in the United States based on World Values Survey responses recorded across six waves (from 1982 to 2011). I assembled this data frame probably around 2014 and routinely use it for in-class illustration about regression, post-estimation simulation, quantities of interest, and how to think about modeling a dependent variable that is on a 1-10 scale, but has curious heaping patterns.                                                                                                                                                                                                                              |
+| [`wvs_usa_educat`](http://svmiller.com/stevedata/reference/wvs_usa_educat.html)               | This is a simple data set that summarizes what the education codes are in the World Values Survey for the United States.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [`wvs_usa_regions`](http://svmiller.com/stevedata/reference/wvs_usa_regions.html)             | This is a simple data set that summarizes what the region codes are in the World Values Survey for the United States.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | [`yugo_sales`](http://svmiller.com/stevedata/reference/yugo_sales.html)                       | A data set on Yugo sales against two competing models in the United States from 1985 to 1992.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |

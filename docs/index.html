@@ -91,7 +91,7 @@
 <a href="#stevedata-steves-toy-data-for-teaching-about-a-variety-of-methodological-social-and-political-topics" class="anchor"></a><code>stevedata</code>: Steve’s Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics</h1></div>
 
 <p><img src="http://svmiller.com/images/stevedata-hexlogo.png" alt="My stevedata  hexlogo" align="right" width="200" style="padding: 0 15px; float: right;"></p>
-<p><code>stevedata</code> is an R package full of toy data sets that you may find useful for various purposes. Namely, I’ve created probably over a hundred toy data sets along the way, either to riff on some topic on <a href="http://svmiller.com/blog/">my blog</a>, show my students something in one of <a href="http://svmiller.com/teaching/">my many classes</a>, or just to entertain myself for <a href="https://twitter.com/stevenvmiller">spamming Twitter with my assorted thoughts</a>. I had stuffed a lot of these into <a href="https://github.com/svmiller/stevemisc"><code>stevemisc</code></a>, but I want to keep that package mostly about the functions (and whatever data are useful for showing off the functions). <code>stevedata</code> will have all my toy data going forward.</p>
+<p><a href="http://svmiller.com/stevedata/">stevedata</a> is an R package full of toy data sets that you may find useful for various purposes. Namely, I’ve created probably over a hundred toy data sets along the way, either to riff on some topic on <a href="http://svmiller.com/blog/">my blog</a>, show my students something in one of <a href="http://svmiller.com/teaching/">my many classes</a>, or just to entertain myself for <a href="https://twitter.com/stevenvmiller">spamming Twitter with my assorted thoughts</a>. I had stuffed a lot of these into <a href="https://github.com/svmiller/stevemisc"><code>{stevemisc}</code></a>, but I want to keep that package mostly about the functions (and whatever data are useful for showing off the functions). <a href="http://svmiller.com/stevedata/">stevedata</a> will have all my toy data going forward.</p>
 <p>I anticipate two sets of R users may find these data useful. First, instructors may find these data useful for classes on a variety of topics, but prominently quantitative methods and international relations. Many of the toy data sets included in this R package are data I’ve acquired or assembled to teach about topics in quantitative methods or international relations in a reproducible way. Users should see my Github repositories for my classes on <a href="https://github.com/svmiller/posc1020">introduction to international relations</a>, <a href="https://github.com/svmiller/posc3410">quantitative methods in political science</a>, and <a href="https://github.com/svmiller/post8000">foundations of social science research for public policy</a> to see how I’ve used these data (or development versions of them). Topics here are diverse, including (but not limited to) <a href="https://github.com/svmiller/stevedata/blob/master/man/co2emissions.Rd">carbon dioxide emissions over 800,000 years</a> (as an illustration of climate change), <a href="https://github.com/svmiller/stevedata/blob/master/man/coffee_price.Rd">coffee prices</a> (as an illustration of the worsening <a href="https://www.economicsonline.co.uk/Global_economics/Terms_of_trade.html#:~:text=A%20worsening%20terms%20of%20trade,the%20price%20of%20manufactured%20goods.">terms of trade</a>), <a href="https://github.com/svmiller/stevedata/blob/master/man/wvs_justifbribe.Rd">the justifiability of bribe-taking</a> (as an illustration of information-poor and discrete variables that a researcher may be tempted to treat as drawn from a normal distribution), the canonical case of <a href="https://github.com/svmiller/stevedata/blob/master/man/illiteracy30.Rd">illiteracy rates in the 1930 U.S. Census</a> (as an illustration of an <a href="https://www.britannica.com/science/ecological-fallacy">ecological fallacy</a>), and many, many more topics.</p>
 <p>Second, my students in these classes (but especially my methods classes) should find this R package useful. I will also be having my methods students (undergraduate and graduate) download this package to work through problem sets in the R programming language. It’d be a benefit to them (and less hassle/headache for myself) to have my students download this package from CRAN rather than work through potential <a href="https://curl.se"><code>curl</code></a> issues by installing through Github.</p>
 <p>In almost all instances, each data set has an underlying code/script that generates them. These are in a <code>data-raw</code> directory that is not included in the Github repository or the R package. However, I invite users to reach out with questions about the data if they have them.</p>
@@ -101,7 +101,7 @@
 <p>This package is now on CRAN. You can download it as you would any other R package.</p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html">install.packages</a></span><span class="op">(</span><span class="st">"stevedata"</span><span class="op">)</span></code></pre></div>
-<p>You can also install the development version of <code>stevedata</code> from Github via the <code>devtools</code> package. I suppose using the <code>remotes</code> package would work as well.</p>
+<p>You can also install the development version of <a href="http://svmiller.com/stevedata/">stevedata</a> from Github via the <a href="https://devtools.r-lib.org/">devtools</a> package. I suppose using the <a href="https://remotes.r-lib.org">remotes</a> package would work as well.</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span class="fu">devtools</span><span class="fu">::</span><span class="fu"><a href="https://devtools.r-lib.org//reference/remote-reexports.html">install_github</a></span><span class="op">(</span><span class="st">"svmiller/stevedata"</span><span class="op">)</span></code></pre></div>
 </div>
@@ -399,6 +399,14 @@
 <td align="left">Attitudes on the Justifiability of Abortion in the United States (World Values Survey, 1982-2011)</td>
 </tr>
 <tr class="even">
+<td align="left"><a href="http://svmiller.com/stevedata/reference/wvs_usa_educat.html"><code>wvs_usa_educat</code></a></td>
+<td align="left">Education Categories for the United States in the World Values Survey</td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="http://svmiller.com/stevedata/reference/wvs_usa_regions.html"><code>wvs_usa_regions</code></a></td>
+<td align="left">Region Categories for the United States in the World Values Survey</td>
+</tr>
+<tr class="even">
 <td align="left"><a href="http://svmiller.com/stevedata/reference/yugo_sales.html"><code>yugo_sales</code></a></td>
 <td align="left">Yugo Sales in the United States, 1985-1992</td>
 </tr>
@@ -690,6 +698,14 @@
 <tr class="odd">
 <td align="left"><a href="http://svmiller.com/stevedata/reference/wvs_usa_abortion.html"><code>wvs_usa_abortion</code></a></td>
 <td align="left">A data set on attitudes about the justifiability of abortion in the United States based on World Values Survey responses recorded across six waves (from 1982 to 2011). I assembled this data frame probably around 2014 and routinely use it for in-class illustration about regression, post-estimation simulation, quantities of interest, and how to think about modeling a dependent variable that is on a 1-10 scale, but has curious heaping patterns.</td>
+</tr>
+<tr class="even">
+<td align="left"><a href="http://svmiller.com/stevedata/reference/wvs_usa_educat.html"><code>wvs_usa_educat</code></a></td>
+<td align="left">This is a simple data set that summarizes what the education codes are in the World Values Survey for the United States.</td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="http://svmiller.com/stevedata/reference/wvs_usa_regions.html"><code>wvs_usa_regions</code></a></td>
+<td align="left">This is a simple data set that summarizes what the region codes are in the World Values Survey for the United States.</td>
 </tr>
 <tr class="even">
 <td align="left"><a href="http://svmiller.com/stevedata/reference/yugo_sales.html"><code>yugo_sales</code></a></td>
