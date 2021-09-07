@@ -30,6 +30,6 @@ NULL
 #' \item{\code{odgi_new}}{new greenhouse gas index, as of 2012}
 #' }
 #'
-#' @source \url{https://www.esrl.noaa.gov/gmd/odgi/}
+#' @source \url{https://gml.noaa.gov/odgi/}
 #'
 "ODGI"

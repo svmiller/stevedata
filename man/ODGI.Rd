@@ -26,7 +26,7 @@ A data frame with 56 observations on the following 16 variables.
 }
 }
 \source{
-\url{https://www.esrl.noaa.gov/gmd/odgi/}
+\url{https://gml.noaa.gov/odgi/}
 }
 \usage{
 ODGI
