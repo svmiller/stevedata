@@ -1,7 +1,3 @@
-## An Explanation for the New Release
-
-The release of this update is a little bit hurried given CRAN's policy on wanting about a month between CRAN submissions for a given package. The most recent update was just about two weeks ago. However, I'm submitting this in light of a recent email from Brian Ripley about FTP links in documentation files. This release has a few new data sets, but, importantly, scrubs the FTP links in light of Ripley's email about decreased web browser support for these in the near future. The `NEWS.md` file offers more information.
-
 ## Test environments
 
 * ubuntu 18.04, R 4.0.3
