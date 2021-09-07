@@ -5,7 +5,7 @@
 \alias{sugar_price}
 \title{IMF Primary Commodity Price Data for Sugar}
 \format{
-A data frame with 1,298 observations on the following 3 variables.
+A data frame with 1,316 observations on the following 3 variables.
 \describe{
 \item{\code{date}}{a date}
 \item{\code{category}}{the category (either the U.S., global, or Europe)}

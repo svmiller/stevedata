@@ -8,7 +8,7 @@ NULL
 #'  the present. Prices are nominal U.S. cents per pound and are
 #'  not seasonally adjusted ("NSA").
 #'
-#' @format A data frame with 1,298 observations on the following 3 variables.
+#' @format A data frame with 1,316 observations on the following 3 variables.
 #' \describe{
 #' \item{\code{date}}{a date}
 #' \item{\code{category}}{the category (either the U.S., global, or Europe)}

@@ -1,4 +1,4 @@
-stevedata 0.5.0 (in development)
+stevedata 0.5.0
 ---------------------------------------------------------------------
 
 The newest release will have some new and updated data sets.  Additions include:
@@ -10,6 +10,9 @@ Updates include:
 
 - new turnip prices in `turnips`.
 - "zap" formats in `af_crime93`.
+- new sulfur dioxide emission data in `so2concentrations`
+- new sugar price data in `sugar_price`.
+- new Clemson temperature data in `clemson_temps`.
 
 stevedata 0.4.0
 ---------------------------------------------------------------------
