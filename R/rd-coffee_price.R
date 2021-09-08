@@ -7,7 +7,7 @@ NULL
 #'  from 1980 to the present. I manually update these data since FRED's
 #'  coverage since 2017 has been spotty.
 #'
-#' @format A data frame with 489 observations on the following 3 variables.
+#' @format A data frame with the following 3 variables.
 #' \describe{
 #' \item{\code{date}}{the date (year-month)}
 #' \item{\code{arabica}}{the price (monthly average) of mild Arabica, via

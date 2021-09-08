@@ -5,7 +5,7 @@
 \alias{coffee_price}
 \title{The Primary Commodity Price for Coffee (Arabica, Robustas)}
 \format{
-A data frame with 489 observations on the following 3 variables.
+A data frame with the following 3 variables.
 \describe{
 \item{\code{date}}{the date (year-month)}
 \item{\code{arabica}}{the price (monthly average) of mild Arabica, via

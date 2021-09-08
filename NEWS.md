@@ -13,6 +13,7 @@ Updates include:
 - new sulfur dioxide emission data in `so2concentrations`
 - new sugar price data in `sugar_price`.
 - new Clemson temperature data in `clemson_temps`.
+- new coffee data in `coffee_imports` and `coffee_price`.
 
 stevedata 0.4.0
 ---------------------------------------------------------------------

@@ -1,3 +1,7 @@
+## Feedback upon manual inspection
+
+I apologize for the misdirected link. This happens a lot with links from government agencies. The link has been fixed.
+
 ## Test environments
 
 * ubuntu 18.04, R 4.0.3
