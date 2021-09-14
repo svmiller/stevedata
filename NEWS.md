@@ -1,3 +1,10 @@
+stevedata 0.6.0
+---------------------------------------------------------------------
+
+The newest release will have some new and updated data sets. Updates include:
+
+- Adjusted/streamlined Clemson temperature data in `clemson_temps`.
+
 stevedata 0.5.0
 ---------------------------------------------------------------------
 

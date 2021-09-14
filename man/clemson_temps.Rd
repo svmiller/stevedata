@@ -5,14 +5,10 @@
 \alias{clemson_temps}
 \title{Daily Clemson Temperature Data}
 \format{
-A data frame with 32,777 observations on the following 8 variables.
+A data frame with 33,148 observations on the following 3 variables.
 \describe{
 \item{\code{date}}{the date}
-\item{\code{year}}{the year}
-\item{\code{month}}{the month}
-\item{\code{day}}{the day of the month}
-\item{\code{yd}}{the day of the year}
-\item{\code{value}}{the daily high in Celsius*10. I don't know why NOAA does it this way, but there you go.}
+\item{\code{tmin}}{the daily low, adjusted to Fahrenheit}
 \item{\code{tmax}}{the daily high, adjusted to Fahrenheit}
 }
 }
@@ -20,12 +16,13 @@ A data frame with 32,777 observations on the following 8 variables.
 clemson_temps
 }
 \description{
-This data set contains daily temperatures (highs) for Clemson, South Carolina
+This data set contains daily temperatures (highs and lows) for Clemson, South Carolina
  from Jan. 1, 1930 to the end of the most recent calendar year.
  The goal is to update this periodically with new data for
  as long as I live in this town.
 }
 \details{
 Data obtained from NOAA, via the \pkg{rnoaa} package. The station identifier is \code{GHCND:USC00381770} for added context.
+The call from \pkg{rnoaa} returns these values initially as Celsius*10. I don't know why NOAA does it this way, but there you go.
 }
 \keyword{datasets}
