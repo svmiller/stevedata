@@ -1,9 +1,14 @@
 stevedata 0.6.0
 ---------------------------------------------------------------------
 
-The newest release will have some new and updated data sets. Updates include:
+The newest release will have some new and updated data sets. Additions include:
 
-- Adjusted/streamlined Clemson temperature data in `clemson_temps`.
+- `voteincome`: a data set on turnout and demographic data, admittedly stolen from [the Zelig project](https://zeligproject.org/).
+
+Updates include:
+
+- adjusted/streamlined Clemson temperature data in `clemson_temps`.
+- new turnip prices in `turnips`.
 
 stevedata 0.5.0
 ---------------------------------------------------------------------
