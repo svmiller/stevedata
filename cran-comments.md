@@ -1,14 +1,10 @@
-## Feedback upon manual inspection
-
-I apologize for the misdirected link. This happens a lot with links from government agencies. The link has been fixed.
-
 ## Test environments
 
 * ubuntu 18.04, R 4.0.3
 
 ## R CMD check results
 
-R CMD check done via `devtools::check()`, resulting in 0 errors, 0 warnings, and 0 notes. Past versions of this check would note complain that the package is greater than 5 MB in size and that the data directory itself is over 5 MB in size. A recent e-mail from Brian Ripley flagged this package as not adequately addressing this issue, imploring the addition of `LazyDataCompression: xz` to the DESCRIPTION file. I believe this effectively addresses the issue and has done so since the release of version 0.3.1.
+R CMD check done via `devtools::check()`, resulting in 0 errors, 0 warnings, and 0 notes.
 
 `devtools::spell_check()` suggests several spelling errors. However, what I submit to CRAN includes only the false positives. Almost all of these false positives occur in the R Documentation file for when I source or add references about the data. I'll note, humbly, that `devtools::spell_check()` did catch more than a few spelling errors in those R Documentation files that were not appropriate for CRAN when I first prepared this package for submission. I went through and corrected all of them. What remains are just false positives that come from the peculiarities of writing exhaustive R Documentation files for an R package that is primarily about data to be shared with the community of R users.
 

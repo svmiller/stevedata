@@ -16,6 +16,10 @@ NULL
 #' \item{\code{count}}{a numeric vector for the count of inbound/outbound migrants}
 #' }
 #'
+#' @details "Cote d'Ivoire", "Curacao", and "Reunion" originally had UTF-8
+#' characters, which were removed for maximal compliance with CRAN. CRAN
+#' raises a note for every non-ASCII character it sees.
+#'
 #' @source United Nations Population Division (DESA)
 #'
 "usa_migration"
