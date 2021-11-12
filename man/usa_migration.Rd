@@ -25,4 +25,9 @@ This data set contains counts/estimates for the number of inbound migrants
  in the U.S as well as outbound migrants of American origin to other countries
  from 1990 to 2017.
 }
+\details{
+"Cote d'Ivoire", "Curacao", and "Reunion" originally had UTF-8
+characters, which were removed for maximal compliance with CRAN. CRAN
+raises a note for every non-ASCII character it sees.
+}
 \keyword{datasets}
