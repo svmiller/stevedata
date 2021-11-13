@@ -34,7 +34,6 @@ EPICA Dome C and Vostok Station, Antarctica: approximately 796,562 BCE to 1813 C
 Lüthi, D., M. Le Floch, B. Bereiter, T. Blunier, J.-M. Barnola, U. Siegenthaler, D. Raynaud,
 J. Jouzel, H. Fischer, K. Kawamura, and T.F. Stocker. 2008. High-resolution carbon dioxide
 concentration record 650,000–800,000 years before present. Nature 453:379–382.
-\url{https://www.ncdc.noaa.gov/paleo-search/}.
 
 Law Dome, Antarctica, 75-year smoothed: approximately 1010 CE to 1975 CE
 Etheridge, D.M., L.P. Steele, R.L. Langenfelds, R.J. Francey, J.-M. Barnola,

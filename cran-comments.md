@@ -1,3 +1,7 @@
+## Changes upon manual inspection/feedback from CRAN
+
+I thank CRAN for alerting me to the fact that a link to a U.S. government website redirected. This is sadly a recurring feature of government websites in the United States. The link in particular involved a citation to something published in the journal *Nature*. It was in the references field, which already included the full citation without the URL. Therefore, I think it best to just remove the link altogether, rather than change it to something that will assuredly redirect in the future.
+
 ## Test environments
 
 * ubuntu 18.04, R 4.0.3
