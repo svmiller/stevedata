@@ -1,3 +1,14 @@
+stevedata 0.7.0
+---------------------------------------------------------------------
+
+The newest release will have some new and updated data sets. Additions include:
+
+- `SBCD`: a data set on banking, currency, and debt (restructuring) crises from 1970 to 2017.
+
+Updates include:
+
+- new turnip prices in `turnips`.
+
 stevedata 0.6.0
 ---------------------------------------------------------------------
 
