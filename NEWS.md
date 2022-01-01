@@ -8,6 +8,7 @@ The newest release will have some new and updated data sets. Additions include:
 Updates include:
 
 - new turnip prices in `turnips`.
+- updated `DJIA` data
 
 stevedata 0.6.0
 ---------------------------------------------------------------------
