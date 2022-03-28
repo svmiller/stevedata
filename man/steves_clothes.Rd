@@ -3,9 +3,9 @@
 \docType{data}
 \name{steves_clothes}
 \alias{steves_clothes}
-\title{Steve's (Professional) Clothes, as of March 3, 2019}
+\title{Steve's (Professional) Clothes, as of March 20, 2022}
 \format{
-A data frame with 79 observations on the following 4 variables.
+A data frame with 86 observations on the following 4 variables.
 \describe{
 \item{\code{type}}{Type of clothing}
 \item{\code{brand}}{The brand of clothing (e.g. Apt. 9, Saddlebred)}

@@ -1,0 +1,30 @@
+#' @importFrom tibble tibble
+NULL
+
+#' Margaret Thatcher Satisfation Ratings, 1980-1990
+#'
+#' A data set on satisfaction/dissatisfaction ratings during Margaret Thatcher's tenure as prime minister.
+#'
+#' @format A data frame with 24 observations on the following 3 variables.
+#' \describe{
+#' \item{\code{year}}{the year of the poll}
+#' \item{\code{poll_date}}{the effective "date" of the public opinion poll}
+#' \item{\code{date}}{a date for the poll, to make for easier plotting}
+#' \item{\code{govt_sat}}{the percentage of respondents saying they were satisfied with the government}
+#'  \item{\code{govt_dis}}{the percentage of respondents saying they were dissatisfied with the government}
+#'  \item{\code{thatcher_sat}}{the percentage of respondents saying they were satisfied with Margaret Thatcher}
+#'  \item{\code{thatcher_dis}}{the percentage of respondents saying they were dissatisfied with Margaret Thatcher}
+#'  \item{\code{opp_sat}}{the percentage of respondents saying they were satisfied with the leader of the opposition}
+#'  \item{\code{opp_dis}}{the percentage of respondents saying they were dissatisfied with the leader of the opposition}
+#' }
+#'
+#' @details Data come from Ipsos. "Leader of the opposition" was typically named in the exact poll. In the
+#' lifetime of this series, the leader of the opposition was James Callaghan until Nov. 10 1980. Thereafter, it
+#' was Michael Foot until Oct. 2 1983. Neil Kinnock replaces him for the duration of this series. Interpret
+#' "leader of the opposition" with that in mind.
+#'
+#' The date variable is, again, for simple convenience to make for easier plotting. In the absence of a specific
+#' day provided by Ipsos, the poll benchmarks to the first of the month. In the case of a known period of days, it
+#' benchmarks to the first day provided.
+#'
+"thatcher_approval"

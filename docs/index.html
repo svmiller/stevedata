@@ -24,6 +24,8 @@
 <![endif]-->
 </head>
 <body data-spy="scroll" data-target="#toc">
+    
+
     <div class="container template-home">
       <header><div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
@@ -36,18 +38,12 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="index.html">stevedata</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.6.0</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">0.6.9</span>
       </span>
     </div>
 
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-<li>
-  <a href="index.html">
-    <span class="fas fa-home fa-lg"></span>
-     
-  </a>
-</li>
 <li>
   <a href="reference/index.html">Reference</a>
 </li>
@@ -69,7 +65,7 @@
       </ul>
 <ul class="nav navbar-nav navbar-right">
 <li>
-  <a href="https://github.com/svmiller/stevedata/">
+  <a href="https://github.com/svmiller/stevedata/" class="external-link">
     <span class="fab fa-github fa-lg"></span>
      
   </a>
@@ -86,31 +82,32 @@
 
       </header><div class="row">
   <div class="contents col-md-9">
-<div id="stevedata-steves-toy-data-for-teaching-about-a-variety-of-methodological-social-and-political-topics" class="section level1">
-<div class="page-header"><h1 class="hasAnchor">
-<a href="#stevedata-steves-toy-data-for-teaching-about-a-variety-of-methodological-social-and-political-topics" class="anchor"></a><code>stevedata</code>: Steve’s Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics</h1></div>
+<div class="section level1">
+<div class="page-header"><h1 id="stevedata-steves-toy-data-for-teaching-about-a-variety-of-methodological-social-and-political-topics">
+<code>stevedata</code>: Steve’s Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics<a class="anchor" aria-label="anchor" href="#stevedata-steves-toy-data-for-teaching-about-a-variety-of-methodological-social-and-political-topics"></a>
+</h1></div>
 
 <p><img src="http://svmiller.com/images/stevedata-hexlogo.png" alt="My stevedata  hexlogo" align="right" width="200" style="padding: 0 15px; float: right;"></p>
-<p><a href="http://svmiller.com/stevedata/">stevedata</a> is an R package full of toy data sets that you may find useful for various purposes. Namely, I’ve created probably over a hundred toy data sets along the way, either to riff on some topic on <a href="http://svmiller.com/blog/">my blog</a>, show my students something in one of <a href="http://svmiller.com/teaching/">my many classes</a>, or just to entertain myself for <a href="https://twitter.com/stevenvmiller">spamming Twitter with my assorted thoughts</a>. I had stuffed a lot of these into <a href="https://github.com/svmiller/stevemisc"><code>{stevemisc}</code></a>, but I want to keep that package mostly about the functions (and whatever data are useful for showing off the functions). <a href="http://svmiller.com/stevedata/">stevedata</a> will have all my toy data going forward.</p>
-<p>I anticipate two sets of R users may find these data useful. First, instructors may find these data useful for classes on a variety of topics, but prominently quantitative methods and international relations. Many of the toy data sets included in this R package are data I’ve acquired or assembled to teach about topics in quantitative methods or international relations in a reproducible way. Users should see my Github repositories for my classes on <a href="https://github.com/svmiller/posc1020">introduction to international relations</a>, <a href="https://github.com/svmiller/posc3410">quantitative methods in political science</a>, and <a href="https://github.com/svmiller/post8000">foundations of social science research for public policy</a> to see how I’ve used these data (or development versions of them). Topics here are diverse, including (but not limited to) <a href="https://github.com/svmiller/stevedata/blob/master/man/co2emissions.Rd">carbon dioxide emissions over 800,000 years</a> (as an illustration of climate change), <a href="https://github.com/svmiller/stevedata/blob/master/man/coffee_price.Rd">coffee prices</a> (as an illustration of the worsening <a href="https://www.economicsonline.co.uk/Global_economics/Terms_of_trade.html#:~:text=A%20worsening%20terms%20of%20trade,the%20price%20of%20manufactured%20goods.">terms of trade</a>), <a href="https://github.com/svmiller/stevedata/blob/master/man/wvs_justifbribe.Rd">the justifiability of bribe-taking</a> (as an illustration of information-poor and discrete variables that a researcher may be tempted to treat as drawn from a normal distribution), the canonical case of <a href="https://github.com/svmiller/stevedata/blob/master/man/illiteracy30.Rd">illiteracy rates in the 1930 U.S. Census</a> (as an illustration of an <a href="https://www.britannica.com/science/ecological-fallacy">ecological fallacy</a>), and many, many more topics.</p>
-<p>Second, my students in these classes (but especially my methods classes) should find this R package useful. I will also be having my methods students (undergraduate and graduate) download this package to work through problem sets in the R programming language. It’d be a benefit to them (and less hassle/headache for myself) to have my students download this package from CRAN rather than work through potential <a href="https://curl.se"><code>curl</code></a> issues by installing through Github.</p>
+<p><a href="http://svmiller.com/stevedata/">stevedata</a> is an R package full of toy data sets that you may find useful for various purposes. Namely, I’ve created probably over a hundred toy data sets along the way, either to riff on some topic on <a href="http://svmiller.com/blog/">my blog</a>, show my students something in one of <a href="http://svmiller.com/teaching/">my many classes</a>, or just to entertain myself for <a href="https://twitter.com/stevenvmiller" class="external-link">spamming Twitter with my assorted thoughts</a>. I had stuffed a lot of these into <a href="https://github.com/svmiller/stevemisc" class="external-link"><code>{stevemisc}</code></a>, but I want to keep that package mostly about the functions (and whatever data are useful for showing off the functions). <a href="http://svmiller.com/stevedata/">stevedata</a> will have all my toy data going forward.</p>
+<p>I anticipate two sets of R users may find these data useful. First, instructors may find these data useful for classes on a variety of topics, but prominently quantitative methods and international relations. Many of the toy data sets included in this R package are data I’ve acquired or assembled to teach about topics in quantitative methods or international relations in a reproducible way. Users should see my Github repositories for my classes on <a href="https://github.com/svmiller/posc1020" class="external-link">introduction to international relations</a>, <a href="https://github.com/svmiller/posc3410" class="external-link">quantitative methods in political science</a>, and <a href="https://github.com/svmiller/post8000" class="external-link">foundations of social science research for public policy</a> to see how I’ve used these data (or development versions of them). Topics here are diverse, including (but not limited to) <a href="https://github.com/svmiller/stevedata/blob/master/man/co2emissions.Rd" class="external-link">carbon dioxide emissions over 800,000 years</a> (as an illustration of climate change), <a href="https://github.com/svmiller/stevedata/blob/master/man/coffee_price.Rd" class="external-link">coffee prices</a> (as an illustration of the worsening <a href="https://www.economicsonline.co.uk/Global_economics/Terms_of_trade.html#:~:text=A%20worsening%20terms%20of%20trade,the%20price%20of%20manufactured%20goods." class="external-link">terms of trade</a>), <a href="https://github.com/svmiller/stevedata/blob/master/man/wvs_justifbribe.Rd" class="external-link">the justifiability of bribe-taking</a> (as an illustration of information-poor and discrete variables that a researcher may be tempted to treat as drawn from a normal distribution), the canonical case of <a href="https://github.com/svmiller/stevedata/blob/master/man/illiteracy30.Rd" class="external-link">illiteracy rates in the 1930 U.S. Census</a> (as an illustration of an <a href="https://www.britannica.com/science/ecological-fallacy" class="external-link">ecological fallacy</a>), and many, many more topics.</p>
+<p>Second, my students in these classes (but especially my methods classes) should find this R package useful. I will also be having my methods students (undergraduate and graduate) download this package to work through problem sets in the R programming language. It’d be a benefit to them (and less hassle/headache for myself) to have my students download this package from CRAN rather than work through potential <a href="https://curl.se" class="external-link"><code>curl</code></a> issues by installing through Github.</p>
 <p>In almost all instances, each data set has an underlying code/script that generates them. These are in a <code>data-raw</code> directory that is not included in the Github repository or the R package. However, I invite users to reach out with questions about the data if they have them.</p>
-<div id="installation" class="section level2">
-<h2 class="hasAnchor">
-<a href="#installation" class="anchor"></a>Installation</h2>
+<div class="section level2">
+<h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
+</h2>
 <p>This package is now on CRAN. You can download it as you would any other R package.</p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html">install.packages</a></span><span class="op">(</span><span class="st">"stevedata"</span><span class="op">)</span></code></pre></div>
-<p>You can also install the development version of <a href="http://svmiller.com/stevedata/">stevedata</a> from Github via the <a href="https://devtools.r-lib.org/">devtools</a> package. I suppose using the <a href="https://remotes.r-lib.org">remotes</a> package would work as well.</p>
+<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/install.packages.html" class="external-link">install.packages</a></span><span class="op">(</span><span class="st">"stevedata"</span><span class="op">)</span></code></pre></div>
+<p>You can also install the development version of <a href="http://svmiller.com/stevedata/">stevedata</a> from Github via the <a href="https://devtools.r-lib.org/" class="external-link">devtools</a> package. I suppose using the <a href="https://remotes.r-lib.org" class="external-link">remotes</a> package would work as well.</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu">devtools</span><span class="fu">::</span><span class="fu"><a href="https://devtools.r-lib.org//reference/remote-reexports.html">install_github</a></span><span class="op">(</span><span class="st">"svmiller/stevedata"</span><span class="op">)</span></code></pre></div>
+<code class="sourceCode R"><span class="fu">devtools</span><span class="fu">::</span><span class="fu"><a href="https://devtools.r-lib.org/reference/remote-reexports.html" class="external-link">install_github</a></span><span class="op">(</span><span class="st">"svmiller/stevedata"</span><span class="op">)</span></code></pre></div>
 </div>
-<div id="usage" class="section level2">
-<h2 class="hasAnchor">
-<a href="#usage" class="anchor"></a>Usage</h2>
+<div class="section level2">
+<h2 id="usage">Usage<a class="anchor" aria-label="anchor" href="#usage"></a>
+</h2>
 <p>The data set already has a lot to offer those who might be curious about its contents. You can do this to see what is in it.</p>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/data.html">data</a></span><span class="op">(</span>package <span class="op">=</span> <span class="st">"stevedata"</span><span class="op">)</span></code></pre></div>
+<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/data.html" class="external-link">data</a></span><span class="op">(</span>package <span class="op">=</span> <span class="st">"stevedata"</span><span class="op">)</span></code></pre></div>
 <p>The ensuing output will look like this.</p>
 <table class="table">
 <colgroup>
@@ -727,48 +724,58 @@
 
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <div class="links">
-<h2>Links</h2>
+<h2 data-toc-skip>Links</h2>
 <ul class="list-unstyled">
-<li>Download from CRAN at <br><a href="https://cloud.r-project.org/package=stevedata">https://​cloud.r-project.org/​package=stevedata</a>
-</li>
-<li>Browse source code at <br><a href="https://github.com/svmiller/stevedata/">https://​github.com/​svmiller/​stevedata/​</a>
-</li>
-<li>Report a bug at <br><a href="https://github.com/svmiller/stevedata/issues/">https://​github.com/​svmiller/​stevedata/​issues/​</a>
-</li>
-</ul>
-</div>
-<div class="license">
-<h2>License</h2>
-<ul class="list-unstyled">
-<li><a href="https://www.r-project.org/Licenses/GPL-2">GPL-2</a></li>
-</ul>
-</div>
-<div class="developers">
-<h2>Developers</h2>
-<ul class="list-unstyled">
-<li>Steve Miller <br><small class="roles"> Author, maintainer </small> <a href="https://orcid.org/0000-0003-4072-6263" target="orcid.widget" aria-label="ORCID"><span class="fab fa-orcid orcid" aria-hidden="true"></span></a> </li>
+<li><a href="https://cloud.r-project.org/package=stevedata" class="external-link">View on CRAN</a></li>
+<li><a href="https://github.com/svmiller/stevedata/" class="external-link">Browse source code</a></li>
+<li><a href="https://github.com/svmiller/stevedata/issues/" class="external-link">Report a bug</a></li>
 </ul>
 </div>
 
-  <div class="dev-status">
-<h2>Dev status</h2>
+<div class="license">
+<h2 data-toc-skip>License</h2>
 <ul class="list-unstyled">
-<li><a href="https://cran.r-project.org/package=stevedata"><img src="https://www.r-pkg.org/badges/version/stevedata?color=green"></a></li>
-<li><a href="https://cran.r-project.org/package=stevedata"><img src="http://cranlogs.r-pkg.org/badges/grand-total/stevedata?color=green"></a></li>
-<li><a href="https://cran.r-project.org/package=stevedata"><img src="http://cranlogs.r-pkg.org/badges/last-month/stevedata?color=green"></a></li>
-<li><a href="https://cran.r-project.org/package=stevedata"><img src="http://cranlogs.r-pkg.org/badges/last-week/stevedata?color=green"></a></li>
+<li><a href="https://www.r-project.org/Licenses/GPL-2" class="external-link">GPL-2</a></li>
 </ul>
 </div>
+
+
+<div class="citation">
+<h2 data-toc-skip>Citation</h2>
+<ul class="list-unstyled">
+<li><a href="authors.html#citation">Citing stevedata</a></li>
+</ul>
 </div>
+
+<div class="developers">
+<h2 data-toc-skip>Developers</h2>
+<ul class="list-unstyled">
+<li>Steve Miller <br><small class="roles"> Author, maintainer </small> <a href="https://orcid.org/0000-0003-4072-6263" target="orcid.widget" aria-label="ORCID" class="external-link"><span class="fab fa-orcid orcid" aria-hidden="true"></span></a> </li>
+</ul>
+</div>
+
+<div class="dev-status">
+<h2 data-toc-skip>Dev status</h2>
+<ul class="list-unstyled">
+<li><a href="https://cran.r-project.org/package=stevedata" class="external-link"><img src="https://www.r-pkg.org/badges/version/stevedata?color=green"></a></li>
+<li><a href="https://cran.r-project.org/package=stevedata" class="external-link"><img src="http://cranlogs.r-pkg.org/badges/grand-total/stevedata?color=green"></a></li>
+<li><a href="https://cran.r-project.org/package=stevedata" class="external-link"><img src="http://cranlogs.r-pkg.org/badges/last-month/stevedata?color=green"></a></li>
+<li><a href="https://cran.r-project.org/package=stevedata" class="external-link"><img src="http://cranlogs.r-pkg.org/badges/last-week/stevedata?color=green"></a></li>
+</ul>
+</div>
+
+  </div>
 </div>
 
 
       <footer><div class="copyright">
-  <p>Developed by Steve Miller.</p>
+  <p></p>
+<p>Developed by Steve Miller.</p>
 </div>
 
 <div class="pkgdown">
-  <p>Site built with <a href="https://pkgdown.r-lib.org/">pkgdown</a> 1.6.1.</p>
+  <p></p>
+<p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.0.1.</p>
 </div>
 
       </footer>
@@ -776,6 +783,8 @@
 
   
 
+
+  
 
   </body>
 </html>

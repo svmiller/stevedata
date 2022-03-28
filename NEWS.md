@@ -1,17 +1,18 @@
-stevedata 0.7.0
----------------------------------------------------------------------
+# stevedata 0.7.0
 
 The newest release will have some new and updated data sets. Additions include:
 
 - `SBCD`: a data set on banking, currency, and debt (restructuring) crises from 1970 to 2017.
+- `thatcher_approval`: a data set on satisfaction/dissatisfaction ratings of the government, the prime minister, and the leader of the opposition during the entirety of Margaret Thatcher's tenure as prime minister.
 
 Updates include:
 
 - new turnip prices in `turnips`.
 - updated `DJIA` data
+- revised `steves_clothes` data.
 
-stevedata 0.6.0
----------------------------------------------------------------------
+# stevedata 0.6.0
+
 
 The newest release will have some new and updated data sets. Additions include:
 
@@ -22,8 +23,8 @@ Updates include:
 - adjusted/streamlined Clemson temperature data in `clemson_temps`.
 - new turnip prices in `turnips`.
 
-stevedata 0.5.0
----------------------------------------------------------------------
+# stevedata 0.5.0
+
 
 The newest release will have some new and updated data sets.  Additions include:
 
@@ -39,8 +40,8 @@ Updates include:
 - new Clemson temperature data in `clemson_temps`.
 - new coffee data in `coffee_imports` and `coffee_price`.
 
-stevedata 0.4.0
----------------------------------------------------------------------
+# stevedata 0.4.0
+
 
 The newest release will have some new and updated data sets. These include:
 
@@ -51,14 +52,14 @@ Examples may have been updated for greater clarity, especially as this release c
 
 The release of this package was accelerated by a note from Brian Ripley that R users should anticipate decreased support for direct links by FTP in their preferred web browsers. Accordingly, these links should be changed or scrubbed. This concerned the `co2emissions` data and documentation. I removed those FTP links. There were no http:// or https:// corollaries. However, the bibliography is still sufficiently informative.
 
-stevedata 0.3.1
----------------------------------------------------------------------
+# stevedata 0.3.1
+
 
 The newest release adds a few variables to `election_turnout` (with the idea of ultimately phasing out this data set). More importantly, CRAN flagged this as a package with unnecessarily large "LazyData" data sets. It makes the change implored by Brian Ripley in the DESCRIPTION file.
 
 
-stevedata 0.3.0
----------------------------------------------------------------------
+# stevedata 0.3.0
+
 
 The newest release will have some new and updated data sets. These include:
 
@@ -73,8 +74,8 @@ Updates include:
 - Updating `Presidents` because Trump's tenure is mercifully over.
 
 
-stevedata 0.2.0
----------------------------------------------------------------------
+# stevedata 0.2.0
+
 
 The newest release will have some new and updated data sets. These include:
 
@@ -88,7 +89,7 @@ The newest release will have some new and updated data sets. These include:
 
 
 
-stevedata 0.1.0
----------------------------------------------------------------------
+# stevedata 0.1.0
+
 
 - Initial release

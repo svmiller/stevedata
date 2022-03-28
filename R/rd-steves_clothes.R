@@ -1,13 +1,13 @@
 #' @importFrom tibble tibble
 NULL
 
-#' Steve's (Professional) Clothes, as of March 3, 2019
+#' Steve's (Professional) Clothes, as of March 20, 2022
 #'
 #' I cobbled together this data set of the professional clothes
 #'  (polos, long-sleeve dress shirts, pants) in my closet, largely for
 #'  illustration on the origins of apparel in the U.S. for an intro lecture on trade.
 #'
-#' @format A data frame with 79 observations on the following 4 variables.
+#' @format A data frame with 86 observations on the following 4 variables.
 #' \describe{
 #' \item{\code{type}}{Type of clothing}
 #' \item{\code{brand}}{The brand of clothing (e.g. Apt. 9, Saddlebred)}
