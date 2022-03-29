@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://svmiller.com/404.html</loc>
+  </url>
+  <url>
+    <loc>http://svmiller.com/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>http://svmiller.com/articles/index.html</loc>
+  </url>
+  <url>
+    <loc>http://svmiller.com/articles/stevedata-description.html</loc>
+  </url>
+  <url>
+    <loc>http://svmiller.com/authors.html</loc>
+  </url>
+  <url>
     <loc>http://svmiller.com/index.html</loc>
+  </url>
+  <url>
+    <loc>http://svmiller.com/news/index.html</loc>
   </url>
   <url>
     <loc>http://svmiller.com/reference/Arca.html</loc>
@@ -136,6 +154,9 @@
     <loc>http://svmiller.com/reference/illiteracy30.html</loc>
   </url>
   <url>
+    <loc>http://svmiller.com/reference/index.html</loc>
+  </url>
+  <url>
     <loc>http://svmiller.com/reference/min_wage.html</loc>
   </url>
   <url>
@@ -173,6 +194,9 @@
   </url>
   <url>
     <loc>http://svmiller.com/reference/sugar_price.html</loc>
+  </url>
+  <url>
+    <loc>http://svmiller.com/reference/thatcher_approval.html</loc>
   </url>
   <url>
     <loc>http://svmiller.com/reference/therms.html</loc>
@@ -224,8 +248,5 @@
   </url>
   <url>
     <loc>http://svmiller.com/reference/yugo_sales.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/articles/stevedata-description.html</loc>
   </url>
 </urlset>

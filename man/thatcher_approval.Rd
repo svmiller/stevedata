@@ -3,9 +3,9 @@
 \docType{data}
 \name{thatcher_approval}
 \alias{thatcher_approval}
-\title{Margaret Thatcher Satisfation Ratings, 1980-1990}
+\title{Margaret Thatcher Satisfaction Ratings, 1980-1990}
 \format{
-A data frame with 24 observations on the following 3 variables.
+A data frame with 125 observations on the following 9 variables.
 \describe{
 \item{\code{year}}{the year of the poll}
 \item{\code{poll_date}}{the effective "date" of the public opinion poll}
