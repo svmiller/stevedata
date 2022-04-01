@@ -18,6 +18,6 @@ NULL
 #' Of note: the day value in the \code{date} column has no real value.
 #' It was just a way of combining data that are aggregated by year and month.
 #'
-#' @source \url{https://data.giss.nasa.gov/gistemp/}
+#' @source National Aeronautics and Space Administration's Goddard Institute for Space Studies.
 #'
 "LOTI"

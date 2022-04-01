@@ -12,7 +12,7 @@ A data frame with 1,692 observations on the following 2 variables.
 }
 }
 \source{
-\url{https://data.giss.nasa.gov/gistemp/}
+National Aeronautics and Space Administration's Goddard Institute for Space Studies.
 }
 \usage{
 LOTI

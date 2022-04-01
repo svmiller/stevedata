@@ -12,6 +12,6 @@ NULL
 #' \item{\code{iso2c}}{a character vector for iso2c}
 #' }
 #'
-#' @details Data come from \url{https://europa.eu/european-union/about-eu/countries_en}.
+#' @details Data come from the European Union's website.
 #'
 "eustates"

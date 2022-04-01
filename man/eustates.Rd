@@ -19,6 +19,6 @@ eustates
 European Union membership by accession date
 }
 \details{
-Data come from \url{https://europa.eu/european-union/about-eu/countries_en}.
+Data come from the European Union's website.
 }
 \keyword{datasets}

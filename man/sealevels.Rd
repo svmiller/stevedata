@@ -30,10 +30,9 @@ These data describe how sea level has changed over time, in both
 CSIRO (Commonwealth Scientific and Industrial Research Organisation).
 2015 update to data originally published in: Church, J.A., and N.J. White. 2011.
 Sea-level rise from the late 19th to the early 21st century. Surv. Geophys.
-32:585–602. \url{http://www.cmar.csiro.au/sealevel/sl_data_cmar.html}.
+32:585–602.
 
 NOAA (National Oceanic and Atmospheric Administration). 2016.
 Laboratory for Satellite Altimetry: Sea level rise. Accessed June 2016.
-\url{http://www.star.nesdis.noaa.gov/sod/lsa/SeaLevelRise/LSA_SLR_timeseries_global.php}.
 }
 \keyword{datasets}
