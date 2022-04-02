@@ -1,3 +1,7 @@
+## Comments to CRAN in light of additional feedback
+
+I apologize for the redirected URLs. This is unfortunately a problem when trying to link to government websites, even if the link itself is a form of attribution overkill. I should've fixed that in this release.
+
 ## Test environments
 
 * ubuntu 18.04, R 4.0.3
