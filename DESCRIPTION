@@ -2,7 +2,7 @@ Package: stevedata
 Type: Package
 Title: Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics
 Depends: R (>= 3.5.0)
-Version: 0.7.0
+Version: 0.7.9
 Authors@R: person("Steve", "Miller",
                   email = "steven.v.miller@gmail.com", 
                   role = c("aut", "cre"),
@@ -17,7 +17,7 @@ License: GPL-2
 Encoding: UTF-8
 LazyData: true
 LazyDataCompression: xz
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.0
 URL: http://svmiller.com/stevedata/
 BugReports: https://github.com/svmiller/stevedata/issues/
 Suggests: 
