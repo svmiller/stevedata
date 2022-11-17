@@ -1,22 +1,25 @@
 #' @importFrom tibble tibble
 NULL
 
-#' Penn World Table (9.1) Macroeconomic Data for Select Countries, 1950-2017
+#' Penn World Table (10.0) Macroeconomic Data for Select Countries, 1950-2019
 #'
 #' These are some macroeconomic data for 21 select (rich) countries. I've used
 #'  these data before to discuss issues of grouping and skew in cross-sectional data.
 #'
-#' @format A data frame with 1428 observations on the following 7 variables.
+#' @format A data frame with 1470 observations on the following 11 variables.
 #' \describe{
 #' \item{\code{country}}{the country name}
 #' \item{\code{isocode}}{The country's ISO code}
 #' \item{\code{year}}{a numeric vector for the year}
 #' \item{\code{pop}}{Population in millions}
 #' \item{\code{hc}}{Index of human capital per person, based on years of schooling and returns to education}
-#' \item{\code{rgdpna}}{Real GDP at constant 2011 national prices (in million 2011 USD)}
+#' \item{\code{rgdpna}}{Real GDP at constant 2011 national prices (in million 2017 USD)}
+#' \item{\code{rgdpo}}{Output-side real GDP at chained PPPs (in million 2017 USD)}
+#' \item{\code{rgdpe}}{Expenditure-side real GDP at chained PPPs (in million 2017 USD)}
+#' \item{\code{emp}}{Number of persons engaged (in millions)}
 #' \item{\code{labsh}}{Share of labor compensation in GDP at current national prices}
 #' }
 #'
-#' @source Taken from the \code{pwt9} package. See: \url{http://www.ggdc.net/pwt/}
+#' @source Taken from the \code{pwt10} package. See: \url{http://www.ggdc.net/pwt/}
 #'
 "pwt_sample"
