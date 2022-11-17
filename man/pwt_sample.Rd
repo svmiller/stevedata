@@ -15,8 +15,10 @@ A data frame with 1470 observations on the following 11 variables.
 \item{\code{rgdpna}}{Real GDP at constant 2011 national prices (in million 2017 USD)}
 \item{\code{rgdpo}}{Output-side real GDP at chained PPPs (in million 2017 USD)}
 \item{\code{rgdpe}}{Expenditure-side real GDP at chained PPPs (in million 2017 USD)}
-\item{\code{emp}}{Number of persons engaged (in millions)}
 \item{\code{labsh}}{Share of labor compensation in GDP at current national prices}
+\item{\code{avh}}{Average annual hours worked by persons engaged.}
+\item{\code{emp}}{Number of persons engaged (in millions)}
+\item{\code{rnna}}{Capital stock at constant 2017 national prices (in million 2017 USD)}
 }
 }
 \source{
