@@ -22,7 +22,7 @@ A data frame with 1470 observations on the following 11 variables.
 }
 }
 \source{
-Taken from the \code{pwt10} package. See: \url{http://www.ggdc.net/pwt/}
+Taken from the \code{pwt10} package. See: \url{https://www.rug.nl/ggdc/}
 }
 \usage{
 pwt_sample

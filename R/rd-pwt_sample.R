@@ -22,6 +22,6 @@ NULL
 #' \item{\code{rnna}}{Capital stock at constant 2017 national prices (in million 2017 USD)}
 #' }
 #'
-#' @source Taken from the \code{pwt10} package. See: \url{http://www.ggdc.net/pwt/}
+#' @source Taken from the \code{pwt10} package. See: \url{https://www.rug.nl/ggdc/}
 #'
 "pwt_sample"
