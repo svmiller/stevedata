@@ -12,6 +12,7 @@ NULL
 #'  \item{\code{female}}{a numeric that equals 1 if the respondent is a woman}
 #'  \item{\code{collegeed}}{a numeric vector that equals 1 if the respondent says s/he has a college degree}
 #'  \item{\code{famincr}}{a numeric vector for the respondent's household income. Ranges from 1 to 12.}
+#'  \item{\code{bornagain}}{a numeric vector for whether the respondent self-identifies as a born-again Christian.}
 #'  \item{\code{e}}{random noise, generated from a normal distribution with a mean of 0 and a standard deviation of 3}
 #'  \item{\code{happy}}{an arbitrary happiness variable. See details for its construction}
 #'  \item{\code{z_happy}}{the same arbitrary happiness variable, scaled to have a mean of 0 and a standard deviation of 1. This makes it seem more "latent".}
