@@ -1,3 +1,7 @@
+## Feedback to CRAN in light of initial rejection
+
+I swear, the URL redirects get me every time, and it's a problem when trying to appropriately attribute projects hosted by government institutions or universities. I fixed that URL issue in this submission.
+
 ## Test environments
 
 * ubuntu 22.04, R 4.1.2
