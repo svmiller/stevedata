@@ -1,3 +1,12 @@
+# stevedata 0.9.0
+
+The newest release will have some new and updated data sets.
+
+Updates include:
+
+- `ukg_eeri` has more current data, and the value column has been changed to numeric.
+
+
 # stevedata 0.8.0
 
 The newest release will have some new and updated data sets. Additions include:
