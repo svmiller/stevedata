@@ -1,6 +1,8 @@
 # stevedata 0.9.0
 
-The newest release will have some new and updated data sets.
+The newest release will have some new and updated data sets. Additions include:
+
+- `commodity_prices`: a data set on World Bank commodity prices data, which will also supplant the `coffee_price` and `sugar_price` data.
 
 Updates include:
 
