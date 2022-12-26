@@ -14,7 +14,7 @@ Updates include:
 The newest release will have some new and updated data sets. Additions include:
 
 - `fakeHappiness`: a (fake) data set to illustrate a curvilinear effect. Application: the so-called U-shaped relationship between age and happiness.
-- `inglehart03`: a data set cobbled from Inglehart's (2003) "How Solid is Mass Support for Democracy---And How Can We Measure It?" in *PS: Politial Science & Politics*. These would include the information as presented in the article itself as opposed to the underlying (raw) data as one might get them in an earlier version of the World/European Survey.
+- `inglehart03`: a data set cobbled from Inglehart's (2003) "How Solid is Mass Support for Democracy---And How Can We Measure It?" in *PS: Political Science & Politics*. These would include the information as presented in the article itself as opposed to the underlying (raw) data as one might get them in an earlier version of the World/European Survey.
 - `sweden_counties`: a data set on identifiers for the counties of Sweden.
 
 
