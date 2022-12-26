@@ -30,16 +30,18 @@ A data set on select, monthly commodity prices made available by the
  indexing, cointegration, general economic riff-raff, and more.
 }
 \details{
-All data are in nominal USD. Data compiled by the World Bank for its
-historical data on commodity prices. The oil price data come from a combination
-of sources, supposedly Bloomberg, Energy Intelligence Group (EIG), Organization
-of Petroleum Exporting Countries (OPEC), and the World Bank. Data on coffee
-prices come from Bloomberg, Complete Coffee Coverage, the International Coffee
-Organization, Thomson Reuters Datastream, and the World Bank. Data on tea prices
-for Colombo auctions come the from International Tea Committee, Tea Broker's
-Association of London, Tea Exporters Association Sri Lanka, and the World Bank.
-Data on tea prices for Kolkata auctions come from the International Tea Committee,
-Tea Board India, Tea Broker's Association of London, and the World Bank. Tea prices
+All data are in nominal USD. Adjust (to taste) accordingly.
+
+Data compiled by the World Bank for its historical data on commodity prices.
+The oil price data come from a combination of sources, supposedly Bloomberg,
+Energy Intelligence Group (EIG), Organization of Petroleum Exporting Countries
+(OPEC), and the World Bank. Data on coffee prices come from Bloomberg, Complete
+Coffee Coverage, the International Coffee Organization, Thomson Reuters Datastream,
+and the World Bank. Data on tea prices for Colombo auctions come the from
+International Tea Committee, Tea Broker's Association of London, Tea Exporters
+Association Sri Lanka, and the World Bank. Data on tea prices for Kolkata
+auctions come from the International Tea Committee, Tea Board India, Tea
+Broker's Association of London, and the World Bank. Tea prices
 for Mombasa/Nairobi auctions come from African Tea Brokers Limited, International
 Tea Committee, Tea Broker's Association of London, and the World Bank. EU sugar
 price data come from International Monetary Fund,  World Bank. Sugar price
