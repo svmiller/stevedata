@@ -20,7 +20,7 @@ NULL
 #' \item{\code{trumpw}}{did Trump win the state?}
 #' \item{\code{trumpshare}}{the share of the vote Trump received}
 #' \item{\code{sunempr}}{the state-level unemployment rate entering Nov. 2016}
-#' \item{\code{sunempr12md}}{the state-level unemployment rate (12-month difference) entering Nov. 2016}
+#' \item{\code{sunempr12md}}{the state-level unemployment rate (12-month difference) entering Nov. 2016. Higher values indicate the unemployment rate is increasing entering Nov. 2016 relative to what it was entering Nov. 2015.}
 #' \item{\code{gdp}}{an estimate of the state's GDP}
 #' }
 #'
@@ -28,6 +28,7 @@ NULL
 #' quantitative methods. Educational attainment and division/region data come from the
 #' Census. Voter turnout/share data come from the Elections Project at George Mason University.
 #' GDP per capita estimates come from Bureau of Economic Analysis. Unemployment data come from
-#' the Bureau of Labor Statistics and code to generate it was derived from a forthcoming publication of mine.
+#' the Bureau of Labor Statistics and code to generate it was derived from a forthcoming
+#' publication of mine.
 #'
 "election_turnout"

@@ -3,6 +3,7 @@
 The newest release will have some new and updated data sets. Additions include:
 
 - `commodity_prices`: a data set on World Bank commodity prices data, which will also supplant the `coffee_price` and `sugar_price` data.
+- `ESS10NO`: a data set on whether Norwegians would vote to join the European Union or not, cobbled from the European Social Survey, and useful for illustrating survey designs.
 
 Updates include:
 
