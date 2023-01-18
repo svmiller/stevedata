@@ -40,6 +40,9 @@ NULL
 #' to make this a dummy variable comparing those who want to join versus those
 #' who want Norway to remain outside the European Union.
 #'
+#' The data are edition 2.2 of the 10th round of European Social Survey, which
+#' was released for public consumption on 21 December 2022.
+#'
 #' @source European Social Survey, Round 10
 #'
 "ESS10NO"
