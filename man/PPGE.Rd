@@ -40,13 +40,12 @@ Briefly: the government spending/GDP data come from the International
 Monetary Fund. The trade/GDP data come from the World Bank's API.
 The financial openness indicators come by way of the Chinn-Ito index. The
 engagement in trade unions data are from the Varieties of Democracy project.
-The ordinal measure values of the trade union data are 0) Virtually no one
-(is regularly active in independent trade unions), 1) a small share of
-the population (less than 5%) [is active in independent trade unions], 2) A
-moderate share of the population (about 5 to 15 %) [is active in independent
-trade unions]. 3) A large share of the population (about 16 % to 25%) [is
-active in independent trade unions]. 4) A very large share of the population
-(about 26% or more) [is active in independent trade unions].
+The ordinal measure of the trade union estimates communicate what percentage
+of the population is active in independent trade unions. Values include 0)
+virtually no one 1) a small share of the population (less than 5%), 2) A
+moderate share of the population (about 5 to 15%). 3) A large share of
+the population (about 16 % to 25%). 4) A very large share of the population
+(about 26% or more).
 }
 \references{
 Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell,

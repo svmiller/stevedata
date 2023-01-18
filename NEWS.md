@@ -4,13 +4,13 @@ The newest release will have some new and updated data sets. Additions include:
 
 - `commodity_prices`: a data set on World Bank commodity prices data, which will also supplant the `coffee_price` and `sugar_price` data.
 - `ESS10NO`: a data set on whether Norwegians would vote to join the European Union or not, cobbled from the European Social Survey, and useful for illustrating survey designs.
-- `PPGE`: a panel model on select rich countries that looks at the correlates of government spending.
+- `PPGE`: a panel model on select rich countries that can be used for quasi-replicating Garrett's (1998) argument about how well labor unions have stemmed globalization's effect on slashing government spending.
 
 Updates include:
 
 - `ukg_eeri` has more current data, and the value column has been changed to numeric.
-- `pwt_sample` now has Norway. Sorry, Norway.
-- new turnips prices in `turnips`.
+- `pwt_sample` now has Norway. Sorry for the original oversight, Norway. We still cool?
+- `turnips` has new turnips prices. I don't know why I keep doing this. Force of habit.
 
 
 # stevedata 0.8.0
