@@ -10,6 +10,7 @@ Updates include:
 
 - `ukg_eeri` has more current data, and the value column has been changed to numeric.
 - `pwt_sample` now has Norway. Sorry, Norway.
+- new turnips prices in `turnips`.
 
 
 # stevedata 0.8.0
