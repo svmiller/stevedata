@@ -1,3 +1,7 @@
+## Feedback in light of initial rejection
+
+I swear URL re-directs will be the death of me. I forgot about the \doi{} tag as well.
+
 ## Test environments
 
 * ubuntu 22.04, R 4.1.2

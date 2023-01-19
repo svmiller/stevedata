@@ -24,10 +24,12 @@ NULL
 #'
 #' @details The data are an unbalanced panel because of data missingness primarily
 #' affecting Switzerland (which would only appear in the panel in earnest starting
-#' in the mid-1990s). The Netherlands has some missing data in the mid-1970s. The
-#' data also have some obvious COVID weirdness for 2020. Perhaps an honest
-#' re-assessment of Garrett (1998) may want to drop Switzerland altogether and
-#' ignore 2020. What you do with the Netherlands is up to you.
+#' in the mid-1990s). The Netherlands has some missing data in the mid-1970s. Spain
+#' and Portugal appear at the start of the panel, though the transition to democracy
+#' for both wouldn't start until 1974/1975. The data also have some obvious
+#' COVID weirdness for 2020. Perhaps an honest re-assessment of Garrett (1998)
+#' may want to drop Switzerland altogether, ignore 2020, and lop a few years off
+#' the Spanish and Portuguese panel. What you do with the Netherlands is up to you.
 #'
 #' Briefly: the government spending/GDP data come from the International
 #' Monetary Fund. The trade/GDP data come from the World Bank's API.
@@ -50,7 +52,7 @@ NULL
 #' Rydén, Johannes von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey
 #' Staton, Aksel Sundström, Eitan Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel
 #' Ziblatt. 2022. "V-Dem [Country-Year/Country-Date] Dataset v12" Varieties of Democracy
-#' (V-Dem) Project. \url{https://doi.org/10.23696/vdemds22}
+#' (V-Dem) Project. \doi{10.23696/vdemds22}
 #'
 #' Chinn, Menzie D. and Hiro Ito. 2006. "What Matters for Financial Development?
 #' Capital Controls, Institutions, and Interactions." *Journal of Development

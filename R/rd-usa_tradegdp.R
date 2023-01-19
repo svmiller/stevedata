@@ -16,8 +16,9 @@ NULL
 #' \item{\code{expo}}{The value of U.S. exports (in billions)}
 #' }
 #'
-#' @details Data come from various sources (see, especially: \url{http://econdataus.com/tradeall.html}). Post-1989
-#' data come from the U.S. Census Bureau. 2018 GDP comes from the IMF. 2018 population estimate comes from
-#' the U.S. Census Bureau.
+#' @details Data come from various sources (see, especially:
+#' \url{https://econdataus.com/tradeall.html}). Post-1989 data come from the
+#' U.S. Census Bureau. 2018 GDP comes from the IMF. 2018 population estimate
+#' comes from the U.S. Census Bureau.
 #'
 "usa_tradegdp"

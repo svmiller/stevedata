@@ -47,7 +47,7 @@ Updates include:
 
 The newest release will have some new and updated data sets. Additions include:
 
-- `voteincome`: a data set on turnout and demographic data, admittedly stolen from [the Zelig project](https://zeligproject.org/).
+- `voteincome`: a data set on turnout and demographic data, admittedly stolen from the Zelig project.
 
 Updates include:
 
