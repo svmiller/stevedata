@@ -1,3 +1,13 @@
+# stevedata 1.0.0
+
+Additions include:
+
+- `PRDEG`: a replication data set on property rights, democracy, and economic growth.
+
+Updates include:
+
+- `turnips` has new turnip prices. Also includes a "bug" fix for me lazily forgetting it's 2023 now.
+
 # stevedata 0.9.0
 
 The newest release will have some new and updated data sets. Additions include:
