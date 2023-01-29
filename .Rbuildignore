@@ -12,3 +12,4 @@ vignettes/
 vignettes
 Makefile
 ^CRAN-SUBMISSION$
+^_dross$
