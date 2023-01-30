@@ -3,6 +3,7 @@
 Additions include:
 
 - `PRDEG`: a replication data set on property rights, democracy, and economic growth.
+- `OODTPT`: a replication data set on democracy and trade policy.
 
 Updates include:
 
