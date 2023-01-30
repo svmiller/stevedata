@@ -16,7 +16,7 @@ blog](http://svmiller.com/blog/), show my students something in one of
 myself. I had stuffed a lot of these into
 [`{stevemisc}`](https://github.com/svmiller/stevemisc), but I want to
 keep that package mostly about the functions (and whatever data are
-useful for showing off the functions). `{stevedata}` will have all my
+necessary for showing off the functions). `{stevedata}` will have all my
 toy data going forward.
 
 I anticipate two sets of R users may find these data useful. First,
@@ -35,9 +35,8 @@ including (but not limited to) [carbon dioxide emissions over 800,000
 years](https://github.com/svmiller/stevedata/blob/master/man/co2emissions.Rd)
 (as an illustration of climate change), [coffee
 prices](https://github.com/svmiller/stevedata/blob/master/man/coffee_price.Rd)
-(as an illustration of the worsening [terms of
-trade](https://www.economicsonline.co.uk/Global_economics/Terms_of_trade.html#:~:text=A%20worsening%20terms%20of%20trade,the%20price%20of%20manufactured%20goods.)),
-[the justifiability of
+(as an illustration of the worsening terms of trade, [the justifiability
+of
 bribe-taking](https://github.com/svmiller/stevedata/blob/master/man/wvs_justifbribe.Rd)
 (as an illustration of information-poor and discrete variables that a
 researcher may be tempted to treat as drawn from a normal distribution),
@@ -56,9 +55,9 @@ this package from CRAN rather than work through potential
 [`curl`](https://curl.se) issues by installing through Github.
 
 In almost all instances, each data set has an underlying code/script
-that generates them. These are in a `data-raw` directory that is not
-included in the Github repository or the R package. However, I invite
-users to reach out with questions about the data if they have them.
+that generates them. These are in a `data-raw` directory that is
+(increasingly) included in the Github repository (but not the R
+package).
 
 ## Installation
 

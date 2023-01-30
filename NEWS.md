@@ -8,6 +8,7 @@ Additions include:
 Updates include:
 
 - `turnips` has new turnip prices. Also includes a "bug" fix for me lazily forgetting it's 2023 now.
+- `coffee_imports` is now a panel, based on the same underlying data.
 
 # stevedata 0.9.0
 
