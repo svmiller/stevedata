@@ -1,9 +1,9 @@
 pandoc: 2.19.2
-pkgdown: 2.0.6
+pkgdown: 2.0.7
 pkgdown_sha: ~
 articles:
   stevedata-description: stevedata-description.html
-last_built: 2023-01-29T09:22Z
+last_built: 2023-01-30T12:56Z
 urls:
   reference: http://svmiller.com/reference
   article: http://svmiller.com/articles

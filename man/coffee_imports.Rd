@@ -5,19 +5,20 @@
 \alias{coffee_imports}
 \title{Coffee Imports for Select Importing Countries}
 \format{
-A data frame with 30 observations on the following 3 variables.
+A data frame with 1050 observations on the following 3 variables.
 \describe{
-\item{\code{year}}{the year}
-\item{\code{imports}}{coffee imports for all select importing countries (in thousand 60-kg bags)}
-\item{\code{usaimports}}{coffee imports for just the United States (in thousand 60-kg bags)}
+\item{\code{country}}{a character vector for the country}
+\item{\code{year}}{a numeric vector for the year}
+\item{\code{value}}{a numeric vector for the coffee imports for all select importing countries (in thousand 60-kg bags)}
 }
 }
 \usage{
 coffee_imports
 }
 \description{
-A simple time series on coffee imports for select importing
- countries (i.e. European Union + Japan + Russia + Tunisia + United States).
+A simple panel on coffee imports for select importing countries
+(i.e. European Union + Japan + Norway + Russia + Switzerland + Tunisia +
+the United Kingdom + United States).
 }
 \details{
 Data come from the International Coffee Organization, of which I feel I should be a member.
