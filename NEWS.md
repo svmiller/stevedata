@@ -8,7 +8,8 @@ Additions include:
 Updates include:
 
 - `turnips` has new turnip prices. Also includes a "bug" fix for me lazily forgetting it's 2023 now.
-- `coffee_imports` is now a panel, based on the same underlying data.
+- `coffee_imports` is now a panel, based on the same underlying data. IT has both member and non-member data, though that much may involve some light cleaning/recoding.
+- `thatcher_approval` no longer has a year column, though you could easily get that from the `date` column.
 
 # stevedata 0.9.0
 

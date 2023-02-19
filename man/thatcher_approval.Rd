@@ -5,9 +5,8 @@
 \alias{thatcher_approval}
 \title{Margaret Thatcher Satisfaction Ratings, 1980-1990}
 \format{
-A data frame with 125 observations on the following 9 variables.
+A data frame with 125 observations on the following 8 variables.
 \describe{
-\item{\code{year}}{the year of the poll}
 \item{\code{poll_date}}{the effective "date" of the public opinion poll}
 \item{\code{date}}{a date for the poll, to make for easier plotting}
 \item{\code{govt_sat}}{the percentage of respondents saying they were satisfied with the government}
