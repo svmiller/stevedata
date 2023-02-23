@@ -33,6 +33,7 @@ For example, there is no independent Armenia in 1990 (and whatever imports
 Armenia had are lumped into the USSR value for 1990). Likewise, the 0s for
 the USSR in 1992 are communicating the USSR no longer exists that year and you
 should instead look into one of the constituent republics for the information
-you want.
+you want. You may want to benchmark this information to some kind of state
+system membership data.
 }
 \keyword{datasets}

@@ -3,9 +3,9 @@
 \docType{data}
 \name{LOTI}
 \alias{LOTI}
-\title{Land-Ocean Temperature Index, 1880-2020}
+\title{Land-Ocean Temperature Index, 1880-2022}
 \format{
-A data frame with 1,692 observations on the following 2 variables.
+A data frame with 1,716 observations on the following 2 variables.
 \describe{
  \item{\code{date}}{a date, mostly to contain information for the year and month}
  \item{\code{value}}{the mean temperature anomaly as deviation from corresponding 1951-1980 mean}
