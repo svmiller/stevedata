@@ -16,7 +16,7 @@ NULL
 #' \item{\code{dweight}}{a design weight}
 #' \item{\code{pspwght}}{a post-stratification weight, including the design weight}
 #' \item{\code{pweight}}{a population size weight}
-#' \item{\code{anweight}}{an analaysis weight}
+#' \item{\code{anweight}}{an analysis weight}
 #' \item{\code{prob}}{the sampling probability}
 #' \item{\code{stratum}}{the sampling stratum}
 #' \item{\code{psu}}{the primary sampling unit}

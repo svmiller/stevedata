@@ -11,6 +11,7 @@ Updates include:
 - `coffee_imports` is now a panel, based on the same underlying data. IT has both member and non-member data, though that much may involve some light cleaning/recoding.
 - `thatcher_approval` no longer has a year column, though you could easily get that from the `date` column.
 - `LOTI` is updated through 2022.
+- Assorted documentation clarifications/fixes.
 
 # stevedata 0.9.0
 
