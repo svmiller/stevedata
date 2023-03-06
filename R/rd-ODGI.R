@@ -1,7 +1,7 @@
 #' @importFrom tibble tibble
 NULL
 
-#' Ozone Depleting Gas Index Data, 1992-2019
+#' Ozone Depleting Gas Index Data, 1992-2022
 #'
 #' The NOAA Earth System Research Laboratory has an "ozone depleting gas index"
 #'  (ODGI) data set from 1992 to 2018. This dataset summarizes Table 1 and Table 2 from its website.
@@ -10,7 +10,7 @@ NULL
 #'  gases/chlorines as well in parts per trillion. The primary use here is for
 #'  in-class illustration.
 #'
-#' @format A data frame with 56 observations on the following 16 variables.
+#' @format A data frame with 76 observations on the following 16 variables.
 #' \describe{
 #' \item{\code{year}}{the year}
 #' \item{\code{cat}}{categorical variable for the Antarctic or Mid-Latitudes measurements}
