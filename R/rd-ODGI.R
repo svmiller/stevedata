@@ -10,7 +10,7 @@ NULL
 #'  gases/chlorines as well in parts per trillion. The primary use here is for
 #'  in-class illustration.
 #'
-#' @format A data frame with 76 observations on the following 16 variables.
+#' @format A data frame with 62 observations on the following 16 variables.
 #' \describe{
 #' \item{\code{year}}{the year}
 #' \item{\code{cat}}{categorical variable for the Antarctic or Mid-Latitudes measurements}

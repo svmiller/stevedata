@@ -5,7 +5,7 @@
 \alias{ODGI}
 \title{Ozone Depleting Gas Index Data, 1992-2022}
 \format{
-A data frame with 76 observations on the following 16 variables.
+A data frame with 62 observations on the following 16 variables.
 \describe{
 \item{\code{year}}{the year}
 \item{\code{cat}}{categorical variable for the Antarctic or Mid-Latitudes measurements}
