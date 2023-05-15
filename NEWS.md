@@ -5,6 +5,7 @@ Additions include:
 - `PRDEG`: a replication data set on property rights, democracy, and economic growth.
 - `OODTPT`: a replication data set on democracy and trade policy.
 - `wbd_example`: a simple panel data set of some World Bank indicators, useful for explaining merge issues in panel data.
+- `eurostat_codes`: a simple data set on Eurostat country codes and country groupings.
 
 Updates include:
 
