@@ -35,7 +35,6 @@ summary statistics alone; always visualize your data''.
 Matejka, Justin and George Fitzmaurice. 2017. ``Same Stats, Different Graphs: Generating Datasets
 with Varied Appearance and Identical Statistics through Simulated Annealing.''
 \emph{ACM SIGCHI Conference on Human Factors in Computing Systems}.
-\emph{URL:} \url{https://www.autodesk.com/research/publications/same-stats-different-graphs}
 }
 \author{
 Alberto Cairo, Justin Matejka, George Fitzmaurice
