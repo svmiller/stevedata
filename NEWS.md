@@ -1,3 +1,9 @@
+# stevedata 1.1.0
+
+Additions include:
+
+- `scb_regions`: a data set that can identify territorial units with more intuitive names as given by the Central Bureau of Statistics ("Statistiska centralbyrån") in Sweden.
+
 # stevedata 1.0.0
 
 Additions include:
