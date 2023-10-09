@@ -2,6 +2,7 @@
 
 Additions include:
 
+- `GHR04`: A data set to replicate Ghobarah et al.'s (2004) analyis on the correlates of comparative public health.
 - `scb_regions`: a data set that can identify territorial units with more intuitive names as given by the Central Bureau of Statistics ("Statistiska centralbyrån") in Sweden.
 
 # stevedata 1.0.0
