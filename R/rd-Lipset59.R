@@ -58,7 +58,7 @@ NULL
 #'
 #'
 #' Andic, Suphan and Alan T. Peacock. 1961. "The International Distribution of
-#' Income, 1949 and 1957." *Journal of the Royal Statistical Society. Series A
+#' Income, 1949 and 1957." *Journal of the Royal Statistical Society*. Series A
 #' (General) 124(2): 206-218.
 #'
 #' Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg,
