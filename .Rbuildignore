@@ -13,3 +13,4 @@ vignettes
 Makefile
 ^CRAN-SUBMISSION$
 ^_dross$
+^_pilot$
