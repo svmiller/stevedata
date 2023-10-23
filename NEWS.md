@@ -2,7 +2,7 @@
 
 Additions include:
 
-- `GHR04`: A data set to replicate Ghobarah et al.'s (2004) analyis on the correlates of comparative public health.
+- `GHR04`: a data set to replicate Ghobarah et al.'s (2004) analysis on the correlates of comparative public health.
 - `Lipset59`: a data set for assessing the relationship between democracy and economic development, much like Lipset (1959) famously did.
 - `scb_regions`: a data set that can identify territorial units with more intuitive names as given by the Central Bureau of Statistics ("Statistiska centralbyrån") in Sweden.
 
