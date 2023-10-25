@@ -15,7 +15,7 @@ A data frame with 48 observations on the following 11 variables.
 \item{\code{unpop}}{a population size (in thousands)}
 \item{\code{uninc}}{a national income (in millions)}
 \item{\code{unincpc}}{a national income per capita}
-\item{\code{xm_qudest}}{a "Quick UDS" estimate of democracy on a latent scale (see details)}
+\item{\code{xm_qudsest}}{a "Quick UDS" estimate of democracy on a latent scale (see details)}
 \item{\code{v2x_polyarchy}}{the Varieties of Democracy "polyarchy" estimate (see details)}
 \item{\code{polity2}}{the \code{polity2} score from the Polity project (see details)}
 }
