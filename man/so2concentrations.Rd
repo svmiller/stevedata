@@ -15,7 +15,7 @@ based on 32 trend sites, in parts per billion}
 }
 }
 \source{
-Environmental Protection Agency, 2021. \url{https://www.epa.gov/air-trends/sulfur-dioxide-trends}
+Environmental Protection Agency ("Sulfur Dioxide Trends")
 }
 \usage{
 so2concentrations

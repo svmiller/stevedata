@@ -34,6 +34,6 @@ These are data from the 2009 NHIS survey. People who have read
 \details{
 Data are already cleaned in a way that facilitates an easy
 replication of Table 1.1 in \emph{Mastering 'Metrics}. Check
-\url{http://www.masteringmetrics.com} for more information.
+the book's website for more information.
 }
 \keyword{datasets}

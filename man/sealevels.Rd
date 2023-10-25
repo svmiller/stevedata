@@ -15,7 +15,7 @@ A data frame with 136 observations on the following 5 variables.
 }
 }
 \source{
-\url{https://www.epa.gov/climate-indicators/climate-change-indicators-sea-level}
+Environmental Protection Agency ("Climate Change Indicators: Sea Level")
 }
 \usage{
 sealevels

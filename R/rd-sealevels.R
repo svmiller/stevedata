@@ -17,7 +17,7 @@ NULL
 #' \item{\code{adjlev_noaa}}{NOAA's adjusted sea level (in inches)}
 #' }
 #'
-#' @source \url{https://www.epa.gov/climate-indicators/climate-change-indicators-sea-level}
+#' @source Environmental Protection Agency ("Climate Change Indicators: Sea Level")
 #'
 #' @references CSIRO (Commonwealth Scientific and Industrial Research Organisation).
 #' 2015 update to data originally published in: Church, J.A., and N.J. White. 2011.

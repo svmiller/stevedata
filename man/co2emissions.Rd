@@ -23,11 +23,11 @@ This is a sample data set, cobbled from various sources, about
 }
 \details{
 The data come from many sources. Before 0 CE, the data come from 10 sources
-described here by the EPA
-(\url{https://www.epa.gov/climate-indicators/climate-change-indicators-atmospheric-concentrations-greenhouse-gases}).
-Observations from 0 CE to 2014 come from Meinshausen et al. (2017)
-(\url{https://gmd.copernicus.org/articles/10/2057/2017/}). Observations from 2015 forward come
-from NASA (\url{https://climate.nasa.gov/vital-signs/carbon-dioxide/}).
+described by the Environmental Protection Agency ("Climate Change Indicators:
+Atmospheric Concentrations of Greenhouse Gases"). Observations from 0 CE to
+2014 come from Meinshausen et al. (2017)
+\doi{10.5194/gmd-10-2057-2017}. Observations from 2015 forward come
+from NASA ("Vital Signs").
 }
 \references{
 EPICA Dome C and Vostok Station, Antarctica: approximately 796,562 BCE to 1813 CE
@@ -39,14 +39,13 @@ Law Dome, Antarctica, 75-year smoothed: approximately 1010 CE to 1975 CE
 Etheridge, D.M., L.P. Steele, R.L. Langenfelds, R.J. Francey, J.-M. Barnola,
 and V.I. Morgan. 1998. Historical CO2 records from the Law Dome DE08, DE08-2,
 and DSS ice cores. In: Trends: A compendium of data on global change.
-Oak Ridge, TN: U.S. Department of Energy. \url{https://cdiac.ess-dive.lbl.gov/trends/co2/lawdome.html}.
+Oak Ridge, TN: U.S. Department of Energy.
 
 Siple Station, Antarctica: approximately 1744 CE to 1953 CE Neftel, A.,
 H. Friedli, E. Moor, H. Lötscher, H. Oeschger, U. Siegenthaler, and B. Stauffer.
 1994. Historical carbon dioxide record from the Siple Station ice core.
 In: Trends: A compendium of data on global change.
 Oak Ridge, TN: U.S. Department of Energy.
-\url{https://cdiac.ess-dive.lbl.gov/trends/co2/siple.html}
 
 Mauna Loa, Hawaii: 1959 CE to 2015 CE NOAA
 (National Oceanic and Atmospheric Administration). 2016.
@@ -63,13 +62,11 @@ Cape Grim, Australia: 1992 CE to 2006 CE Shetland Islands, Scotland:
 Atmospheric CO2 concentrations (ppmv) derived from flask air samples collected at
 Cape Grim, Australia, and Shetland Islands, Scotland. Commonwealth Scientific
 and Industrial Research Organisation.
-\url{https://cdiac.ess-dive.lbl.gov/trends/co2/sio-keel-flask/sio-keel-flaskmlo_c.html}.
 
 Lampedusa Island, Italy: 1993 CE to 2000 CE Chamard, P., L. Ciattaglia, A. di Sarra,
 and F. Monteleone. 2001. Atmospheric carbon dioxide record from flask measurements
 at Lampedusa Island. In: Trends: A compendium of data on global change.
 Oak Ridge, TN: U.S. Department of Energy.
-\url{https://cdiac.ess-dive.lbl.gov/trends/co2/lampis.html}.
 
 Meinshausen, M., Vogel, E., Nauels, A., Lorbacher, K., Meinshausen,
 N., Etheridge, D. M., Fraser, P. J., Montzka, S. A., Rayner, P. J., Trudinger,
@@ -78,6 +75,5 @@ I. G., Law, R. M., Lunder, C. R., O'Doherty, S., Prinn, R. G., Reimann, S., Rubi
 M., Velders, G. J. M., Vollmer, M. K., Wang, R. H. J., and Weiss, R.:
 Historical greenhouse gas concentrations for climate modelling (CMIP6),
 Geosci. Model Dev., 10, 2057-2116, 2017.
-\url{https://gmd.copernicus.org/articles/10/2057/2017/}.
 }
 \keyword{datasets}

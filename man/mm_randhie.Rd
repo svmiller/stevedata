@@ -47,7 +47,7 @@ People who have read \emph{Mastering 'Metrics} should recognize these data. They
 Data are already cleaned in a way that facilitates an easy
 replication of Table 1.3 and a partial replication of
 Table 1.4 in \emph{Mastering 'Metrics}. Check
-\url{http://www.masteringmetrics.com} for more information. I want to note
+the book's website for more information. I want to note
 that my treatment of the data leans heavily on Jeff Arnold's
 treatment of it. Check \url{https://jrnold.github.io/masteringmetrics/} for
 more information. Future updates to the data may pursue a more exhaustive

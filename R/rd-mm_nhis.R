@@ -24,7 +24,7 @@ NULL
 #'
 #' @details Data are already cleaned in a way that facilitates an easy
 #' replication of Table 1.1 in \emph{Mastering 'Metrics}. Check
-#' \url{http://www.masteringmetrics.com} for more information.
+#' the book's website for more information.
 #'
 #' @source National Health Interview Survey (2009).
 #'

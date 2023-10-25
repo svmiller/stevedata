@@ -1,3 +1,7 @@
+## Feedback to CRAN in light of initial rejection
+
+URL redirects will be the death of me. I'm sorry about that. I believe I fixed that here.
+
 ## Test environments
 
 * ubuntu 22.04, R 4.1.2
