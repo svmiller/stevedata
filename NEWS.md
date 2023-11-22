@@ -1,3 +1,9 @@
+# stevedata 1.2.0
+
+Updates include:
+
+- `DJIA` has more recent data and fixes an unfortunate gap from 1985 to 1992.
+
 # stevedata 1.1.0
 
 Additions include:
