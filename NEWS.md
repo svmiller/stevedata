@@ -1,5 +1,9 @@
 # stevedata 1.2.0
 
+Additions include:
+
+- `DCE12`: a data set on domestic conflict events in 2012, useful for teaching about regression of count data.
+
 Updates include:
 
 - `DJIA` has more recent data and fixes an unfortunate gap from 1985 to 1992.
