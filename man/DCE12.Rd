@@ -9,23 +9,23 @@ A data frame with 198 observations on the following 19 variables.
 \describe{
 \item{\code{iso2c}}{a two-character ISO code}
 \item{\code{country}}{a character name for the country corresponding with the ISO code}
-\item{\code{domestic1}}{the count of assassinations in 2012}
-\item{\code{domestic2}}{the count of general strikes in 2012}
-\item{\code{domestic3}}{the count of guerilla warfare events in 2012}
-\item{\code{domestic4}}{the count of government crises in 2012}
-\item{\code{domestic5}}{the count of purges in 2012}
-\item{\code{domestic6}}{the count of riots in 2012}
-\item{\code{domestic7}}{the count of revolutions in 2012}
-\item{\code{domestic8}}{the count of anti-government demonstrations in 2012}
-\item{\code{domestic9}}{the weighted conflict index in 2012}
-\item{\code{area1}}{the land area in square kilometers}
-\item{\code{tadultpop}}{the adult (15+) population (in 1000s)}
+\item{\code{assassinations}}{the count of assassinations in 2012}
+\item{\code{strikes}}{the count of general strikes in 2012}
+\item{\code{guerwar}}{the count of guerilla warfare events in 2012}
+\item{\code{gvotcrises}}{the count of government crises in 2012}
+\item{\code{purges}}{the count of purges in 2012}
+\item{\code{riots}}{the count of riots in 2012}
+\item{\code{revolutions}}{the count of revolutions in 2012}
+\item{\code{agd}}{the count of anti-government demonstrations in 2012}
+\item{\code{wci}}{the weighted conflict index in 2012}
+\item{\code{area}}{the land area in square kilometers}
+\item{\code{adultpop}}{the adult (15+) population (in 1000s)}
 \item{\code{youthpop}}{the youth (15-29) population (in 1000s)}
 \item{\code{gdppc}}{GDP per capita (in constant 2015 USD)}
 \item{\code{urbanshare}}{urban population over total population (as percentage)}
 \item{\code{tpop}}{total population (in 1000s)}
-\item{\code{v2x_polyarchy}}{electoral democracy index}
-\item{\code{v2petersch}}{percentage of tertiary school-aged population enrolled in tertiary school}
+\item{\code{polyarchy}}{electoral democracy index, an estimate of democracy}
+\item{\code{perctser}}{percentage of tertiary school-aged population enrolled in tertiary school}
 }
 }
 \usage{
@@ -46,5 +46,9 @@ the Varieties of Democracy project. Population estimates come from the UN
 Population Division. GDP per capita comes from the World Bank. The estimate
 of land area (in square kilometers) come from the CNTS. Country name comes
 from CNTS as well.
+
+Democracy estimate for Palestine comes as a simple average of the two
+Palestinian territories collected by the Varieties of Democracy project.
+These are West Bank and Gaza.
 }
 \keyword{datasets}
