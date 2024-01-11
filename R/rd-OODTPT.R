@@ -14,7 +14,7 @@ NULL
 #' \item{\code{corecov}}{the core non-tariff barrier coverage ratio}
 #' \item{\code{qualcov}}{the quality non-tariff barrier coverate ratio}
 #' \item{\code{polity}}{the familiar [-10,10] Polity measure of democracy}
-#' \item{\code{iec}}{the index of electorcal competitiveness from the World Bank}
+#' \item{\code{iec}}{the index of electoral competitiveness from the World Bank}
 #' \item{\code{lngdppc}}{real GDP per capita in 1995 dollars}
 #' \item{\code{lngdp}}{real GDP in 1995 dollars}
 #' \item{\code{lnexpgdp}}{export dependence (i.e. export/GDP ratio)}

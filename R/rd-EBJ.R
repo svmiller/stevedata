@@ -1,0 +1,35 @@
+#' @importFrom tibble tibble
+NULL
+
+#' The Economic Benefits of Justice
+#'
+#' A data set on the apparent economic benefits of post-conflict justice
+#'
+#' @format A data frame with 95 observations on the following 12 variables.
+#' \describe{
+#' \item{\code{testnewid_lag}}{an apparent identifier variable, of some description}
+#' \item{\code{ccode}}{a Correlates of War(?) state code for the location of a conflict}
+#' \item{\code{id}}{an apparent identifier variable, of some description}
+#' \item{\code{pcj}}{a dummy variable for whether there was some kind of post-conflict justice institution created after a conflict}
+#' \item{\code{fdi}}{a variable on net FDI inflows over a 10-year period after a conflict (in millions USD)}
+#' \item{\code{econ_size}}{GDP, as an estimate of economic size}
+#' \item{\code{econ_devel}}{GDP per capita, as an estimate of economic development}
+#' \item{\code{kaopen}}{KAOPEN index score, as an estimate of capital openness}
+#' \item{\code{xr}}{exchange rate fluctuations, as an indicator of exchange rate instability}
+#' \item{\code{lifeexp}}{average life expectancy for women, in years}
+#' }
+#'
+#' @details
+#'
+#' Data are taken Appell and Loyle's (2012) replication data set. Users should
+#' read their article in *Journal of Peace Research* for more information about
+#' the topic, the stake, and how the data were collected. This is just a simple,
+#' reduced form of their data that is minimally sufficient for reproducing the
+#' first model of their Table I.
+#'
+#' @references
+#'
+#' Appell, Benjamin J. and Cyanne E. Loyle. 2012. "The Economic Benefits of
+#' Justice: Post-conflict Justice and Foreign Direct Investment" 49(5): 685--99.
+#'
+"EBJ"

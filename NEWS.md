@@ -3,10 +3,12 @@
 Additions include:
 
 - `DCE12`: a data set on domestic conflict events in 2012, useful for teaching about regression of count data.
+- `EBJ`: a data set on the economic benefits of post-conflict justice institutions.
 
 Updates include:
 
 - `DJIA` has more recent data and fixes an unfortunate gap from 1985 to 1992.
+- Assorted documentation updates.
 
 # stevedata 1.1.0
 
