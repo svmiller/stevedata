@@ -14,8 +14,10 @@ NULL
 #' \item{\code{fdi}}{a variable on net FDI inflows over a 10-year period after a conflict (in millions USD)}
 #' \item{\code{econ_size}}{GDP, as an estimate of economic size}
 #' \item{\code{econ_devel}}{GDP per capita, as an estimate of economic development}
+#'  \item{\code{econ_growth}}{GDP per capita change, as an estimate of economic growth}
 #' \item{\code{kaopen}}{KAOPEN index score, as an estimate of capital openness}
 #' \item{\code{xr}}{exchange rate fluctuations, as an indicator of exchange rate instability}
+#' \item{\code{lf}}{labor force size}
 #' \item{\code{lifeexp}}{average life expectancy for women, in years}
 #' }
 #'
@@ -24,8 +26,8 @@ NULL
 #' Data are taken Appell and Loyle's (2012) replication data set. Users should
 #' read their article in *Journal of Peace Research* for more information about
 #' the topic, the stake, and how the data were collected. This is just a simple,
-#' reduced form of their data that is minimally sufficient for reproducing the
-#' first model of their Table I.
+#' reduced form of the data they make available that is minimally sufficient for
+#' reproducing the first model of their Table I.
 #'
 #' @references
 #'
