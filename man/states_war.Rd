@@ -11,7 +11,10 @@ A data frame with 17 variables.
 \item{\code{ccode}}{a numeric for the Correlates of War state code}
 \item{\code{stdate}}{a character vector communicating participant start date. See details for more.}
 \item{\code{enddate}}{a character vector communicating participant start date. See details for more.}
+\item{\code{mindur}}{a numeric vector communicating minimum duration in confrontation. See details for more.}
+\item{\code{maxdur}}{a numeric vector communicating minimum duration in confrontation. See details for more.}
 \item{\code{sidea}}{a numeric vector communicating whether participant was on side that initiated confrontation}
+\item{\code{orig}}{a numeric vector communicating whether participant was in confrontation on day one}
 \item{\code{hiact}}{a numeric vector communicating highest action during confrontation}
 \item{\code{fatalmin}}{a numeric vector for minimum estimated fatalities for participant}
 \item{\code{fatalmax}}{a numeric vector for maximum estimated fatalities for participant}
@@ -24,6 +27,9 @@ A data frame with 17 variables.
 \item{\code{v2x_polyarchy}}{the Varieties of Democracy "polyarchy" estimate}
 \item{\code{polity2}}{the the \code{polity2} score from the Polity project}
 \item{\code{xm_qudsest}}{an extension of the Unified Democracy Scores (UDS) estimates, made possibly by the \pkg{QuickUDS} package from Xavier Marquez.}
+\item{\code{wbgdp2011est}}{a numeric vector for the estimated natural log of GDP in 2011 USD (log-transformed)}
+\item{\code{wbpopest}}{a numeric vector for the estimated population size (log-transformed)}
+\item{\code{wbgdppc2011est}}{a numeric vector for the estimated GDP per capita (log-transformed)}
 }
 }
 \usage{
@@ -35,6 +41,10 @@ A data set on state performance in inter-state wars. This data is useful for
  current data.
 }
 \details{
+Anders, Therese, Christopher J. Fariss, and Jonathan N. Markowitz. 2020.
+"Bread Before Guns or Butter: Introducing Surplus Domestic Product (SDP)"
+\emph{International Studies Quarterly} 64(2): 392--405.
+
 Start date and end date are in "MM/D(D)/YYYY" format. You can extract this
 information into multiple columns with a \code{separate} function from the
 \pkg{tidyr} package. This is mostly for convenience. Be mindful of two things:
@@ -52,22 +62,27 @@ one instance (for six days in Feb. 1953) where the U.S. engaged in an attack.
 World War II is a classic case of participants switching sides (France did
 so three times), but it also happened in the War of Latvian Independence as
 well (MIC#2604). The War of Attrition also saw the Russians reappear twice.
-Cases like these aren't included, mostly for convenience sake. In total, nine
+Cases like these aren't included, mostly for convenience sake. In total, 41
 cases with 1,000 maximum fatalities or more at the confrontation-level are
-excluded because of this. Of these nine cases, World War II and the Vietnam
+excluded because of this. Of these 41 cases, World War II and the Vietnam
 War are the most conspicuous by their absence. Data come from version 1.01 of
 the Militarized Interstate Confrontation data.
 
 Opponent fatalities are strictly dyadic and are derived from the Militarized
 Interstate Events data.
 
-Capabilities and democracy data come from \pkg{peacesciencer} for a forthcoming
-v. 1.2.0 release. See package for more information, though references are
-also included below. Variables are mostly lagged to the year prior to the
-participant observation year. However, there are several cases in the data
-that are born into war (see: India, Pakistan, North and South Korea, North
-and South Vietnam). In cases of missing data, information from the observation
-year is used.
+Capabilities, GDP, and democracy data come from \pkg{peacesciencer} for a
+forthcoming v. 1.2.0 release. See package for more information, though
+references are also included below. Variables are mostly lagged to the year
+prior to the participant observation year. However, there are several cases
+in the data that are born into war (see: India, Pakistan, North and South
+Korea, North and South Vietnam). In cases of missing data, information from
+the observation year is used.
+
+The \code{tpop} and \code{wbpopest} columns are measuring the same thing but
+are derived from two different data sets with two different data-generating
+procedures. Use whichever one you like, but be mindful of what you're doing
+and for what purpose you're doing it.
 }
 \references{
 Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg,
