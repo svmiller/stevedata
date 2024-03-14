@@ -3,6 +3,7 @@
 Additions include:
 
 - `DCE12`: a data set on domestic conflict events in 2012, useful for teaching about regression of count data.
+- `DAPO`: a data set on the determinants of public opinion in seven Arab countries.
 - `EBJ`: a data set on the economic benefits of post-conflict justice institutions.
 - `states_war`: a data set on state performance in inter-state war.
 
