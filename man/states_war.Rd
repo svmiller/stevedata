@@ -125,7 +125,7 @@ Singer, J. David. 1987. "Reconstructing the Correlates of War Dataset on
 Material Capabilities of States, 1816-1985" International Interactions,
 14: 115-32.
 
-Valentino, Benjamin Al, Paul K. Huth, and Sarah E. Croco. 2010. "Bear Any
+Valentino, Benjamin A., Paul K. Huth, and Sarah E. Croco. 2010. "Bear Any
 Burden? How Democracies Minimize the Costs of War." Journal of Politics
 72(2): 528-544
 }

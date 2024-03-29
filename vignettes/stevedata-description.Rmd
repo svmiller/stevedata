@@ -12,11 +12,12 @@ options(rmarkdown.html_vignette.check_title = FALSE)
 
 Here is a description of every data set in `{stevedata}`. The underlying code in the `vignettes/` folder will show the code that formats this table.
 
-```{r setup}
+```{r setup, message=F, warning=F}
 library(stevedata)
 library(knitr)
 library(tibble)
 library(tools)
+library(tidyverse)
 ```
 
 
@@ -43,8 +44,28 @@ object_name <- paste0("`",alldata$results[, "Item"],"`")
 object_link <- paste0("[",object_name,"](http://svmiller.com/stevedata/reference/",alldata$results[, "Item"],".html)")
 
 
+d <- alldata$results; 
+names <- d[,'Item']
+
+derp <- c()
+for (i in 1:length(names)) {
+    name <- names[i];
+   # cat(name,':\n');
+    x <- get(gsub('\\s.*','', name));
+    ddd <- tibble(x = as.vector(sapply(x, class))) %>% summarize(n = n(), .by=x) %>% mutate(da = paste0(x," (", n, ")")) %>% pull(da) %>% paste(.,  collapse="; ")
+    #m <- paste(dim(as.matrix(x)),collapse=' ');
+    m <- paste("<br /><br />**Rows:**", nrow(x),
+               "**Columns**:", ncol(x),".<br />",
+               "**Data types**:",ddd)
+    #cat(m);
+    derp <- c(derp, m)
+    #return(derp)
+};
+
+
+
 tibble(`**Object Name**` = object_link,
-       `**Description**` = descripts) -> tibs
+       `**Description**` = paste(descripts, derp)) -> tibs
 
 tibs <- tibs[order(tibs$`**Object Name**`), ]
 
