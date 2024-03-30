@@ -41,7 +41,7 @@ ESS10NO
 }
 \description{
 This is a simple data set to illustrate the use of sampling weights from
-the European Social Survey.
+ the European Social Survey.
 }
 \details{
 You'll want to convert the \code{eu_vote} variable into something usable.

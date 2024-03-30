@@ -12,12 +12,12 @@ options(rmarkdown.html_vignette.check_title = FALSE)
 
 Here is a description of every data set in `{stevedata}`. The underlying code in the `vignettes/` folder will show the code that formats this table.
 
-```{r setup, message=F, warning=F}
+```{r setup, message=F, warning=F, echo=F}
 library(stevedata)
 library(knitr)
 library(tibble)
 library(tools)
-library(tidyverse)
+#library(tidyverse)
 ```
 
 
@@ -52,11 +52,17 @@ for (i in 1:length(names)) {
     name <- names[i];
    # cat(name,':\n');
     x <- get(gsub('\\s.*','', name));
-    ddd <- tibble(x = as.vector(sapply(x, class))) %>% summarize(n = n(), .by=x) %>% mutate(da = paste0(x," (", n, ")")) %>% pull(da) %>% paste(.,  collapse="; ")
+    xx <- sapply(x, class)
+    xxx <- sapply(xx, paste, collapse = '-')
+    aaa <- data.frame(xxxx = as.vector(xxx), o = 1)
+    bbb <- aggregate(o ~ xxxx, aaa, function(x) c(n = length(x)))
+    bbb$da <- paste0(bbb$x," (", bbb$o, ")")
+    ccc <- paste(bbb$da, collapse="; ")
+    #ccc <- tibble(x = as.vector(sapply(x, typeof))) %>% summarize(n = n(), .by=x) %>% mutate(da = paste0(x," (", n, ")")) %>% pull(da) %>% paste(.,  collapse="; ")
     #m <- paste(dim(as.matrix(x)),collapse=' ');
-    m <- paste("<br /><br />**Rows:**", nrow(x),
+    m <- paste("<span style='font-size:90%'><br /><br />**Rows:**", nrow(x),
                "**Columns**:", ncol(x),".<br />",
-               "**Data types**:",ddd)
+               "**Column types**:",ccc, "</span>")
     #cat(m);
     derp <- c(derp, m)
     #return(derp)
