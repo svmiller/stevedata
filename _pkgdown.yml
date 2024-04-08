@@ -7,3 +7,7 @@ template:
 
 figures:
   fig.width: 11
+
+permissions:
+  id-token: write
+  pages: write
