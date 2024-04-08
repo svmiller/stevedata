@@ -14,7 +14,6 @@ NULL
 #' \item{\code{capsub}}{the composite index of national capabilities (capability ratio) of the subject country}
 #' \item{\code{capobj}}{the composite index of national capabilities (capability ratio) of the object country}
 #' \item{\code{securtie}}{a dummy variable indicating at least an informal security tie between the subject and object}
-#' \item{\code{dyadtrde}}{the volume of dyadic trade between subject and object}
 #' \item{\code{export}}{the volume of exports from the subject to the object}
 #' \item{\code{import}}{the volume of imports to the subject from the object}
 #' \item{\code{subgdp}}{the gross domestic product (GDP) of the subject}
@@ -26,8 +25,11 @@ NULL
 #'
 #' Exact coding issues/peculiarities are best addressed by reading the reference
 #' article. To maximally reproduce the article's analyses, the user will need
-#' to create some variables. However, I think this is a learning experience for
-#' students.
+#' to create some variables. The information is here, but you'll need to create
+#' a variable for dyadic trade (and as a percentage of the subject's GDP),
+#' GDP-adjusted imports, a means to filter out Israel from the analysis, and
+#' some of the information reported in Table 1. However, I think this is a
+#' learning experience for students.
 #'
 #' @references
 #'

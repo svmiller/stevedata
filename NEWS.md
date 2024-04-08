@@ -2,6 +2,7 @@
 
 Additions include:
 
+- `african_coups`: a data set on the correlates of African coups from 1960 to 1975 (1982). Useful for replication of an old debate, and for pedagogical instruction about linear models (especially about interactions).
 - `DCE12`: a data set on domestic conflict events in 2012, useful for teaching about regression of count data.
 - `DAPO`: a data set on the determinants of public opinion in seven Arab countries.
 - `EBJ`: a data set on the economic benefits of post-conflict justice institutions.

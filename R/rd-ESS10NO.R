@@ -4,7 +4,7 @@ NULL
 #' Norwegian Attitudes toward European Integration (2021-2022)
 #'
 #' This is a simple data set to illustrate the use of sampling weights from
-#' the European Social Survey.
+#'  the European Social Survey.
 #'
 #' @format A data frame with 1,411 observations on the following 24 variables.
 #' \describe{
