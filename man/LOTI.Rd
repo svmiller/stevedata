@@ -7,8 +7,8 @@
 \format{
 A data frame with 1,716 observations on the following 2 variables.
 \describe{
- \item{\code{date}}{a date, mostly to contain information for the year and month}
- \item{\code{value}}{the mean temperature anomaly as deviation from corresponding 1951-1980 mean}
+\item{\code{date}}{a date, mostly to contain information for the year and month}
+\item{\code{value}}{the mean temperature anomaly as deviation from corresponding 1951-1980 mean}
 }
 }
 \source{
@@ -19,8 +19,8 @@ LOTI
 }
 \description{
 These data contain monthly mean temperature anomalies expressed as deviations
- from the corresponding 1951-1980 means. They are useful for showing
- how we can measure climate change.
+from the corresponding 1951-1980 means. They are useful for showing
+how we can measure climate change.
 }
 \details{
 Data are updated through most recent month, at least for last time I updated it.

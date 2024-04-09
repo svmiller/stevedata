@@ -17,7 +17,7 @@ Presidents
 }
 \description{
 This should be self-evident. Here are all U.S. presidents who have completed
- their terms in office (i.e. excluding the current one).
+their terms in office (i.e. excluding the current one).
 }
 \details{
 I scraped this from \url{https://www.presidentsusa.net/presvplist.html}.

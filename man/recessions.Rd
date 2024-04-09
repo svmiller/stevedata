@@ -25,7 +25,7 @@ recessions
 }
 \description{
 Data on U.S. recessions, past to present. Data include information on contraction,
- expansion, and cycle.
+expansion, and cycle.
 }
 \details{
 Data come from via scraping job of \url{https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions}

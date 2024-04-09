@@ -25,7 +25,7 @@ Lipset59
 }
 \description{
 A data set on democracy and economic development for 48 countries that Lipset
- (1959) first described.
+(1959) first described.
 }
 \details{
 The three variables with the prefix of \code{un} nominally come from the
@@ -59,9 +59,8 @@ Anders, Therese, Christopher J. Fariss, and Jonathan N. Markowitz. 2020.
 "Bread Before Guns or Butter: Introducing Surplus Domestic Product (SDP)"
 \emph{International Studies Quarterly} 64(2): 392--405.
 
-
 Andic, Suphan and Alan T. Peacock. 1961. "The International Distribution of
-Income, 1949 and 1957." *Journal of the Royal Statistical Society*. Series A
+Income, 1949 and 1957." \emph{Journal of the Royal Statistical Society}. Series A
 (General) 124(2): 206-218.
 
 Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg,
@@ -74,8 +73,8 @@ Luca Uberti, Yi-ting Wang, Tore Wig, and Daniel Ziblatt. 2020.
 "V-Dem Codebook v10" Varieties of Democracy (V-Dem) Project.
 
 Lipset, Seymour Martin. 1959. "Some Social Requisites of Democracy:
-Economic Development and Political Legitimacy" *American Political Science
-Review* 53(1): 69-105.
+Economic Development and Political Legitimacy" \emph{American Political Science
+Review} 53(1): 69-105.
 
 Marshall, Monty G., Ted Robert Gurr, and Keith Jaggers. 2017.
 "Polity IV Project: Political Regime Characteristics and Transitions,
@@ -86,6 +85,6 @@ Scores" (March 23, 2016).  \doi{10.2139/ssrn.2753830}
 
 Pemstein, Daniel, Stephen Meserve, and James Melton. 2010. "Democratic
 Compromise: A Latent Variable Analysis of Ten Measures of Regime Type."
-*Political Analysis* 18(4): 426-449.
+\emph{Political Analysis} 18(4): 426-449.
 }
 \keyword{datasets}

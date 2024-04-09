@@ -20,8 +20,8 @@ wvs_immig
 }
 \description{
 A data set on attitudes about immigration for all observations in
- the third to sixth wave of the World Values Survey. I use these
- data for in-class illustration.
+the third to sixth wave of the World Values Survey. I use these
+data for in-class illustration.
 }
 \details{
 1 = "let anyone come". 2 = "as long as jobs are available". 3 = "strict limits".

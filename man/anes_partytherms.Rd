@@ -30,7 +30,7 @@ A data frame with 33830 observations on the following 19 variables.
 \item{\code{govt_crooked}}{the respondent's assessment of how many government officials are crooked. 1 = Hardly any. 2 = Not many. 3 = Quite a few; quite a lot.}
 \item{\code{govt_waste}}{the respondent's assessment of how much the government wastes in tax money. 1 = Not very much. 2 = Some. 3 = A lot.}
 \item{\code{govt_biginterests}}{the respondent's assessment of whether the government is run by a few big interests. 0 = Run for the benefit of all people.
- 1 = Run by a few big interests.}
+1 = Run by a few big interests.}
 }
 }
 \source{
@@ -41,8 +41,8 @@ anes_partytherms
 }
 \description{
 A data set on thermometer ratings for the Democratic party, Republican party,
- "both major parties", and a major party thermometer index from the
- American National Election Studies (1978-2012).
+"both major parties", and a major party thermometer index from the
+American National Election Studies (1978-2012).
 }
 \details{
 The major party thermometer index is calculated as the thermometer rating for the

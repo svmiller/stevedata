@@ -19,7 +19,7 @@ Arca
 }
 \description{
 Daily data on the NYSE Arca Steel Index. These data are useful for me in
- teaching how Trump's 2018 steel tariffs didn't do much good for the steel industry.
+teaching how Trump's 2018 steel tariffs didn't do much good for the steel industry.
 }
 \details{
 These data are taken from \code{investing.com}.

@@ -24,8 +24,8 @@ asn_stats
 }
 \description{
 These are yearly counts on air accidents and fatalities, including measures for
- corporate jet accidents and hijackings. The hijackings are of particular interest
- to me, at least from a historical terrorism perspective.
+corporate jet accidents and hijackings. The hijackings are of particular interest
+to me, at least from a historical terrorism perspective.
 }
 \details{
 All fatality estimates exclude ground fatalities. All accidents are hull-loss accidents.

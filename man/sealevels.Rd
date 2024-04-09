@@ -22,9 +22,9 @@ sealevels
 }
 \description{
 These data describe how sea level has changed over time, in both
- relative and absolute terms. Absolute sea level change refers to
- the height of the ocean surface regardless of whether nearby
- land is rising or falling.
+relative and absolute terms. Absolute sea level change refers to
+the height of the ocean surface regardless of whether nearby
+land is rising or falling.
 }
 \references{
 CSIRO (Commonwealth Scientific and Industrial Research Organisation).

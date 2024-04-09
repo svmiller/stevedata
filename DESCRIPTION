@@ -18,6 +18,7 @@ Encoding: UTF-8
 LazyData: true
 LazyDataCompression: xz
 RoxygenNote: 7.2.3
+Roxygen: list(markdown = TRUE)
 URL: http://svmiller.com/stevedata/
 BugReports: https://github.com/svmiller/stevedata/issues/
 Suggests: 

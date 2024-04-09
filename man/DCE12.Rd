@@ -33,7 +33,7 @@ DCE12
 }
 \description{
 A data set on domestic conflict events in 2012 as recorded by the Cross-National
- Time Series Database. Data exist for teaching about count models.
+Time Series Database. Data exist for teaching about count models.
 }
 \details{
 Conflict events data come from the Cross-National Time Series Database. I've

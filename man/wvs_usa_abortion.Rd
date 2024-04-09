@@ -30,11 +30,11 @@ wvs_usa_abortion
 }
 \description{
 A data set on attitudes about the justifiability of abortion in the United States
- based on World Values Survey responses recorded across six waves (from 1982
- to 2011). I assembled this data frame probably around 2014 and routinely use it
- for in-class illustration about regression, post-estimation simulation, quantities of
- interest, and how to think about modeling a dependent variable that is on a
- 1-10 scale, but has curious heaping patterns.
+based on World Values Survey responses recorded across six waves (from 1982
+to 2011). I assembled this data frame probably around 2014 and routinely use it
+for in-class illustration about regression, post-estimation simulation, quantities of
+interest, and how to think about modeling a dependent variable that is on a
+1-10 scale, but has curious heaping patterns.
 }
 \details{
 Data come from the World Values Survey. Note that the college education variable

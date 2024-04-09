@@ -19,9 +19,9 @@ fakeTSD
 }
 \description{
 This is a toy (i.e. "fake") data set created by the \code{fabricatr} package.
- There are 100 observations. The outcome \code{y} is a linear function
- of \code{20 + (.25 * year) + .(25 * x1) + (1 * x2) + e}. This clearly implies
- some autocorrelation in the data. I.e. it's a time-series.
+There are 100 observations. The outcome \code{y} is a linear function
+of \code{20 + (.25 * year) + .(25 * x1) + (1 * x2) + e}. This clearly implies
+some autocorrelation in the data. I.e. it's a time-series.
 }
 \details{
 Errors are random-normal with a mean of 0 and a standard deviation of 1.

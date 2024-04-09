@@ -10,11 +10,11 @@ A data frame with 60424 observations on the following 6 variables.
 \item{\code{country}}{a character vector for the country/area.}
 \item{\code{ccode}}{a numeric vector for the Correlates of War country code.}
 \item{\code{category}}{a factor with levels \code{Export Quality Index},
- \code{Export quality 95 percent interval - lower bound},
- \code{Export quality 95 percent interval - upper bound}
- \code{Unit value of exports}, \code{Unit value 95 percent interval - lower bound},
- \code{Unit value 95 percent interval - upper bound},
- \code{Trade value of exports}}
+\code{Export quality 95 percent interval - lower bound},
+\code{Export quality 95 percent interval - upper bound}
+\code{Unit value of exports}, \code{Unit value 95 percent interval - lower bound},
+\code{Unit value 95 percent interval - upper bound},
+\code{Trade value of exports}}
 \item{\code{type}}{a factor with levels \code{51. Transport equipment, Passenger cars}.
 This is a constant. I just felt like making it a factor.}
 \item{\code{year}}{a numeric vector for the year}
@@ -26,7 +26,7 @@ eq_passengercars
 }
 \description{
 Data from the International Monetary Fund for the export quality and
- unit/trade value of passenger cars for all available countries and years
- from 1963 to 2014.
+unit/trade value of passenger cars for all available countries and years
+from 1963 to 2014.
 }
 \keyword{datasets}

@@ -9,8 +9,8 @@ A data frame with 20 observations on the following 5 variables.
 \describe{
 \item{\code{country}}{a character vector for the country}
 \item{\code{union}}{a numeric vector for the percentage of the total number of
- wage and salary earners plus the unemployed who are union members, measured
- between 1975 and 1980, with most of the data drawn from 1979.}
+wage and salary earners plus the unemployed who are union members, measured
+between 1975 and 1980, with most of the data drawn from 1979.}
 \item{\code{left}}{a numeric vector tapping the extent to which parties of
 the left have controlled governments since 1919, due to Wilensky (1981).}
 \item{\code{size}}{a numeric vector measuring the log of labor force size,
@@ -38,9 +38,9 @@ uniondensity
 }
 \description{
 Cross-national data on relative size of the trade unions and predictors in 20 countries.
- This is a data set of interest to replicating Western and Jackman (1994),
- who themselves were addressing a debate between Wallerstein and Stephens on
- which of two highly correlated predictors explains trade union density.
+This is a data set of interest to replicating Western and Jackman (1994),
+who themselves were addressing a debate between Wallerstein and Stephens on
+which of two highly correlated predictors explains trade union density.
 }
 \details{
 Data documentation are derived from Simon Jackman's \code{pscl} package.

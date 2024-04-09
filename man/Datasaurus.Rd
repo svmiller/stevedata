@@ -17,7 +17,7 @@ Datasaurus
 }
 \description{
 An illustrative exercise in never trusting the summary statistics without
- also visualizing them.
+also visualizing them.
 }
 \details{
 Data were created by Alberto Cairo to illustrate you should always

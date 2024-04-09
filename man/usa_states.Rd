@@ -18,7 +18,7 @@ usa_states
 }
 \description{
 A simple data set from \code{state.abb}, \code{state.name}, \code{state.region}, and
- \code{state.division} (+ District of Columbia). I'd rather just have all these
- in one place.
+\code{state.division} (+ District of Columbia). I'd rather just have all these
+in one place.
 }
 \keyword{datasets}

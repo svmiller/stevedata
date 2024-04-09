@@ -20,9 +20,9 @@ wvs_justifbribe
 }
 \description{
 A data set on attitudes about the justifiability of bribe-taking for all
- observations in the third to sixth wave of the World Values Survey. I use these
- data for in-class illustration about seemingly interval-level, but information-poor
- measurements.
+observations in the third to sixth wave of the World Values Survey. I use these
+data for in-class illustration about seemingly interval-level, but information-poor
+measurements.
 }
 \details{
 1 = "never justifiable". 10 = "always justifiable". Increasing values on this

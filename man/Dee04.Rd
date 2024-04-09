@@ -22,8 +22,8 @@ Dee04
 }
 \description{
 This should be a data set for a (partial?) replication of
- Dee's (2004) article on the purported civics returns to education. I use
- these data for in-class illustration about instrumental variable analyses.
+Dee's (2004) article on the purported civics returns to education. I use
+these data for in-class illustration about instrumental variable analyses.
 }
 \details{
 I should note I acquired this data set in Mexico City sitting on a two-week program at IPSA-FLACSO Mexico Summer School in 2019. The sample size here (9,227) is about two thousand short of what Dee reports in his article. It'll do, though.

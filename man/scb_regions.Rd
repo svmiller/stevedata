@@ -16,8 +16,8 @@ scb_regions
 }
 \description{
 This is a simple data set for matching region codes to the names of
- territorial units in Sweden, at least recorded/cataloged by the Central
- Bureau of Statistics in Sweden.
+territorial units in Sweden, at least recorded/cataloged by the Central
+Bureau of Statistics in Sweden.
 }
 \details{
 Data were manually derived from first gathering everything the Central Bureau

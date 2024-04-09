@@ -13,14 +13,14 @@ NULL
 #' \item{\code{country}}{a character vector (United States, China)}
 #' \item{\code{year}}{a numeric vector for the year}
 #' \item{\code{p_gdp}}{y-hats (forecasted GDP) from a \code{prophet} forecast}
-#' \item{\code{p_lo80}}{lower bound (80\%) of y-hats (forecasted GDP) from a \code{prophet} forecast}
-#' \item{\code{p_hi80}}{upper bound (80\%) of y-hats (forecasted GDP) from a \code{prophet} forecast}
+#' \item{\code{p_lo80}}{lower bound (80%) of y-hats (forecasted GDP) from a \code{prophet} forecast}
+#' \item{\code{p_hi80}}{upper bound (80%) of y-hats (forecasted GDP) from a \code{prophet} forecast}
 #' \item{\code{gdp}}{observed GDP, made available to the World Bank and OECD national accounts data. Available from 1960 to 2019.}
 #' \item{\code{f_gdp}}{forecasted GDP from 2020 to 2050, from the \code{forecast} package}
-#' \item{\code{f_lo80}}{lower bound (80\%) forecasted GDP from 2018 to 2050, from the \code{forecast} package}
-#' \item{\code{f_hi80}}{upper bound (80\%) forecasted GDP from 2018 to 2050, from the \code{forecast} package}
-#' \item{\code{f_lo95}}{lower bound (95\%) forecasted GDP from 2018 to 2050, from the \code{forecast} package}
-#' \item{\code{f_hi95}}{upper bound (95\%) forecasted GDP from 2018 to 2050, from the \code{forecast} package}
+#' \item{\code{f_lo80}}{lower bound (80%) forecasted GDP from 2018 to 2050, from the \code{forecast} package}
+#' \item{\code{f_hi80}}{upper bound (80%) forecasted GDP from 2018 to 2050, from the \code{forecast} package}
+#' \item{\code{f_lo95}}{lower bound (95%) forecasted GDP from 2018 to 2050, from the \code{forecast} package}
+#' \item{\code{f_hi95}}{upper bound (95%) forecasted GDP from 2018 to 2050, from the \code{forecast} package}
 #' \item{\code{oecd_ltgdpf}}{long-term GDP forecast from the OECD via the OECD Outlook No 95 - May 2014}
 #' }
 #'

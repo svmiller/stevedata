@@ -25,7 +25,7 @@ DAPO
 }
 \description{
 A reduced form of data set for reproducing an analysis on the determinants
- of Arab public opinion in seven countries toward 13 different countries.
+of Arab public opinion in seven countries toward 13 different countries.
 }
 \details{
 Exact coding issues/peculiarities are best addressed by reading the reference
@@ -38,6 +38,6 @@ learning experience for students.
 }
 \references{
 Furia, Peter A. and Russell E. Lucas. 2006. "Determinants of Arab Public
-Opinion" *International Studies Quarterly* 50: 585-605.
+Opinion" \emph{International Studies Quarterly} 50: 585-605.
 }
 \keyword{datasets}

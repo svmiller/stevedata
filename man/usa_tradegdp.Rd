@@ -19,8 +19,8 @@ usa_tradegdp
 }
 \description{
 A yearly data set on U.S. trade and GDP from 1790 to 2018. Data also include
- a population variable to facilitate per capita adjustments, if the user
- sees it useful.
+a population variable to facilitate per capita adjustments, if the user
+sees it useful.
 }
 \details{
 Data come from various sources (see, especially:

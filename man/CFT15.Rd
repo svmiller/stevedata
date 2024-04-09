@@ -26,9 +26,9 @@ CFT15
 }
 \description{
 This is the replication data for "Randomization Inference in the Regression
- Discontinuity Design: An Application to Party Advantages in the U.S. Senate",
- published in 2015 in \emph{Journal of Causal Inference}. I use these data to
- teach about regression discontinuity designs.
+Discontinuity Design: An Application to Party Advantages in the U.S. Senate",
+published in 2015 in \emph{Journal of Causal Inference}. I use these data to
+teach about regression discontinuity designs.
 }
 \references{
 Cattaneo, Matias D. and Brigham R. Frandsen and Rocio Titiunik. 2015. "Randomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the U.S. Senate". \emph{Journal of Causal Inference} 3(1): 1--24.

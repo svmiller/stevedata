@@ -33,8 +33,8 @@ mm_mlda
 }
 \description{
 These are data you can use to replicate the regression discontinuity design
- analyses throughout Chapter 4 of \emph{Mastering 'Metrics}.
- Original analyses come from Carpenter and Dobkin (2009, 2011).
+analyses throughout Chapter 4 of \emph{Mastering 'Metrics}.
+Original analyses come from Carpenter and Dobkin (2009, 2011).
 }
 \details{
 These data are not well-documented. You guys are on your own here. Good luck.

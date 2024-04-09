@@ -30,9 +30,9 @@ usa_chn_gdp_forecasts
 }
 \description{
 This is a toy data set to examine the time in which we should expect China
- to overtake the United States in total gross domestic product (GDP),
- given current trends. It includes an OECD long-term GDP forecast from 2014,
- and forecasts from the \code{forecast} and \code{prophet} packages in R.
+to overtake the United States in total gross domestic product (GDP),
+given current trends. It includes an OECD long-term GDP forecast from 2014,
+and forecasts from the \code{forecast} and \code{prophet} packages in R.
 }
 \details{
 Forecasts from the \code{forecast} package and \code{prophet}

@@ -20,7 +20,7 @@ ghp100k
 }
 \description{
 This is the yearly rate of gun homicides per 100,000 people in the population,
- selecting on "Western" countries of interest.
+selecting on "Western" countries of interest.
 }
 \details{
 The reported, or calculated annual crude rate of completed,

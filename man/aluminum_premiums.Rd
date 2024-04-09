@@ -18,11 +18,11 @@ aluminum_premiums
 }
 \description{
 A near daily data set on the price of aluminum premiums (USD/MT) for LME
- in the U.S., Western Europe, East Asia, and Southeast Asia. I like these
- data as illustrative of some of the shortsightedness of the aluminum tariffs
- that Donald Trump announced in March 2018. The tariffs had no discernible
- effect on manufacturing employment or earnings, but they created a supply shock
- that made aluminum more expensive.
+in the U.S., Western Europe, East Asia, and Southeast Asia. I like these
+data as illustrative of some of the shortsightedness of the aluminum tariffs
+that Donald Trump announced in March 2018. The tariffs had no discernible
+effect on manufacturing employment or earnings, but they created a supply shock
+that made aluminum more expensive.
 }
 \details{
 LME aluminum premiums (monthly contracts going out to 15 months) work

@@ -26,7 +26,7 @@ anes_vote84
 }
 \description{
 This is a simple data set for estimating a simple model on voter turnout from
- the 1984 American National Election Studies (ANES) 1984 time-series.
+the 1984 American National Election Studies (ANES) 1984 time-series.
 }
 \details{
 The \code{vote} variable is deliberately coded where those with a value of 1 are respondents

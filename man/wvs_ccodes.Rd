@@ -17,8 +17,8 @@ wvs_ccodes
 }
 \description{
 A simple data set that syncs World Values Survey country codes (\code{s003})
- with corresponding country codes from the Correlates of War state system
- membership data.
+with corresponding country codes from the Correlates of War state system
+membership data.
 }
 \details{
 \url{http://svmiller.com/blog/2015/06/syncing-word-values-survey-country-codes-with-cow-codes/}

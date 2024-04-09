@@ -11,8 +11,8 @@ NULL
 #' @format A data frame with the following 11 variables.
 #' \describe{
 #' \item{\code{date}}{a date}
-#' \item{\code{oil_brent}}{crude oil, UK Brent 38` API ($/bbl)}
-#' \item{\code{oil_dubai}}{crude oil, Dubai Fateh 32 API for years 1985-present; 1960-84 refer to Saudi Arabian Light, 34` API ($/bbl).}
+#' \item{\code{oil_brent}}{crude oil, UK Brent 38 API ($/bbl)}
+#' \item{\code{oil_dubai}}{crude oil, Dubai Fateh 32 API for years 1985-present; 1960-84 refer to Saudi Arabian Light, 34 API ($/bbl).}
 #' \item{\code{coffee_arabica}}{coffee (ICO), International Coffee Organization indicator price, other mild Arabicas, average New York and Bremen/Hamburg markets, ex-dock ($/kg)}
 #' \item{\code{coffee_robustas}}{coffee (ICO), International Coffee Organization indicator price, Robustas, average New York and Le Havre/Marseilles markets, ex-dock ($/kg)}
 #' \item{\code{tea_columbo}}{tea (Colombo auctions), Sri Lankan origin, all tea, arithmetic average of weekly quotes ($/kg).}

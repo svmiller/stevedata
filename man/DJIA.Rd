@@ -16,9 +16,9 @@ DJIA
 }
 \description{
 This data set contains the value of the Dow Jones Industrial Average
- on daily close for all available dates (to the best of my knowledge) from 1885
- to the most recent update I feel like including. Extensions shouldn't be too
- difficult with existing packages.
+on daily close for all available dates (to the best of my knowledge) from 1885
+to the most recent update I feel like including. Extensions shouldn't be too
+difficult with existing packages.
 }
 \details{
 Observations before October 7, 1896 are from the single Dow Jones Average.

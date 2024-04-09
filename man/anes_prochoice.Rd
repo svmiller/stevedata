@@ -9,17 +9,17 @@ A data frame with 5914 observations on the following 14 variables.
 \describe{
 \item{\code{version}}{version identifier from ANES}
 \item{\code{caseid}}{time-series case identifier from ANES}
-\item{\code{health}}{oppose/"NFNO"/favor [0:2] abortion if pregnancy would hurt woman}
-\item{\code{fatal}}{oppose/"NFNO"/favor [0:2] abortion if pregnancy would cause woman to die}
-\item{\code{incest}}{oppose/"NFNO"/favor [0:2] abortion if pregnancy was caused by incest}
-\item{\code{rape}}{oppose/"NFNO"/favor [0:2] abortion if pregnancy was caused by rape}
-\item{\code{bd}}{oppose/"NFNO"/favor [0:2] abortion if fetus would be born with serious birth defect}
-\item{\code{fin}}{oppose/"NFNO"/favor [0:2] abortion if having child would impose financial hardship}
-\item{\code{sex}}{oppose/"NFNO"/favor [0:2] abortion if the child will not be the sex the woman wants}
-\item{\code{choice}}{oppose/"NFNO"/favor [0:2] abortion if woman chooses to have one}
-\item{\code{pid}}{respondent's partisanship [0:2] (Democrat, Independent, Republican)}
+\item{\code{health}}{oppose/"NFNO"/favor abortion if pregnancy would hurt woman}
+\item{\code{fatal}}{oppose/"NFNO"/favor abortion if pregnancy would cause woman to die}
+\item{\code{incest}}{oppose/"NFNO"/favor abortion if pregnancy was caused by incest}
+\item{\code{rape}}{oppose/"NFNO"/favor abortion if pregnancy was caused by rape}
+\item{\code{bd}}{oppose/"NFNO"/favor abortion if fetus would be born with serious birth defect}
+\item{\code{fin}}{oppose/"NFNO"/favor abortion if having child would impose financial hardship}
+\item{\code{sex}}{oppose/"NFNO"/favor abortion if the child will not be the sex the woman wants}
+\item{\code{choice}}{oppose/"NFNO"/favor abortion if woman chooses to have one}
+\item{\code{pid}}{respondent's partisanship (Democrat, Independent, Republican)}
 \item{\code{knowspeaker}}{was the respondent able to correctly identify  the Speaker of the House (John Boehner)}
-\item{\code{addchoice}}{an additive scale of the abortion scores [0:16]}
+\item{\code{addchoice}}{an additive scale of the abortion scores}
 \item{\code{lchoice}}{a continuous latent scale of pro-choice scores (from a simple graded response model)}
 }
 }
@@ -31,9 +31,13 @@ anes_prochoice
 }
 \description{
 A simple data set for in-class illustration about how to estimate and interpret
- interactive relationships. The data here are deliberately minimal for that end.
+interactive relationships. The data here are deliberately minimal for that end.
 }
 \details{
-"NFNO" = "Neither Favor Nor Oppose"
+"NFNO" = "Neither Favor Nor Oppose". All abortion prompts are on a 0-2 scale
+where 0 is oppose, 1 is "NFNO", and 2 is favor. The respondent's party
+identification is on a similar scale where 0 = "Democrat", 1 = "Independent",
+and 2 = "Republican". The additive scale of abortion scores has a minimum
+of 0 and a maximum of 16.
 }
 \keyword{datasets}

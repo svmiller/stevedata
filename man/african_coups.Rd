@@ -10,7 +10,7 @@ A data frame with the following 10 variables.
 \item{\code{iso3c}}{a three-character ISO code for state identification}
 \item{\code{country}}{an English country name}
 \item{\code{jci}}{Jackman's (1978) coup index from 1960 to 1975}
-\item{\code{tmis}}{Johnson et al.'s (1986) total military involvement score}
+\item{\code{tmis}}{Johnson et al.'s (1984) total military involvement score}
 \item{\code{agperc}}{an estimate of the percentage of the country's labor force in agriculture}
 \item{\code{literacy_cnts}}{an estimate of countrywide literacy from around 1965}
 \item{\code{literacy_ba}}{another estimate of countrywide literacy from around 1965}
@@ -24,13 +24,15 @@ african_coups
 }
 \description{
 A data set on modeling coups in Africa using data from the period between
- 1960 to 1975 (1982). These data offer a partial replication of Jackman
- (1978).
+1960 to 1975 (1982). These data offer a partial replication of Jackman
+(1978).
 }
 \details{
 Data exist for instructional purposes, especially about modeling interactions.
-Reading Jackman (1978) and Johnson et al. (1986) will provide more information
-about the stake of this debate.
+Reading Jackman (1978) and Johnson et al. (1984) will provide more information
+about the data and hypotheses. There was a follow-up symposium on this in
+1986 in \emph{American Political Science Review} that may be an interesting
+read and provide even more context about what's at stake in this debate.
 
 English country names are country names from around the time of publication.
 Take note of older names of "Dahomey", "Swaziland", "Upper Volta", and "Zaire."
@@ -40,12 +42,19 @@ acknowledgment that Dahomey used to have a different ISO code.
 Jackman (1978) is deceptively opaque on what he's doing for the ethnic group
 variable and arguably misleads on what his turnout variable is actually from.
 In the case of the ethnic group variable, it's the difference between saying
-the largest ethnic group in Rwanda is 98% of the population versus 80% of
-the population. I'm uncertain with what he's doing with what Morrison et al.
-(1989) define as "ethnic clusters".
+the largest ethnic group in Rwanda is 98\% of the population versus 80\% of
+the population. In short, it's the difference of saying whether there are
+any Tutsi at all in the country. Basically, I'm uncertain with what he's
+doing with what Morrison et al. (1989) define as "ethnic clusters".
 
-Mercifully, the coup variables come from a replication by Johnson et al. (1986).
-The bulk of this is arguably lost to history.
+Mercifully, the coup variables come from a replication by Johnson et al.
+(1984). Based on Morrison et al.'s (1989) updated data, it's not clear how
+Jackman could've derived some of these estimates using the formula he said
+he used. For example, Benin should have a score of 39 based on the
+information in Table 2.10 (p. 373 in Morrison et al. (1989)). Cameroon should
+have a 1 and not a 2, per Table 5.10 (p. 399). My comments here work under
+the assumption that Morrison et al. are adding information and not revising
+information in the second edition of the \emph{Black Africa} handbook.
 
 Ideally, I'd have Morrison's (1972) \emph{Black Africa}, but I do not. I have
 a copy of a 1989 update, though. That's what I consulted in constructing
@@ -60,23 +69,34 @@ latter is what I offer here.
 
 The literacy variables have suffices communicating where I obtained them. The
 Cross-National Time Series Database has a variable effectively communicating
-this information that I was using first. These data come 1965 in that data set.
-Jackman and Johnson et al. are assuredly using Morrison's almanac. That
-information is in Table 4.11 or Morrison et al. (1989).
+this information that I was using first in trying to recreate these data.
+These data come from 1965 in that data set. Jackman and Johnson et al. are
+assuredly using Morrison's almanac. That information is in Table 4.11 of
+Morrison et al. (1989), though it's possible the estimates contained therein
+are slightly different than what was reported in the first edition.
 
-Ethiopia is conspicuously missing in the party dominance variable.
+Ethiopia is conspicuously missing in the party dominance variable. That's by
+design, and apparently its omission warranted ample discussion both by
+Jackman (1978) and Johnson et al. (1984). Johnson et al. (1984, fns. 4,5)
+argue it's a curious choice that can situationally influence the results that
+Jackman reports, but there are also lots of other choices made by Jackman
+(1978) that can influence these results.
 
-I am 99.9% sure the turnout variable is Table 5.9 in Morrison et al. (1989).
-Jackman (1978) says this is from *before* independence but I'm confident he
+I am 99.9\% sure the turnout variable is Table 5.9 in Morrison et al. (1989).
+Jackman (1978) says this is from \emph{before} independence but I'm confident he
 meant it was the turnout at the independence referendum.
 }
 \references{
 Jackman, Robert W. 1978. "The Predictability of Coups d'etat: A Model with
 African Data." \emph{American Political Science Review} 72(4): 1262-75.
 
-Johnson, Thomas H., Robert O. Slater, and Pat McGowan. 1986. "Explaining
+Jackman, Robert W., Rosemary H. T. O'Kane, Thomas H. Johnson, Pat McGowan,
+and Robert O. Slater. 1986. "Explaining African Coups d'Etat."
+\emph{American Political Science Review} 80(1): 225-49.
+
+Johnson, Thomas H., Robert O. Slater, and Pat McGowan. 1984. "Explaining
 African Military Coups d'Etat, 1960-1982." \emph{American Political Science
-Review} 80(4): 225-49.
+Review} 78(3): 622-40.
 
 Morrison, Donald George, Robert Cameron Mitchell, and John Naber Paden. 1989.
 \emph{Black Africa: A Comparative Handbook} (2nd ed.). New York, NY: The Free

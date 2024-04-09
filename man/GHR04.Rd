@@ -32,8 +32,8 @@ GHR04
 }
 \description{
 This is a data set for replicating Ghobarah et al. (2004), a reduced form of
- what they make available on Dataverse for replication. Variables have been
- renamed for legibility.
+what they make available on Dataverse for replication. Variables have been
+renamed for legibility.
 }
 \details{
 The three-character ISO code is the only new addition to the data. I
@@ -48,7 +48,7 @@ their results. The differences are typically in the hundredths, and often in
 the thousandths, and should be considered "good enough" for replication
 purposes. The only real confusion on my end is why I ended up with one more
 observation than they report in their analyses. This suggests one (or more?)
-of their variables they use has an `NA`, but I have no way of knowing what it
+of their variables they use has an \code{NA}, but I have no way of knowing what it
 could be.
 }
 \keyword{datasets}

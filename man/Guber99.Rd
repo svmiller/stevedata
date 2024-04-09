@@ -22,7 +22,7 @@ Guber99
 }
 \description{
 A data set for a canonical case of a Simpson's paradox, useful for in-class
- instruction on the topic.
+instruction on the topic.
 }
 \references{
 Guber, Deborah Lynne. 1999. "Getting What You Pay For: The Debate Over Equity in Public School Expenditures." \emph{Journal of Statistics Education} 7(2).

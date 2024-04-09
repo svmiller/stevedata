@@ -18,14 +18,14 @@ inglehart03
 }
 \description{
 A data set based on summary information provided in Inglehart's (2003)
- article in *PS: Political Science & Politics*. These data would be from
- the article itself and only indirectly from the raw World or European
- Values Survey.
+article in \emph{PS: Political Science & Politics}. These data would be from
+the article itself and only indirectly from the raw World or European
+Values Survey.
 }
 \details{
 Data manually entered based on Table 1 and Table 2 in Inglehart's (2003) article.
 }
 \references{
-Inglehart, Ronald. 2003. "How Solid is Mass Support for Democracy---And How Can We Measure It?" *PS: Political Science & Politics* 36(1): 51--57.
+Inglehart, Ronald. 2003. "How Solid is Mass Support for Democracy---And How Can We Measure It?" \emph{PS: Political Science & Politics} 36(1): 51--57.
 }
 \keyword{datasets}

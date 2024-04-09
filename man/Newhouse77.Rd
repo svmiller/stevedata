@@ -19,9 +19,9 @@ Newhouse77
 }
 \description{
 These are the data in Newhouse's (1977) simple OLS model from 1977. In
- his case, he's trying to explain medical care expenditures as a function of GDP
- per capita for these countries. It's probably the easiest OLS model I can find
- in print because Newhouse helpfully provides all the data in one simple table.
+his case, he's trying to explain medical care expenditures as a function of GDP
+per capita for these countries. It's probably the easiest OLS model I can find
+in print because Newhouse helpfully provides all the data in one simple table.
 }
 \details{
 Table 1 in Newhouse (1977) is well-annotated with background information.

@@ -29,7 +29,7 @@ SCP16
 }
 \description{
 County-level data on vote share and various background/demographic
- information for the 2016 South Carolina GOP/Democratic primaries.
+information for the 2016 South Carolina GOP/Democratic primaries.
 }
 \details{
 The illiteracy estimate comes from a Department of Education report from 2003.

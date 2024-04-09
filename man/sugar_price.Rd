@@ -20,9 +20,9 @@ sugar_price
 }
 \description{
 This is primary commodity price data for sugar globally,
- in the United States, and in Europe for every month from 1980 to (roughly)
- the present. Prices are nominal U.S. cents per pound and are
- not seasonally adjusted ("NSA").
+in the United States, and in Europe for every month from 1980 to (roughly)
+the present. Prices are nominal U.S. cents per pound and are
+not seasonally adjusted ("NSA").
 }
 \details{
 The price data for Europe do not appear to be updated as regularly as the

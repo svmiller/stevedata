@@ -29,6 +29,6 @@ pwt_sample
 }
 \description{
 These are some macroeconomic data for 21 select (rich) countries. I've used
- these data before to discuss issues of grouping and skew in cross-sectional data.
+these data before to discuss issues of grouping and skew in cross-sectional data.
 }
 \keyword{datasets}

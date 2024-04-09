@@ -28,6 +28,6 @@ don't know why. I elect to keep it.
 }
 \references{
 Laeven, Luc and Fabian Valencia. 2020. "Systemic Banking Crises
-Database II". *IMF Economic Review* 68: 307--361.
+Database II". \emph{IMF Economic Review} 68: 307--361.
 }
 \keyword{datasets}

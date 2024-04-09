@@ -18,8 +18,8 @@ arcticseaice
 }
 \description{
 This data set from Connelly et al. (2017) measures the Arctic sea
- ice extent in 10^6 square kilometers. It includes lower bounds and
- upper bounds on annual averages.
+ice extent in 10^6 square kilometers. It includes lower bounds and
+upper bounds on annual averages.
 }
 \details{
 This is for illustration of climate change for my intro students.
@@ -30,6 +30,6 @@ their replication files.
 \references{
 Connolly et al. (2017), ''Re-calibration of Arctic sea ice extent
 datasets using Arctic surface air temperature records''.
-*Hydrological Sciences Journal* 62(8): 1317--40.
+\emph{Hydrological Sciences Journal} 62(8): 1317--40.
 }
 \keyword{datasets}

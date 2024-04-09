@@ -17,8 +17,8 @@ quartets
 }
 \description{
 These are four x-y data sets, combined into a long format, which have the
- same traditional statistical properties (mean, variance, correlation,
- regression line, etc.). However, they look quite different.
+same traditional statistical properties (mean, variance, correlation,
+regression line, etc.). However, they look quite different.
 }
 \details{
 Data come default in R, but I elected to change the format to be

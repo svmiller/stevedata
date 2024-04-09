@@ -44,10 +44,10 @@ The financial openness indicators come by way of the Chinn-Ito index. The
 engagement in trade unions data are from the Varieties of Democracy project.
 The ordinal measure of the trade union estimates communicate what percentage
 of the population is active in independent trade unions. Values include 0)
-virtually no one 1) a small share of the population (less than 5%), 2) A
-moderate share of the population (about 5 to 15%). 3) A large share of
-the population (about 16 % to 25%). 4) A very large share of the population
-(about 26% or more).
+virtually no one 1) a small share of the population (less than 5\%), 2) A
+moderate share of the population (about 5 to 15\%). 3) A large share of
+the population (about 16 \% to 25\%). 4) A very large share of the population
+(about 26\% or more).
 }
 \references{
 Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell,
@@ -57,14 +57,14 @@ Ilchenko, Katrin Kinzelbach, Joshua Krusell, Kyle L. Marquardt, Kelly McMann, Va
 Mechkova, Juraj Medzihorsky, Pamela Paxton, Daniel Pemstein, Josefine Pernes, Oskar
 Rydén, Johannes von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey
 Staton, Aksel Sundström, Eitan Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel
-Ziblatt. 2022. "V-Dem [Country-Year/Country-Date] Dataset v12" Varieties of Democracy
+Ziblatt. 2022. "V-Dem Country-Year/Country-Date Dataset v12" Varieties of Democracy
 (V-Dem) Project. \doi{10.23696/vdemds22}
 
 Chinn, Menzie D. and Hiro Ito. 2006. "What Matters for Financial Development?
-Capital Controls, Institutions, and Interactions." *Journal of Development
-Economics* 81(1): 163--192.
+Capital Controls, Institutions, and Interactions." \emph{Journal of Development
+Economics} 81(1): 163--192.
 
-Garrett, Geoffrey. 1998. *Partisan Politics in the Global Economy* New York,
+Garrett, Geoffrey. 1998. \emph{Partisan Politics in the Global Economy} New York,
 NY: Cambridge University Press.
 }
 \keyword{datasets}

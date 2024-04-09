@@ -16,10 +16,10 @@ co2emissions
 }
 \description{
 This is a sample data set, cobbled from various sources, about
- carbon dioxide emissions in the history of the planet from 800,000 BCE to
- the most recently concluded calendar year. I use this for a data visualization
- example for a lecture on climate change and international politics.
- Data communicate yearly averages/estimates.
+carbon dioxide emissions in the history of the planet from 800,000 BCE to
+the most recently concluded calendar year. I use this for a data visualization
+example for a lecture on climate change and international politics.
+Data communicate yearly averages/estimates.
 }
 \details{
 The data come from many sources. Before 0 CE, the data come from 10 sources

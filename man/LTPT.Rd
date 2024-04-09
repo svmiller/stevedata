@@ -20,9 +20,9 @@ LTPT
 }
 \description{
 These data are a monthly time-series of changes in the consumer price index
- relative to a Dec. 1997 starting date for televisions, computers, and related
- items. I use this as in-class illustration that globalization has made
- consumer electronics cheaper across the board for Americans.
+relative to a Dec. 1997 starting date for televisions, computers, and related
+items. I use this as in-class illustration that globalization has made
+consumer electronics cheaper across the board for Americans.
 }
 \details{
 This is a web-scraping job from the U.S. Bureau of Labor Statistics. Post is titled "Long-term price trends for computers, TVs, and related items" and was published on Oct. 13, 2015.

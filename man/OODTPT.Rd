@@ -12,7 +12,7 @@ A data frame with 75 observations on the following 16 variables.
 \item{\code{tariff}}{the mean statutory most favored nation tariff rate}
 \item{\code{corecov}}{the core non-tariff barrier coverage ratio}
 \item{\code{qualcov}}{the quality non-tariff barrier coverate ratio}
-\item{\code{polity}}{the familiar [-10,10] Polity measure of democracy}
+\item{\code{polity}}{the familiar Polity measure of democracy, from -10 to 10}
 \item{\code{iec}}{the index of electoral competitiveness from the World Bank}
 \item{\code{lngdppc}}{real GDP per capita in 1995 dollars}
 \item{\code{lngdp}}{real GDP in 1995 dollars}
@@ -39,6 +39,6 @@ Please read the Kono (2006) article for more information.
 }
 \references{
 Kono, Daniel. 2006. "Optimal Obfuscation: Democracy and Trade Policy Transparency"
-*American Political Science Review* 100(3): 369-384.
+\emph{American Political Science Review} 100(3): 369-384.
 }
 \keyword{datasets}

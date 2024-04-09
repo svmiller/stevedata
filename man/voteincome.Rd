@@ -22,7 +22,7 @@ voteincome
 }
 \description{
 A data set on turnout and demographic data from the 2000 Current Population Survey. This is a basic
- port of the \code{voteincome} data from the \pkg{Zelig} package.
+port of the \code{voteincome} data from the \pkg{Zelig} package.
 }
 \details{
 Data come from the 2000 Current Population Survey by way of the \pkg{Zelig} package. Data should

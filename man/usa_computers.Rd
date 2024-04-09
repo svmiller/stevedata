@@ -7,8 +7,8 @@
 \format{
 A data frame with 19 observations on the following 2 variables.
 \describe{
- \item{\code{year}}{the year}
- \item{\code{value}}{the estimated percentage of households with access to a computer}
+\item{\code{year}}{the year}
+\item{\code{value}}{the estimated percentage of households with access to a computer}
 }
 }
 \source{
@@ -20,7 +20,7 @@ usa_computers
 }
 \description{
 This is a simple and regrettably incomplete time-series on the percentage
- of U.S. households with access to a computer, by year.
+of U.S. households with access to a computer, by year.
 }
 \details{
 Data are spotty and regrettably this is not a perfect time-series.

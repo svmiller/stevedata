@@ -20,9 +20,9 @@ eight_schools
 }
 \description{
 You've all seen these before. These are the "eight schools" that everyone gets when
- being introduced to Bayesian programming. Here are the full data for your consideration,
- which you can use instead of awkwardly searching where the data are and copy-pasting
- them as a list. Every damn time, Steve.
+being introduced to Bayesian programming. Here are the full data for your consideration,
+which you can use instead of awkwardly searching where the data are and copy-pasting
+them as a list. Every damn time, Steve.
 }
 \details{
 Data copy-pasted from Table 1 in Rubin (1981).

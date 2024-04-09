@@ -33,10 +33,10 @@ ODGI
 }
 \description{
 The NOAA Earth System Research Laboratory has an "ozone depleting gas index"
- (ODGI) data set from 1992 to 2018. This dataset summarizes Table 1 and Table 2 from its website.
- The primary interest here (for my purposes) is the ODGI indices
- (including the new 2012 measure). The data set includes constituent greenhouse
- gases/chlorines as well in parts per trillion. The primary use here is for
- in-class illustration.
+(ODGI) data set from 1992 to 2018. This dataset summarizes Table 1 and Table 2 from its website.
+The primary interest here (for my purposes) is the ODGI indices
+(including the new 2012 measure). The data set includes constituent greenhouse
+gases/chlorines as well in parts per trillion. The primary use here is for
+in-class illustration.
 }
 \keyword{datasets}

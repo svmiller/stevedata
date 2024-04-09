@@ -14,7 +14,7 @@ NULL
 #' \item{\code{year}}{the year of observation}
 #' \item{\code{rgdppc}}{the real GDP per capita of the country/territorial unit in that year}
 #' \item{\code{lifeexp}}{the average life expectancy at birth for men and women for the country that year}
-#' \item{\code{hci}}{the human capital index [0-1] for the country that year}
+#' \item{\code{hci}}{the human capital index for the country that year}
 #' }
 #'
 #' @details
@@ -24,6 +24,8 @@ NULL
 #' The underlying data come from the World Bank national accounts (GDP per
 #' capita), World Bank analyst estimates (human capital index), or the United
 #' Nations Population Division (life expectancy at birth).
+#'
+#' The human capital index is on a 0 to 1 scale.
 #'
 #'
 "wbd_example"

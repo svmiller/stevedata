@@ -10,11 +10,11 @@ A data frame with 125 observations on the following 8 variables.
 \item{\code{poll_date}}{the effective "date" of the public opinion poll}
 \item{\code{date}}{a date for the poll, to make for easier plotting}
 \item{\code{govt_sat}}{the percentage of respondents saying they were satisfied with the government}
- \item{\code{govt_dis}}{the percentage of respondents saying they were dissatisfied with the government}
- \item{\code{thatcher_sat}}{the percentage of respondents saying they were satisfied with Margaret Thatcher}
- \item{\code{thatcher_dis}}{the percentage of respondents saying they were dissatisfied with Margaret Thatcher}
- \item{\code{opp_sat}}{the percentage of respondents saying they were satisfied with the leader of the opposition}
- \item{\code{opp_dis}}{the percentage of respondents saying they were dissatisfied with the leader of the opposition}
+\item{\code{govt_dis}}{the percentage of respondents saying they were dissatisfied with the government}
+\item{\code{thatcher_sat}}{the percentage of respondents saying they were satisfied with Margaret Thatcher}
+\item{\code{thatcher_dis}}{the percentage of respondents saying they were dissatisfied with Margaret Thatcher}
+\item{\code{opp_sat}}{the percentage of respondents saying they were satisfied with the leader of the opposition}
+\item{\code{opp_dis}}{the percentage of respondents saying they were dissatisfied with the leader of the opposition}
 }
 }
 \usage{

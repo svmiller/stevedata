@@ -26,7 +26,7 @@ A data frame with 1,905 observations on the following 19 variables.
 \item{\code{eduyrs}}{a numeric vector for total years of education for the respondent}
 \item{\code{uempla}}{a numeric vector for whether the respondent is currently unemployed but seeking work}
 \item{\code{hinctnta}}{a numeric vector for household income in deciles}
-\item{\code{lrscale}}{a numeric vector for the ideology of the respondent on an 11-point [0:10] scale}
+\item{\code{lrscale}}{a numeric vector for the ideology of the respondent on an 11-point scale, from 0 to 10}
 }
 }
 \source{
@@ -37,8 +37,8 @@ ESS9GB
 }
 \description{
 This is a replication data originally set to accompany a blog post and
- presentation to students at the University of Nottingham in March 2020.
- However, COVID-19 led to the cancellation of the talk.
+presentation to students at the University of Nottingham in March 2020.
+However, COVID-19 led to the cancellation of the talk.
 }
 \details{
 See accompanying blog post at \url{http://svmiller.com/blog/2020/03/what-explains-british-attitudes-toward-immigration-a-pedagogical-example/}.

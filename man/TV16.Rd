@@ -7,27 +7,27 @@
 \format{
 A data frame with 64600 observations on the following 21 variables.
 \describe{
- \item{\code{uid}}{a numeric vector, a unique identifier for the respondent as they first appear in the CCES data.}
- \item{\code{state}}{a character vector for the state in which the respondent resides}
- \item{\code{votetrump}}{a numeric that equals 1 if the respondent voted says s/he voted for Trump in 2016.}
- \item{\code{age}}{a numeric vector for age that is roughly calculated as 2016 - \code{birthyr}, as it's coded in the CCES data.}
- \item{\code{female}}{a numeric that equals 1 if the respondent is a woman}
- \item{\code{collegeed}}{a numeric vector that equals 1 if the respondent says s/he has a college degree}
- \item{\code{racef}}{a character vector for the race of the respondent}
- \item{\code{famincr}}{a numeric vector for the respondent's household income. Ranges from 1 (Less than $10,000) to 12 ($150,000 or more).}
- \item{\code{ideo}}{a numeric vector for the respondent's ideology on a liberal-conservative discrete scale. 1 = very liberal. 5 = very conservative.}
- \item{\code{pid7na}}{a numeric vector for the respondent's partisanship on the familiar 1-7 scale. 1 = Strong Democrat. 7 = Strong Republican. Other party supporters (e.g. libertarians) are coded as NA.}
- \item{\code{bornagain}}{a numeric vector for whether the respondent self-identifies as a born-again Christian.}
- \item{\code{religimp}}{a numeric vector for the importance of religion to the respondent. 1 = not at all important. 4 = very important.}
- \item{\code{churchatd}}{a numeric vector for the extent of church attendance for the respondent. 1 = never. 6 = more than once a week.}
- \item{\code{prayerfreq}}{a numeric vector for the frequency of prayer for the respondent. 1 = never. 7 = several times a day.}
- \item{\code{angryracism}}{a numeric vector for how angry the respondent is that racism exists. 1 = strongly agree (i.e. is angry racism exists). 5 = strongly disagree.}
- \item{\code{whiteadv}}{a numeric vector for agreement with statement that white people have advantages over others in the U.S. 1 = strongly agree. 5 = strongly disagree.}
- \item{\code{fearraces}}{a numeric vector for agreement with statement that the respondent fears other races. 1 = strongly disagree. 5 = strongly agree.}
- \item{\code{racerare}}{a numeric vector for agreement with statement that racism is rare in the U.S. 1 = strongly disagree. 5 = strongly agree.}
- \item{\code{lrelig}}{a numeric vector that serves as a latent estimate for religiosity from the \code{bornagain}, \code{religimp}, \code{churchatd}, and \code{prayerfreq} variables. Higher values = more religiosity. }
- \item{\code{lcograc}}{a numeric vector that serves as a latent estimate for cognitive racism. This is derived from the \code{racerare} and \code{whiteadv} variables.}
- \item{\code{lemprac}}{a numeric vector that serves as a latent estimate for empathetic racism. This is derived from the \code{fearraces} and \code{angryracism} variables.}
+\item{\code{uid}}{a numeric vector, a unique identifier for the respondent as they first appear in the CCES data.}
+\item{\code{state}}{a character vector for the state in which the respondent resides}
+\item{\code{votetrump}}{a numeric that equals 1 if the respondent voted says s/he voted for Trump in 2016.}
+\item{\code{age}}{a numeric vector for age that is roughly calculated as 2016 - \code{birthyr}, as it's coded in the CCES data.}
+\item{\code{female}}{a numeric that equals 1 if the respondent is a woman}
+\item{\code{collegeed}}{a numeric vector that equals 1 if the respondent says s/he has a college degree}
+\item{\code{racef}}{a character vector for the race of the respondent}
+\item{\code{famincr}}{a numeric vector for the respondent's household income. Ranges from 1 (Less than $10,000) to 12 ($150,000 or more).}
+\item{\code{ideo}}{a numeric vector for the respondent's ideology on a liberal-conservative discrete scale. 1 = very liberal. 5 = very conservative.}
+\item{\code{pid7na}}{a numeric vector for the respondent's partisanship on the familiar 1-7 scale. 1 = Strong Democrat. 7 = Strong Republican. Other party supporters (e.g. libertarians) are coded as NA.}
+\item{\code{bornagain}}{a numeric vector for whether the respondent self-identifies as a born-again Christian.}
+\item{\code{religimp}}{a numeric vector for the importance of religion to the respondent. 1 = not at all important. 4 = very important.}
+\item{\code{churchatd}}{a numeric vector for the extent of church attendance for the respondent. 1 = never. 6 = more than once a week.}
+\item{\code{prayerfreq}}{a numeric vector for the frequency of prayer for the respondent. 1 = never. 7 = several times a day.}
+\item{\code{angryracism}}{a numeric vector for how angry the respondent is that racism exists. 1 = strongly agree (i.e. is angry racism exists). 5 = strongly disagree.}
+\item{\code{whiteadv}}{a numeric vector for agreement with statement that white people have advantages over others in the U.S. 1 = strongly agree. 5 = strongly disagree.}
+\item{\code{fearraces}}{a numeric vector for agreement with statement that the respondent fears other races. 1 = strongly disagree. 5 = strongly agree.}
+\item{\code{racerare}}{a numeric vector for agreement with statement that racism is rare in the U.S. 1 = strongly disagree. 5 = strongly agree.}
+\item{\code{lrelig}}{a numeric vector that serves as a latent estimate for religiosity from the \code{bornagain}, \code{religimp}, \code{churchatd}, and \code{prayerfreq} variables. Higher values = more religiosity. }
+\item{\code{lcograc}}{a numeric vector that serves as a latent estimate for cognitive racism. This is derived from the \code{racerare} and \code{whiteadv} variables.}
+\item{\code{lemprac}}{a numeric vector that serves as a latent estimate for empathetic racism. This is derived from the \code{fearraces} and \code{angryracism} variables.}
 }
 }
 \source{
@@ -38,8 +38,8 @@ TV16
 }
 \description{
 These data come from the 2016 CCES and allow interested students to model the
- individual correlates of the Trump vote in 2016. Code/analysis heavily indebted
- to a 2017 analysis I did on my blog (see references).
+individual correlates of the Trump vote in 2016. Code/analysis heavily indebted
+to a 2017 analysis I did on my blog (see references).
 }
 \details{
 The latent estimates for religiosity, cognitive racism, and empathetic

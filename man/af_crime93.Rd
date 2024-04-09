@@ -22,8 +22,8 @@ af_crime93
 }
 \description{
 These data are in Table 9.1 of the 3rd edition of Agresti and Finlay's
- *Statistical Methods for the Social Sciences*. The data are from
- *Statistical Abstract of the United States* and most variables were measured in 1993.
+\emph{Statistical Methods for the Social Sciences}. The data are from
+\emph{Statistical Abstract of the United States} and most variables were measured in 1993.
 }
 \details{
 The data are from Statistical Abstract of the United States and most variables were measured in 1993. These data should

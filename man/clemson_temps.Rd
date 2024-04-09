@@ -17,9 +17,9 @@ clemson_temps
 }
 \description{
 This data set contains daily temperatures (highs and lows) for Clemson, South Carolina
- from Jan. 1, 1930 to the end of the most recent calendar year.
- The goal is to update this periodically with new data for
- as long as I live in this town.
+from Jan. 1, 1930 to the end of the most recent calendar year.
+The goal is to update this periodically with new data for
+as long as I live in this town.
 }
 \details{
 Data obtained from NOAA, via the \pkg{rnoaa} package. The station identifier is \code{GHCND:USC00381770} for added context.

@@ -40,8 +40,8 @@ mm_randhie
 \description{
 These are data from the RAND Health Insurance Experiment (HIE).
 People who have read \emph{Mastering 'Metrics} should recognize these data. They're
- featured prominently in that book and the authors' discussion of
- random assignment and experiments.
+featured prominently in that book and the authors' discussion of
+random assignment and experiments.
 }
 \details{
 Data are already cleaned in a way that facilitates an easy

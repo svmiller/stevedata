@@ -25,7 +25,7 @@ fakeAPI
 }
 \description{
 This is a hypothetical universe of schools in a given territorial unit,
- patterned off the \code{apipop} data available in the \code{survey} package.
+patterned off the \code{apipop} data available in the \code{survey} package.
 }
 \details{
 These data were generated for a blog post on my website.

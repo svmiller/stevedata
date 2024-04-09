@@ -51,7 +51,7 @@ NULL
 #' Mechkova, Juraj Medzihorsky, Pamela Paxton, Daniel Pemstein, Josefine Pernes, Oskar
 #' Rydén, Johannes von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey
 #' Staton, Aksel Sundström, Eitan Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel
-#' Ziblatt. 2022. "V-Dem [Country-Year/Country-Date] Dataset v12" Varieties of Democracy
+#' Ziblatt. 2022. "V-Dem Country-Year/Country-Date Dataset v12" Varieties of Democracy
 #' (V-Dem) Project. \doi{10.23696/vdemds22}
 #'
 #' Chinn, Menzie D. and Hiro Ito. 2006. "What Matters for Financial Development?

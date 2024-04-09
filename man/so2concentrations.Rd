@@ -22,8 +22,8 @@ so2concentrations
 }
 \description{
 This data set contains yearly observations by the Environmental Protection Agency
- on the concentration of sulfur dioxide in parts per billion, based on 32 sites.
- I use this for in-class illustration. Note that the national standard is
- 75 parts per billion. Data are the national trend.
+on the concentration of sulfur dioxide in parts per billion, based on 32 sites.
+I use this for in-class illustration. Note that the national standard is
+75 parts per billion. Data are the national trend.
 }
 \keyword{datasets}

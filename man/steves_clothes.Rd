@@ -21,8 +21,8 @@ steves_clothes
 }
 \description{
 I cobbled together this data set of the professional clothes
- (polos, long-sleeve dress shirts, pants) in my closet, largely for
- illustration on the origins of apparel in the U.S. for an intro lecture on trade.
+(polos, long-sleeve dress shirts, pants) in my closet, largely for
+illustration on the origins of apparel in the U.S. for an intro lecture on trade.
 }
 \details{
 If you must know, I do most of my clothes shopping at major retailers
