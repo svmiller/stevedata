@@ -25,8 +25,11 @@ library(tidyverse)
 
 readxl::read_excel("/home/steve/Dropbox/projects/stevedata/data-raw/african_coups/african_coups.xlsx") %>%
   arrange(iso3c) %>%
-  select(iso3c, everything(), -agperc_cnts) %>%
-  rename(agperc = agperc_ba) -> african_coups
+  select(iso3c, country,
+         jci:turnout,
+         -agperc_cnts) %>%
+  rename(agperc = agperc_ba,
+         indperc = indperc_ba) -> african_coups
 
 
 save(african_coups, file="data/african_coups.rda")
