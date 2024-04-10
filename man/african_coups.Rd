@@ -5,7 +5,7 @@
 \alias{african_coups}
 \title{Modeling Coups in Africa, 1960 to 1975 (1982)}
 \format{
-A data frame with the following 10 variables.
+A data frame with the following 11 variables.
 \describe{
 \item{\code{iso3c}}{a three-character ISO code for state identification}
 \item{\code{country}}{an English country name}
@@ -25,7 +25,7 @@ african_coups
 }
 \description{
 A data set on modeling coups in Africa using data from the period between
-1960 to 1975 (1982). These data offer a partial replication of Jackman
+1960 and 1975 (1982). These data offer a partial replication of Jackman
 (1978).
 }
 \details{
@@ -37,8 +37,15 @@ read and provide even more context about what's at stake in this debate.
 
 English country names are country names from around the time of publication.
 Take note of older names of "Dahomey", "Swaziland", "Upper Volta", and "Zaire."
-The three-character ISO codes are current, though it comes with the
-acknowledgment that Dahomey used to have a different ISO code.
+The three-character ISO codes are current, mostly for ease of doing other
+things with the data. However, this comes with the acknowledgment that
+Dahomey and Zaire used to have different ISO codes under their older names.
+Both codes for Dahomey (\code{DHY}) and Zaire (\code{ZAR}) were retired in 1977 and
+1997, respectively.
+
+Ideally, I'd have Morrison's (1972) \emph{Black Africa}, but I do not. I have
+a copy of a 1989 update, though. That's what I consulted in constructing
+this data set.
 
 Jackman (1978) is deceptively opaque on what he's doing for the ethnic group
 variable and arguably misleads on what his turnout variable is actually from.
@@ -62,10 +69,6 @@ variables are directly copied from Table 2 in Johnson et al. (1984) on p. 627.
 Missingness in the Jackman coup index variable communicates the country was
 not included in his original study, but was included in the Johnson et al.
 replication.
-
-Ideally, I'd have Morrison's (1972) \emph{Black Africa}, but I do not. I have
-a copy of a 1989 update, though. That's what I consulted in constructing
-this data set.
 
 Related: the agricultural variable is a midway point between columns B and
 columns C in Table 3.11 of Morrison et al. (1989). I do not think this is too

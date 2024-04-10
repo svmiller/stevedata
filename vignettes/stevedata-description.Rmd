@@ -29,7 +29,7 @@ getdescript <- function(package){
   descript <- lapply(db,function(x) {
     tags <- tools:::RdTags(x)
     if("\\description" %in% tags){
-      out <- paste(unlist(x[which(tags=="\\description")]),collapse="")
+      out <- paste(unlist(x[which(tags=="\\description")]),collapse=" ")
     }
     else
       out <- NULL
