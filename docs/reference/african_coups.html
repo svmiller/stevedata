@@ -81,7 +81,10 @@
 <dd><p>Johnson et al.'s (1984) total military involvement score</p></dd>
 
 <dt><code>agperc</code></dt>
-<dd><p>an estimate of the percentage of the country's labor force in agriculture</p></dd>
+<dd><p>an estimate of the percentage of the country's labor force in agriculture and animal husbandry</p></dd>
+
+<dt><code>indperc</code></dt>
+<dd><p>an estimate of the percentage of the country's labor force in industry</p></dd>
 
 <dt><code>literacy_cnts</code></dt>
 <dd><p>an estimate of countrywide literacy from around 1965</p></dd>
@@ -126,6 +129,11 @@ information in Table 2.10 (p. 373 in Morrison et al. (1989)). Cameroon should
 have a 1 and not a 2, per Table 5.10 (p. 399). My comments here work under
 the assumption that Morrison et al. are adding information and not revising
 information in the second edition of the <em>Black Africa</em> handbook.</p>
+<p>To be more precise, both the Jackman coup index and total military involvement
+variables are directly copied from Table 2 in Johnson et al. (1984) on p. 627.
+Missingness in the Jackman coup index variable communicates the country was
+not included in his original study, but was included in the Johnson et al.
+replication.</p>
 <p>Ideally, I'd have Morrison's (1972) <em>Black Africa</em>, but I do not. I have
 a copy of a 1989 update, though. That's what I consulted in constructing
 this data set.</p>
@@ -134,14 +142,24 @@ columns C in Table 3.11 of Morrison et al. (1989). I do not think this is too
 far removed from what Jackman was looking at in an older version of the same
 data, but there will be slight differences. It's the difference of "these
 variables came from 1966" versus "this is an imputation of 1960 to 1970". The
-latter is what I offer here.</p>
+latter is what I offer here. I can only do so much here.</p>
+<p>To continue this theme of the opacity in trying to reconstruct the data, it
+seems Jackman (1978, p. 1265) misleads the reader a bit in saying that the
+social mobilization index incorporates the percentage of the labor force that
+is not employed in agriculture. He seems to have meant that he's using the
+percentage of the labor force that is employed in industry. Otherwise, the
+summary statistics he reports could not be reproduced or reasonably
+approximated by way of Morrison et al. (1989). This industry percentage
+variable comes from Table 3.14 in Morrison et al. (1989) and is likewise a
+midway point between 1960 and 1970.</p>
 <p>The literacy variables have suffices communicating where I obtained them. The
 Cross-National Time Series Database has a variable effectively communicating
 this information that I was using first in trying to recreate these data.
 These data come from 1965 in that data set. Jackman and Johnson et al. are
 assuredly using Morrison's almanac. That information is in Table 4.11 of
 Morrison et al. (1989), though it's possible the estimates contained therein
-are slightly different than what was reported in the first edition.</p>
+are slightly different than what was reported in the first edition. I cannot
+know for sure.</p>
 <p>Ethiopia is conspicuously missing in the party dominance variable. That's by
 design, and apparently its omission warranted ample discussion both by
 Jackman (1978) and Johnson et al. (1984). Johnson et al. (1984, fns. 4,5)
