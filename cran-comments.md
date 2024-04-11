@@ -1,11 +1,3 @@
-## Feedback to CRAN in light of second rejection
-
-Fixed the documentation issue.
-
-## Feedback to CRAN in light of initial rejection
-
-URL redirects will be the death of me. I'm sorry about that. I believe I fixed that here.
-
 ## Test environments
 
 * ubuntu 22.04, R 4.1.2
@@ -15,6 +7,8 @@ URL redirects will be the death of me. I'm sorry about that. I believe I fixed t
 R CMD check done via `devtools::check()`, resulting in 0 errors, 0 warnings, and 0 notes.
 
 `devtools::spell_check()` suggests several spelling errors. However, what I submit to CRAN includes only the false positives. Almost all of these false positives occur in the R Documentation file for when I source or add references about the data.
+
+`devtools::check(manual = TRUE, remote = TRUE, incoming = TRUE)` identified any URL redirect issues in advance of submission.
 
 ## Downstream dependencies
 
