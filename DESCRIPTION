@@ -7,7 +7,7 @@ Authors@R: person("Steve", "Miller",
                   email = "steve@svmiller.com", 
                   role = c("aut", "cre"),
                   comment = c(ORCID = "0000-0003-4072-6263"))
-Maintainer: Steve Miller <steven.v.miller@gmail.com>
+Maintainer: Steve Miller <steve@svmiller.com>
 Description: This is a collection of various kinds of data with broad uses for teaching. 
     My students, and academics like me who teach the same topics I teach, should find 
     this useful if their teaching workflow is also built around the R programming 
