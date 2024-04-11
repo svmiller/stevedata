@@ -29,11 +29,17 @@ NULL
 #' Incomplete classification by local agencies can also result in a significant
 #' proportion of events being categorized as 'unknown cause' or similar.
 #'
-#' Before quoting these datasets, please follow the citation links for a description
-#' of the considerable differences between them and the reasons for data suppression.
+#' Before quoting these datasets, please follow the citation links for a
+#' description of the considerable differences between them and the reasons for
+#' data suppression.
 #'
-#' Where a rate is calculated by \code{GunPolicy.org}, a matched population estimate is also cited.
+#' Where a rate is calculated by \code{GunPolicy.org}, a matched population
+#' estimate is also cited.
 #'
-#' @source \url{https://www.gunpolicy.org}
+#' The aforementioned details come, copied and pasted, from \code{GunPolicy.org}.
+#' As of my most recent check of these data (April 2024), this agency appeared
+#' to close due to lack of funding. This is unfortunate, but it is worth noting
+#' for matters of reproducibility and the use of these data in applied research
+#' questions.
 #'
 "ghp100k"

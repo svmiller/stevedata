@@ -12,9 +12,6 @@ A data frame with 561 observations on the following 3 variables.
 \item{\code{value}}{a numeric vector for the estimated rate of gun homicide per 100,000 people}
 }
 }
-\source{
-\url{https://www.gunpolicy.org}
-}
 \usage{
 ghp100k
 }
@@ -39,9 +36,17 @@ Suppression can result in zero values where in fact homicides did occur.
 Incomplete classification by local agencies can also result in a significant
 proportion of events being categorized as 'unknown cause' or similar.
 
-Before quoting these datasets, please follow the citation links for a description
-of the considerable differences between them and the reasons for data suppression.
+Before quoting these datasets, please follow the citation links for a
+description of the considerable differences between them and the reasons for
+data suppression.
 
-Where a rate is calculated by \code{GunPolicy.org}, a matched population estimate is also cited.
+Where a rate is calculated by \code{GunPolicy.org}, a matched population
+estimate is also cited.
+
+The aforementioned details come, copied and pasted, from \code{GunPolicy.org}.
+As of my most recent check of these data (April 2024), this agency appeared
+to close due to lack of funding. This is unfortunate, but it is worth noting
+for matters of reproducibility and the use of these data in applied research
+questions.
 }
 \keyword{datasets}
