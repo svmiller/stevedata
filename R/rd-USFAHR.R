@@ -51,7 +51,7 @@ NULL
 #' Yemen Arab Republic, Yemen People's Republic, and Zanzibar.
 #'
 #' Higher values of the physical violence index and civil liberties index
-#' communicate better human rights records.
+#' communicate better human rights records. Data are lagged a year.
 #'
 #' Foreign policy similarity is Cohen's (1960) kappa based on valued United
 #' Nations General Assembly voting. Data come from Haege (2011) by way of
