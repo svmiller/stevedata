@@ -1,7 +1,3 @@
-## Feedback in light of first rejection
-
-This was a mistake on my end. I want to move away from my personal Gmail for a lot of professional stuff and forgot to adjust this second line in DESCRIPTION.
-
 ## Test environments
 
 * ubuntu 22.04, R 4.1.2
