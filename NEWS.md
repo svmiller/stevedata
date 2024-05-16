@@ -4,6 +4,10 @@ Additions include:
 
 - `USFAHR`: a data set on economic aid allocation by the United States in assorted years. These data are useful for teaching about linear models, censored/limited data, so-called "corner solutions", and potentially mixed effects models. It's also useful for an illustrative debate about how much the United States has ever seriously considered human rights records in allocating foreign aid.
 
+Updates include:
+
+- Assorted documentation updates. 
+
 # stevedata 1.2.0
 
 Additions include:
