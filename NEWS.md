@@ -1,3 +1,9 @@
+# stevedata 1.4.0
+
+Updates include:
+
+- Assorted documentation updates.
+
 # stevedata 1.3.0
 
 Additions include:

@@ -2,7 +2,7 @@ Package: stevedata
 Type: Package
 Title: Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics
 Depends: R (>= 3.5.0)
-Version: 1.3.0
+Version: 1.3.9
 Authors@R: person("Steve", "Miller",
                   email = "steve@svmiller.com", 
                   role = c("aut", "cre"),
