@@ -62,7 +62,8 @@ Foreign policy similarity is Cohen's (1960) kappa based on valued United
 Nations General Assembly voting. Data come from Haege (2011) by way of
 \pkg{peacesciencer}'s \code{add_fpsim()} function. Please read
 \pkg{peacesciencer} documentation for more information about these measures,
-along with what you should cite for any serious use of these data.
+along with what you should cite for any serious use of these data. Higher
+values for these measures = more foreign policy similarity.
 
 Minimum distance is calculated using the Vincenty method ("as the crow
 flies"). Measurement is in kilometers and data come from \pkg{peacesciencer}

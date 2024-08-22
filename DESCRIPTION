@@ -17,7 +17,7 @@ License: GPL-2
 Encoding: UTF-8
 LazyData: true
 LazyDataCompression: xz
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 Roxygen: list(markdown = TRUE)
 URL: http://svmiller.com/stevedata/
 BugReports: https://github.com/svmiller/stevedata/issues/
