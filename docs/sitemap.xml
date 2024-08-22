@@ -1,309 +1,105 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://svmiller.com/404.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/articles/stevedata-description.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/authors.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/index.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/news/index.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/Arca.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/CFT15.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/CP77.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/DAPO.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/DCE12.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/DJIA.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/DST.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/Datasaurus.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/Dee04.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/EBJ.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/ESS10NO.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/ESS9GB.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/ESSBE5.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/GHR04.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/Guber99.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/LOTI.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/LTPT.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/LTWT.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/Lipset59.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/Newhouse77.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/ODGI.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/OODTPT.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/PPGE.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/PRDEG.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/Presidents.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/SBCD.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/SCP16.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/TV16.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/USFAHR.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/af_crime93.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/african_coups.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/aluminum_premiums.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/anes_partytherms.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/anes_prochoice.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/anes_vote84.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/arcticseaice.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/arg_tariff.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/asn_stats.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/clemson_temps.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/co2emissions.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/coffee_imports.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/coffee_price.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/commodity_prices.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/eight_schools.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/election_turnout.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/eq_passengercars.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/eurostat_codes.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/eustates.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/fakeAPI.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/fakeHappiness.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/fakeLogit.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/fakeTSCS.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/fakeTSD.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/ghp100k.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/gss_abortion.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/gss_spending.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/gss_wages.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/illiteracy30.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/inglehart03.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/min_wage.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/mm_mlda.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/mm_nhis.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/mm_randhie.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/mvprod.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/nesarc_drinkspd.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/pwt_sample.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/quartets.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/recessions.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/scb_regions.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/sealevels.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/so2concentrations.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/states_war.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/steves_clothes.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/sugar_price.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/sweden_counties.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/thatcher_approval.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/therms.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/turnips.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/ukg_eeri.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/uniondensity.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/usa_chn_gdp_forecasts.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/usa_computers.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/usa_migration.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/usa_states.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/usa_tradegdp.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/voteincome.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/wbd_example.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/wvs_ccodes.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/wvs_immig.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/wvs_justifbribe.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/wvs_usa_abortion.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/wvs_usa_educat.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/wvs_usa_regions.html</loc>
-  </url>
-  <url>
-    <loc>http://svmiller.com/reference/yugo_sales.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>http://svmiller.com/404.html</loc></url>
+<url><loc>http://svmiller.com/LICENSE-text.html</loc></url>
+<url><loc>http://svmiller.com/articles/index.html</loc></url>
+<url><loc>http://svmiller.com/articles/stevedata-description.html</loc></url>
+<url><loc>http://svmiller.com/authors.html</loc></url>
+<url><loc>http://svmiller.com/index.html</loc></url>
+<url><loc>http://svmiller.com/news/index.html</loc></url>
+<url><loc>http://svmiller.com/reference/Arca.html</loc></url>
+<url><loc>http://svmiller.com/reference/CFT15.html</loc></url>
+<url><loc>http://svmiller.com/reference/CP77.html</loc></url>
+<url><loc>http://svmiller.com/reference/DAPO.html</loc></url>
+<url><loc>http://svmiller.com/reference/DCE12.html</loc></url>
+<url><loc>http://svmiller.com/reference/DJIA.html</loc></url>
+<url><loc>http://svmiller.com/reference/DST.html</loc></url>
+<url><loc>http://svmiller.com/reference/Datasaurus.html</loc></url>
+<url><loc>http://svmiller.com/reference/Dee04.html</loc></url>
+<url><loc>http://svmiller.com/reference/EBJ.html</loc></url>
+<url><loc>http://svmiller.com/reference/ESS10NO.html</loc></url>
+<url><loc>http://svmiller.com/reference/ESS9GB.html</loc></url>
+<url><loc>http://svmiller.com/reference/ESSBE5.html</loc></url>
+<url><loc>http://svmiller.com/reference/GHR04.html</loc></url>
+<url><loc>http://svmiller.com/reference/Guber99.html</loc></url>
+<url><loc>http://svmiller.com/reference/LOTI.html</loc></url>
+<url><loc>http://svmiller.com/reference/LTPT.html</loc></url>
+<url><loc>http://svmiller.com/reference/LTWT.html</loc></url>
+<url><loc>http://svmiller.com/reference/Lipset59.html</loc></url>
+<url><loc>http://svmiller.com/reference/Newhouse77.html</loc></url>
+<url><loc>http://svmiller.com/reference/ODGI.html</loc></url>
+<url><loc>http://svmiller.com/reference/OODTPT.html</loc></url>
+<url><loc>http://svmiller.com/reference/PPGE.html</loc></url>
+<url><loc>http://svmiller.com/reference/PRDEG.html</loc></url>
+<url><loc>http://svmiller.com/reference/Presidents.html</loc></url>
+<url><loc>http://svmiller.com/reference/SBCD.html</loc></url>
+<url><loc>http://svmiller.com/reference/SCP16.html</loc></url>
+<url><loc>http://svmiller.com/reference/TV16.html</loc></url>
+<url><loc>http://svmiller.com/reference/USFAHR.html</loc></url>
+<url><loc>http://svmiller.com/reference/af_crime93.html</loc></url>
+<url><loc>http://svmiller.com/reference/african_coups.html</loc></url>
+<url><loc>http://svmiller.com/reference/aluminum_premiums.html</loc></url>
+<url><loc>http://svmiller.com/reference/anes_partytherms.html</loc></url>
+<url><loc>http://svmiller.com/reference/anes_prochoice.html</loc></url>
+<url><loc>http://svmiller.com/reference/anes_vote84.html</loc></url>
+<url><loc>http://svmiller.com/reference/arcticseaice.html</loc></url>
+<url><loc>http://svmiller.com/reference/arg_tariff.html</loc></url>
+<url><loc>http://svmiller.com/reference/asn_stats.html</loc></url>
+<url><loc>http://svmiller.com/reference/clemson_temps.html</loc></url>
+<url><loc>http://svmiller.com/reference/co2emissions.html</loc></url>
+<url><loc>http://svmiller.com/reference/coffee_imports.html</loc></url>
+<url><loc>http://svmiller.com/reference/coffee_price.html</loc></url>
+<url><loc>http://svmiller.com/reference/commodity_prices.html</loc></url>
+<url><loc>http://svmiller.com/reference/eight_schools.html</loc></url>
+<url><loc>http://svmiller.com/reference/election_turnout.html</loc></url>
+<url><loc>http://svmiller.com/reference/eq_passengercars.html</loc></url>
+<url><loc>http://svmiller.com/reference/eurostat_codes.html</loc></url>
+<url><loc>http://svmiller.com/reference/eustates.html</loc></url>
+<url><loc>http://svmiller.com/reference/fakeAPI.html</loc></url>
+<url><loc>http://svmiller.com/reference/fakeHappiness.html</loc></url>
+<url><loc>http://svmiller.com/reference/fakeLogit.html</loc></url>
+<url><loc>http://svmiller.com/reference/fakeTSCS.html</loc></url>
+<url><loc>http://svmiller.com/reference/fakeTSD.html</loc></url>
+<url><loc>http://svmiller.com/reference/ghp100k.html</loc></url>
+<url><loc>http://svmiller.com/reference/gss_abortion.html</loc></url>
+<url><loc>http://svmiller.com/reference/gss_spending.html</loc></url>
+<url><loc>http://svmiller.com/reference/gss_wages.html</loc></url>
+<url><loc>http://svmiller.com/reference/illiteracy30.html</loc></url>
+<url><loc>http://svmiller.com/reference/index.html</loc></url>
+<url><loc>http://svmiller.com/reference/inglehart03.html</loc></url>
+<url><loc>http://svmiller.com/reference/min_wage.html</loc></url>
+<url><loc>http://svmiller.com/reference/mm_mlda.html</loc></url>
+<url><loc>http://svmiller.com/reference/mm_nhis.html</loc></url>
+<url><loc>http://svmiller.com/reference/mm_randhie.html</loc></url>
+<url><loc>http://svmiller.com/reference/mvprod.html</loc></url>
+<url><loc>http://svmiller.com/reference/nesarc_drinkspd.html</loc></url>
+<url><loc>http://svmiller.com/reference/pwt_sample.html</loc></url>
+<url><loc>http://svmiller.com/reference/quartets.html</loc></url>
+<url><loc>http://svmiller.com/reference/recessions.html</loc></url>
+<url><loc>http://svmiller.com/reference/scb_regions.html</loc></url>
+<url><loc>http://svmiller.com/reference/sealevels.html</loc></url>
+<url><loc>http://svmiller.com/reference/so2concentrations.html</loc></url>
+<url><loc>http://svmiller.com/reference/states_war.html</loc></url>
+<url><loc>http://svmiller.com/reference/steves_clothes.html</loc></url>
+<url><loc>http://svmiller.com/reference/sugar_price.html</loc></url>
+<url><loc>http://svmiller.com/reference/sweden_counties.html</loc></url>
+<url><loc>http://svmiller.com/reference/thatcher_approval.html</loc></url>
+<url><loc>http://svmiller.com/reference/therms.html</loc></url>
+<url><loc>http://svmiller.com/reference/turnips.html</loc></url>
+<url><loc>http://svmiller.com/reference/ukg_eeri.html</loc></url>
+<url><loc>http://svmiller.com/reference/uniondensity.html</loc></url>
+<url><loc>http://svmiller.com/reference/usa_chn_gdp_forecasts.html</loc></url>
+<url><loc>http://svmiller.com/reference/usa_computers.html</loc></url>
+<url><loc>http://svmiller.com/reference/usa_migration.html</loc></url>
+<url><loc>http://svmiller.com/reference/usa_states.html</loc></url>
+<url><loc>http://svmiller.com/reference/usa_tradegdp.html</loc></url>
+<url><loc>http://svmiller.com/reference/voteincome.html</loc></url>
+<url><loc>http://svmiller.com/reference/wbd_example.html</loc></url>
+<url><loc>http://svmiller.com/reference/wvs_ccodes.html</loc></url>
+<url><loc>http://svmiller.com/reference/wvs_immig.html</loc></url>
+<url><loc>http://svmiller.com/reference/wvs_justifbribe.html</loc></url>
+<url><loc>http://svmiller.com/reference/wvs_usa_abortion.html</loc></url>
+<url><loc>http://svmiller.com/reference/wvs_usa_educat.html</loc></url>
+<url><loc>http://svmiller.com/reference/wvs_usa_regions.html</loc></url>
+<url><loc>http://svmiller.com/reference/yugo_sales.html</loc></url>
 </urlset>
+
