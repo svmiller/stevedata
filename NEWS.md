@@ -1,5 +1,9 @@
 # stevedata 1.4.0
 
+Additions include:
+
+- `eu_ua_fta24`: A data set of the outcome of a roll-call vote in the European Union on extending the emergency free trade agreement between the European Union and Ukraine. These data are useful for teaching around character/string manipulation and simple data summary around a simple case where states bordering Ukraine were often in greater opposition to the measure for reasons implied by standard arguments of who wants protection from foreign goods.
+
 Updates include:
 
 - Assorted documentation updates.
