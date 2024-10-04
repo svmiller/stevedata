@@ -18,6 +18,8 @@ chile88 %>%
 
 chile88 %>%
   mutate(sex = ifelse(sex == "M", 0, 1)) %>%
-  rename(sq = statusquo) -> chile88
+  rename(sq = statusquo,
+         educ = education,
+         pop = population) -> chile88
 
 save(chile88, file="data/chile88.rda")
