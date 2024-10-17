@@ -4,7 +4,8 @@ Additions include:
 
 - `eu_ua_fta24`: A data set of the outcome of a roll-call vote in the European Union on extending the emergency free trade agreement between the European Union and Ukraine. These data are useful for teaching around character/string manipulation and simple data summary around a simple case where states bordering Ukraine were often in greater opposition to the measure for reasons implied by standard arguments of who wants protection from foreign goods.
 - `chile88`: A data set on voting intentions in a plebiscite in Chile in 1988. This plebiscite concerned the future of the military junta under Augusto Pinochet.
-- `Parvin73`: A data set for replicating a 1973 analysis in *Journal of Conflict Resolution* on the economic determinants of political unrest. These data are useful for teaching around replication and what logarithmic transformations do in the linear model.
+- `Parvin73`: A data set for replicating a 1973 analysis in *Journal of Conflict Resolution* on the economic determinants of political unrest. These data are useful for teaching statistics around replication, and teaching what logarithmic transformations do in the linear model.
+- `Mitchell68`: A data set for replicating a 1968 analysis in *World Politics* on the correlates of South Vietnamese control of its territory during the Vietnam War. These data are useful for teaching statistics around replication of a simple linear model.
 
 Updates include:
 
