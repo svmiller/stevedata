@@ -36,6 +36,12 @@ NULL
 #' data, the regions are Central ("C"), Metropolitan Santiago area ("M"), North
 #' ("N"), South ("S"), and the city of Santiago ("SA").
 #'
+#' More information about the underlying source of the data would be more than
+#' welcome. Any information about these data, beyond the kind of R documentation
+#' files about its pedagogical use, is hard to find. This is a roundabout way of
+#' saying be cautious about any "real-world" use of these data beyond
+#' learning statistical methods. That is ultimately its intended use.
+#'
 #' @references
 #'
 #' Fox, John. 2008. *Applied Regression Analysis and Generalized Linear Models*
