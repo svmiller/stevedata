@@ -29,16 +29,14 @@ Vietnam, to replicate a study by Mitchell (1968).
 The data are gathered from Table 1 in the document. You should also
 read the article for more information as to what's happening and for what
 purpose.  Mitchell (1968) is quite clear about where else he's getting these
-data.
+data. Much of what follows can be discerned in the first few pages of Mitchell
+(1968), which jumps right into a conversation about research design after
+a brief introduction.
 
 \emph{Los Angeles Times} maps inform the government control variable, and there
 are assumptions that Mitchell makes about the nature of control by the
 government (South Vietnam), the Vietcong, or the areas that are contested.
 The "control" here ultimately refers to South Vietnam.
-
-Much of what follows can be discerned in the first few pages of Mitchell
-(1968), which jumps right into a conversation about research design after
-a brief introduction.
 
 The observations for government control variable are from 1965. Mitchell's
 footnote in his Table 1 says all other variables (except for population
@@ -77,9 +75,24 @@ nor is it that important. It is worth noting that this kind of "step-wise"
 procedure he employs for selecting a linear model is 100\% not how you should
 do it, and that 33rd footnote he includes on p. 432 would be an automatic
 rejection at any quantitatively-oriented journal today.
+
+It may interest the user to see re-analyses of Mitchell (1968) from around
+this time. I include those in the references for your consideration. Briefly,
+Paige's (1970) objection is that Mitchell (1968) includes radically different
+land-holding types into assorted measures of inequality and that Mitchell is
+selecting on 1965 (a watershed moment of insurgency during the war).
+Paranzino's (1972) critique is primarily statistical, though incorporates
+some of the issues raised by Paige (1970). Importantly, he correctly notes
+what the results of the linear model should be (p. 567).
 }
 \references{
 Mitchell, Edward J. 1968. "Inequality and Insurgency: A Statistical Study of
-South Vietnam." \emph{World Politics} 20(3): 421--438.
+South Vietnam." \emph{World Politics} 20(3): 421--38.
+
+Paige, Jeffery M. 1970. "Inequality and Insurgency in Vietnam: A
+Re-Analysis." \emph{World Politics} 23(1): 24--37.
+
+Paranzino, Dennis. 1972. "Inequality and Insurgency in Vietnam: A Further
+Re-Analysis." \emph{World Politics} 24(2): 565--78.
 }
 \keyword{datasets}
