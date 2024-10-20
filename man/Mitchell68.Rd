@@ -33,6 +33,13 @@ data. Much of what follows can be discerned in the first few pages of Mitchell
 (1968), which jumps right into a conversation about research design after
 a brief introduction.
 
+Province names are taken "as is" from Mitchell (1968). Since South Vietnam
+no longer exists, and these observations are about 60 years old, some of
+these province names may no longer exist. You may have to search for some
+old provincial maps of the former Republic of Vietnam in order to understand
+where some of these provinces are/were (especially if you're interested in
+the regional variation noted by Paige (1970)).
+
 \emph{Los Angeles Times} maps inform the government control variable, and there
 are assumptions that Mitchell makes about the nature of control by the
 government (South Vietnam), the Vietcong, or the areas that are contested.
@@ -59,10 +66,15 @@ strongly suggested.
 The "French land" and "Vietnamese land" variables refer to a specific agrarian
 reform measure ("Ordinance 57"). The Vietnam version includes both expropriated
 and redistributed land. The French version includes just expropriated land,
-per Mitchell. The logic is the Vietnamese version suggests higher inequality
-for lower values. The French land, being just expropriation, has a single
-owner (the South Vietnamese government). That suggests higher inequality for
-higher values.
+per Mitchell. The logic is the Vietnamese version suggests higher values =
+lower inequality since the measure (partly) includes redistributed land. The
+French land, being just expropriation, has a single owner (the South
+Vietnamese government). That suggests higher inequality for higher values.
+This logic is interesting but questionable, and we'll just have to roll with
+the premise for the nature of the intended use of these data (i.e.
+replication). Paige's (1970) objection is more about regional variation in
+South Vietnam and its varied patterns of land use, and not about the
+particulars of these two measure (per se).
 
 The mobility measure is ultimately one of road density, though also considers
 terrain ruggedness and the percentage of the province not characterized by
