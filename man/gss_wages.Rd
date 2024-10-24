@@ -28,6 +28,8 @@ Wage data from the General Social Survey (1974-2018) to illustrate
 wage discrepancies by gender (while also considering respondent occupation, age, and education).
 }
 \details{
-For further details, see \url{https://gssdataexplorer.norc.org}. Consult \url{https://census.gov} for more information about occupation codes.
+For further details, see the GSS Data Explorer at the National Opinion
+Research Center (NORC) at the University of Chicago. Consult
+\url{https://census.gov} for more information about occupation codes.
 }
 \keyword{datasets}

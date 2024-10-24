@@ -21,6 +21,10 @@ NULL
 #' \item{\code{maritalcat}}{respondent's marital status (Married, Widowed, Divorced, Separated, Never Married)}
 #' }
 #'
-#' @details For further details, see \url{https://gssdataexplorer.norc.org}. Consult \url{https://census.gov} for more information about occupation codes.
+#' @details
+#'
+#' For further details, see the GSS Data Explorer at the National Opinion
+#' Research Center (NORC) at the University of Chicago. Consult
+#' \url{https://census.gov} for more information about occupation codes.
 #'
 "gss_wages"

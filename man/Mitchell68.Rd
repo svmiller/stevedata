@@ -76,9 +76,8 @@ replication). Paige's (1970) objection is more about regional variation in
 South Vietnam and its varied patterns of land use, and not about the
 particulars of these two measure (per se).
 
-The mobility measure is ultimately one of road density, though also considers
-terrain ruggedness and the percentage of the province not characterized by
-marshes, forests, and swamps.
+The mobility measure is a percentage, referring to the percentage of the
+province that is composed of plains and hills without dense forest.
 
 The data are faithfully (to my level best!) scraped from Table 1 of his
 article. However, the results that come from a linear model do not perfectly

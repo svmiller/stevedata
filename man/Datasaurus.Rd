@@ -28,12 +28,9 @@ standard deviation of \code{y} is about 26.93. \code{x} and \code{y} will
 correlate weakly, about -.06.
 }
 \references{
-Cairo, Alberto. 2016. ``Download the Datasaurus: Never trust
-summary statistics alone; always visualize your data''.
-\emph{URL:} \url{http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html}
-
-Matejka, Justin and George Fitzmaurice. 2017. ``Same Stats, Different Graphs: Generating Datasets
-with Varied Appearance and Identical Statistics through Simulated Annealing.''
+Matejka, Justin and George Fitzmaurice. 2017. ``Same Stats, Different Graphs:
+Generating Datasets with Varied Appearance and Identical Statistics
+through Simulated Annealing.''
 \emph{ACM SIGCHI Conference on Human Factors in Computing Systems}.
 }
 \author{
