@@ -7,6 +7,7 @@ Additions include:
 - `Parvin73`: A data set for replicating a 1973 analysis in *Journal of Conflict Resolution* on the economic determinants of political unrest. These data are useful for teaching statistics around replication, and teaching what logarithmic transformations do in the linear model.
 - `Mitchell68`: A data set for replicating a 1968 analysis in *World Politics* on the correlates of South Vietnamese control of its territory during the Vietnam War. These data are useful for teaching statistics around replication of a simple linear model.
 - `epl_odds`: A data set on the odds of relegation and winning the table for 2024-25 Premier League squads. These are useful for communicating what odds are.
+- `country_isocodes`: A data set on ISO country codes. These are useful for doing some data subsetting operations (for my students and myself).
 
 Updates include:
 
