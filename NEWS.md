@@ -5,6 +5,7 @@ Additions include:
 - `Russett64`: A data set on inequality and instability, to replicate Russett's (1964) analysis.
 - `china_peace`: A data set on Chinese peace engagement in conflict-affected countries. These are useful for teaching about panel models, fixed effects, or some GLMs like the negative binomial model.
 - `wb_groups`: A data set on World Bank country groups/classifications, for ease of identifying just the three character ISO codes of interest for use in the `{WDI}` package.
+- `gas_demand`: A data set on gasoline demand in OECD countries from 1960 to 1978. Useful for teaching about panel models.
 
 Updates include:
 

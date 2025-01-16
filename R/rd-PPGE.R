@@ -43,11 +43,12 @@ NULL
 #'
 #' Briefly: the government spending/GDP data come from the International
 #' Monetary Fund. The trade/GDP data come from the World Bank's API, as do the
-#' population, GDP per capita, and urbanization data (see their details).
-#' The financial openness indicators come by way of the Chinn-Ito index. The
-#' engagement in trade unions data are from the Varieties of Democracy project.
-#' The ordinal measure of the trade union estimates communicate what percentage
-#' of the population is active in independent trade unions. Values include 0)
+#' population, GDP per capita, and urbanization data (see their details). The
+#' more convention union density data come from OECD/ICWSS. The financial
+#' openness indicators come by way of the Chinn-Ito index. The engagement in
+#' trade unions data are from the Varieties of Democracy project. The ordinal
+#' measure of the trade union estimates communicate what percentag of the
+#' population is active in independent trade unions. Values include 0)
 #' virtually no one 1) a small share of the population (less than 5%), 2) A
 #' moderate share of the population (about 5 to 15%). 3) A large share of
 #' the population (about 16 % to 25%). 4) A very large share of the population
