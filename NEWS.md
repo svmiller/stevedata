@@ -6,6 +6,10 @@ Additions include:
 - `china_peace`: A data set on Chinese peace engagement in conflict-affected countries. These are useful for teaching about panel models, fixed effects, or some GLMs like the negative binomial model.
 - `wb_groups`: A data set on World Bank country groups/classifications, for ease of identifying just the three character ISO codes of interest for use in the `{WDI}` package.
 
+Updates include:
+
+- `PPGE` has more variables, drawn from Rodrik (1998) and Garrett (2001), to make for a more interesting panel analysis.
+
 # stevedata 1.4.0
 
 Additions include:
