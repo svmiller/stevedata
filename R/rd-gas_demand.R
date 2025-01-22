@@ -12,7 +12,7 @@ NULL
 #' \item{\code{gas}}{gasoline consumption per car, log-transformed}
 #' \item{\code{income}}{real per capita income, log-transformed}
 #' \item{\code{price}}{real gasoline price, log-transformed}
-#' \item{\code{cars}}{the stock of cars per capita (log-transformed)}
+#' \item{\code{cars}}{the stock of cars per capita, log-transformed}
 #' }
 #'
 #' @details The data are a simple port from the \pkg{AER} package. Users should
@@ -24,6 +24,10 @@ NULL
 #' values arise from the logarithmic transformation of values less than 1, but
 #' more than 0, it is not clear why per capita income would be on that particular
 #' scale.
+#'
+#' The same curiosities emerge for the stock of cars per capita and real
+#' gasoline price, though proportional values between 0 and 1 are seemingly
+#' plausible (absent my willingness to look further into these details).
 #'
 #' @references
 #'
