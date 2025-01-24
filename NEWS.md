@@ -10,6 +10,7 @@ Additions include:
 Updates include:
 
 - `PPGE` has more variables, drawn from Rodrik (1998) and Garrett (2001), to make for a more interesting panel analysis.
+- Assorted documentation updates for clarity.
 
 # stevedata 1.4.0
 

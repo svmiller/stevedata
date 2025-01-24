@@ -5,7 +5,7 @@ NULL
 #'
 #' A data set on government spending in select rich countries as a function of
 #' trade/GDP, financial openness, and the state-year-level engagement in trade
-#' unions (among other things). The data offer a means to quasi-replicate
+#' unions (among other things). The data offer a means to assess
 #' Garrett's (1998) argument about left-wing governments' ability to stem the
 #' tide of globalization's effect on decreased government spending. Data also
 #' draw inspiration from Rodrik (1998) and Garrett (2001).
@@ -36,7 +36,8 @@ NULL
 #' density coverage is spotty for states like Greece and Portugal. The data also
 #' have some obvious COVID weirdness for 2020. Use that to inform whatever case
 #' or variable selection you would like to do. It may make sense to employ a
-#' temporal domain of something like 1975 to 2015, or whatever.
+#' temporal domain of something like 1980 to 2005, or whatever. I don't know.
+#' There's also the issue of what to do about the recession.
 #'
 #' The dependency ratio is defined as the population aged 0-14, or 65 and above,
 #' divided over the "working-age" population of 15-64 (x 100).
@@ -44,10 +45,10 @@ NULL
 #' Briefly: the government spending/GDP data come from the International
 #' Monetary Fund. The trade/GDP data come from the World Bank's API, as do the
 #' population, GDP per capita, and urbanization data (see their details). The
-#' more convention union density data come from OECD/ICWSS. The financial
+#' more conventional union density data come from OECD/ICWSS. The financial
 #' openness indicators come by way of the Chinn-Ito index. The engagement in
 #' trade unions data are from the Varieties of Democracy project. The ordinal
-#' measure of the trade union estimates communicate what percentag of the
+#' measure of the trade union estimates communicate what percentage of the
 #' population is active in independent trade unions. Values include 0)
 #' virtually no one 1) a small share of the population (less than 5%), 2) A
 #' moderate share of the population (about 5 to 15%). 3) A large share of

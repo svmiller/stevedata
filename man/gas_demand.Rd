@@ -35,6 +35,9 @@ scale.
 The same curiosities emerge for the stock of cars per capita and real
 gasoline price, though proportional values between 0 and 1 are seemingly
 plausible (absent my willingness to look further into these details).
+
+No matter, the data are sufficient for replication of Baltagi and Griffin
+(1983) without any further effort from the user. That's always nice.
 }
 \references{
 Baltagi, Badi H. and James M. Griffin. 1983. "Gasoline Demand in the OECD: An
