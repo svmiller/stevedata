@@ -1,3 +1,14 @@
+# stevedata 1.6.0
+
+Additions include:
+
+- `gatt_members`: a data set on membership in the General Agreement on Tariffs and Trade (GATT).
+- `rok_unga`: a data set on general assembly voting for South Korea and its dyads from 1991 to 2022.
+
+Updates include:
+
+- Assorted documentation updates for clarity.
+
 # stevedata 1.5.0
 
 Additions include:

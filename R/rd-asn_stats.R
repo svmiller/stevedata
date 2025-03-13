@@ -18,10 +18,13 @@ NULL
 #' \item{\code{hijackfatal}}{a numeric vector for the number of fatalities from hijackings/skyjackings}
 #' }
 #'
-#' @details All fatality estimates exclude ground fatalities. All accidents are hull-loss accidents.
-#' The airliner figures are for those flights with at least 14 passengers.
-#' Check \url{https://asn.flightsafety.org/statistics/period/stats.php?cat=H2} for more.
+#' @details All fatality estimates exclude ground fatalities. All accidents are
+#' hull-loss accidents. The airliner figures are for those flights with at
+#' least 14 passengers.
+#'
 #'
 #' @source Aviation Safety Network, a service provided by the Flight Safety Foundation.
 #'
 "asn_stats"
+
+# Check \url{https://asn.flightsafety.org/statistics/period/stats.php?cat=H2} for more.

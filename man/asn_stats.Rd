@@ -28,8 +28,8 @@ corporate jet accidents and hijackings. The hijackings are of particular interes
 to me, at least from a historical terrorism perspective.
 }
 \details{
-All fatality estimates exclude ground fatalities. All accidents are hull-loss accidents.
-The airliner figures are for those flights with at least 14 passengers.
-Check \url{https://asn.flightsafety.org/statistics/period/stats.php?cat=H2} for more.
+All fatality estimates exclude ground fatalities. All accidents are
+hull-loss accidents. The airliner figures are for those flights with at
+least 14 passengers.
 }
 \keyword{datasets}
