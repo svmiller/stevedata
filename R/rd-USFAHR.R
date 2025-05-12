@@ -15,7 +15,7 @@ NULL
 #' \item{\code{region}}{a region in which the country resides, per Greenbook}
 #' \item{\code{year}}{a year}
 #' \item{\code{nomoblig}}{economic aid obligations in nominal U.S. dollars}
-#' \item{\code{constoblig}}{economic aid obligations in costant 2019 U.S. dollars}
+#' \item{\code{constoblig}}{economic aid obligations in constant 2019 U.S. dollars}
 #' \item{\code{clphy}}{a physical violence index, bound between 0 and 1}
 #' \item{\code{civlib}}{a civil liberties index, bound between 0 and 1}
 #' \item{\code{fpsusa}}{foreign policy similarity with the United States}

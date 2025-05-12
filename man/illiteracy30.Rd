@@ -35,7 +35,7 @@ uses "negro" in lieu of black, but the variable names here eschew that older lab
 are not yet states in the 1930 Census.
 }
 \references{
-Grotenhuis, Manfred Te, Rob Eisinga, and SV Subramanian. 2011. "Robinson's Ecological Correlations and the Behavior of Individuals: methodological corrections." \emph{Internatoinal Journal of Epidemiology} 40(4): 1123-25.
+Grotenhuis, Manfred Te, Rob Eisinga, and SV Subramanian. 2011. "Robinson's Ecological Correlations and the Behavior of Individuals: methodological corrections." \emph{International Journal of Epidemiology} 40(4): 1123-25.
 
 Robinson, WS. 1950. "Ecological Correlations and the Behavior of Individuals." \emph{American Sociological Review} 15(3): 351--57.
 }

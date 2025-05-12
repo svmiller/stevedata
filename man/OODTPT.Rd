@@ -11,7 +11,7 @@ A data frame with 75 observations on the following 16 variables.
 \item{\code{isocode}}{a character vector for the three-character ISO code of the country}
 \item{\code{tariff}}{the mean statutory most favored nation tariff rate}
 \item{\code{corecov}}{the core non-tariff barrier coverage ratio}
-\item{\code{qualcov}}{the quality non-tariff barrier coverate ratio}
+\item{\code{qualcov}}{the quality non-tariff barrier coverage ratio}
 \item{\code{polity}}{the familiar Polity measure of democracy, from -10 to 10}
 \item{\code{iec}}{the index of electoral competitiveness from the World Bank}
 \item{\code{lngdppc}}{real GDP per capita in 1995 dollars}

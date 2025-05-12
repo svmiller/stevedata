@@ -10,7 +10,7 @@ A data frame with 77 observations on the following 4 variables.
 \item{\code{state_year}}{the state year and survey year, as provided in the article}
 \item{\code{havedem}}{the percentage of respondents saying having a democratic political system is "very good" or "good"}
 \item{\code{strongleader}}{the percentage of respondents saying having a strong leader unencumbered by elections or parliaments is "very good" or "good"}
-\item{\code{muslim}}{a dummy variable that equals 1 if Inglehart codes the state as being a "predominently Islamic society"}
+\item{\code{muslim}}{a dummy variable that equals 1 if Inglehart codes the state as being a "predominantly Islamic society"}
 }
 }
 \usage{

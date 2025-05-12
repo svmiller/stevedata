@@ -7,7 +7,7 @@
 \format{
 A data frame with 147 observations on the following 10 variables.
 \describe{
-\item{\code{levine}}{a numeric vector that servies as a cross-section identifier}
+\item{\code{levine}}{a numeric vector that serves as a cross-section identifier}
 \item{\code{country}}{a character vector for the country}
 \item{\code{decade}}{a numeric vector for a decade}
 \item{\code{private}}{a numeric vector for credit allocated to private enterprise}
