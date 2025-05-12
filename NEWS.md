@@ -2,6 +2,7 @@
 
 Additions include:
 
+- `AJR5`: a data set to reproduce Table 5 of Acemoglu et al. (2001).
 - `gatt_members`: a data set on membership in the General Agreement on Tariffs and Trade (GATT).
 - `rok_unga`: a data set on general assembly voting for South Korea and its dyads from 1991 to 2022.
 

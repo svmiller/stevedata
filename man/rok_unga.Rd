@@ -49,7 +49,7 @@ higher values in the ideal point distance variable communicate more dissimilarit
 
 GDP per capita include some imputations by way of a semiparametric Bayesian
 Gaussian copulas. This prominently concerns Venezuela. Data are otherwise
-derived from the World Banks' open data.
+derived from the World Bank's open data.
 
 Xavier Marquez' "extended Unified Democracy Scores" approximate a normal
 distribution with a standard deviation of 1. Invoking \code{pnorm()} on a particular
@@ -61,7 +61,7 @@ the Marquez estimate, higher values = "more democracy". See also: the
 Capital-to-capital distance is calculated using the Vicenty method ("as the
 crow flies"), and is done by way of a \pkg{peacesciencer} call and its
 \code{add_capital_distance()} function. There are unusual cases where a capital
-moved (i.e. Kazakhstan, Myanmar, Nigeria). In those cases, the capital on Jan.
-1 of the given year is treated as the capital.
+moved (i.e. Burundi, Kazakhstan, Myanmar, Nigeria). In those cases, the
+capital on Jan. 1 of the given year is treated as the capital.
 }
 \keyword{datasets}
