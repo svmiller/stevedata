@@ -38,7 +38,7 @@ NULL
 #'
 #' @source Cooperative Congressional Election Study, 2016
 #'
-#' @references \url{http://svmiller.com/blog/2017/04/age-income-racism-partisanship-trump-vote-2016/}
+#' @references \url{https://svmiller.com/blog/2017/04/age-income-racism-partisanship-trump-vote-2016/}
 #'
 #' \url{https://github.com/svmiller/2016-cces-trump-vote/blob/master/1-2016-cces-trump.R}
 #'

@@ -31,7 +31,7 @@ NULL
 #' \item{\code{lrscale}}{a numeric vector for the ideology of the respondent on an 11-point scale, from 0 to 10}
 #' }
 #'
-#' @details See accompanying blog post at \url{http://svmiller.com/blog/2020/03/what-explains-british-attitudes-toward-immigration-a-pedagogical-example/}.
+#' @details See accompanying blog post at \url{https://svmiller.com/blog/2020/03/what-explains-british-attitudes-toward-immigration-a-pedagogical-example/}.
 #'
 #' @source European Social Survey, Round 9
 #'

@@ -14,6 +14,6 @@ NULL
 #' \item{\code{ccode}}{the equivalent country code from the Correlates of War state system membership data}
 #' }
 #'
-#' @details \url{http://svmiller.com/blog/2015/06/syncing-word-values-survey-country-codes-with-cow-codes/}
+#' @details \url{https://svmiller.com/blog/2015/06/syncing-word-values-survey-country-codes-with-cow-codes/}
 #'
 "wvs_ccodes"

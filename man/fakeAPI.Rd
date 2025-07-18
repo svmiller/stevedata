@@ -31,6 +31,7 @@ patterned off the \code{apipop} data available in the \code{survey} package.
 These data were generated for a blog post on my website.
 }
 \references{
-Miller, Steven V. 2020. "Some Parlor Tricks with Survey-Type Analyses in R." URL: \url{http://svmiller.com/blog/2020/08/some-parlor-tricks-with-survey-type-analyses-in-r/}
+Miller, Steven V. 2020. "Some Parlor Tricks with Survey-Type Analyses in R."
+URL: \url{https://svmiller.com/blog/2020/08/some-parlor-tricks-with-survey-type-analyses-in-r/}
 }
 \keyword{datasets}

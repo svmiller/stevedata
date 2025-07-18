@@ -6,13 +6,13 @@
 [![](http://cranlogs.r-pkg.org/badges/last-month/stevedata?color=green)](https://cran.r-project.org/package=stevedata)
 [![](http://cranlogs.r-pkg.org/badges/last-week/stevedata?color=green)](https://cran.r-project.org/package=stevedata)
 
-<img src="http://svmiller.com/images/stevedata-hexlogo.png" alt="My stevedata  hexlogo" align="right" width="200" style="padding: 0 15px; float: right;"/>
+<img src="https://svmiller.com/images/stevedata-hexlogo.png" alt="My stevedata  hexlogo" align="right" width="200" style="padding: 0 15px; float: right;"/>
 
 `{stevedata}` is an R package full of toy data sets that you may find
 useful for various purposes. Namely, I’ve created probably over a
 hundred toy data sets along the way, either to riff on some topic on [my
-blog](http://svmiller.com/blog/), show my students something in one of
-[my many classes](http://svmiller.com/teaching/), or just to entertain
+blog](https://svmiller.com/blog/), show my students something in one of
+[my many classes](https://svmiller.com/teaching/), or just to entertain
 myself. I had stuffed a lot of these into
 [`{stevemisc}`](https://github.com/svmiller/stevemisc), but I want to
 keep that package mostly about the functions (and whatever data are
@@ -85,7 +85,7 @@ its contents. You can do this to see what is in it.
 data(package = "stevedata")
 ```
 
-You can also [check the website](http://svmiller.com/stevedata/) for
+You can also [check the website](https://svmiller.com/stevedata/) for
 more information. There is [an informal
-vignette](http://svmiller.com/stevedata/articles/stevedata-description.html)
+vignette](https://svmiller.com/stevedata/articles/stevedata-description.html)
 that describes these data in some detail.

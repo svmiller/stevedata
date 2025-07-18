@@ -21,6 +21,6 @@ with corresponding country codes from the Correlates of War state system
 membership data.
 }
 \details{
-\url{http://svmiller.com/blog/2015/06/syncing-word-values-survey-country-codes-with-cow-codes/}
+\url{https://svmiller.com/blog/2015/06/syncing-word-values-survey-country-codes-with-cow-codes/}
 }
 \keyword{datasets}
