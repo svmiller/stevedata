@@ -1,3 +1,9 @@
+# stevedata 1.7.0
+
+Additions include:
+
+- `mmb_war`: a data set on mutual military build-ups and war.
+
 # stevedata 1.6.0
 
 Additions include:
