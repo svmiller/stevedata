@@ -40,7 +40,8 @@ in 1) a rivalry relationship where 2) each dyadic partner is increasing their
 military expenditure \emph{or} personnel, 3) eight percent or more from the
 previous year, 4) for at least three years where 5) historical evidence largely
 corroborates a directionality in the mobilization of the kind we would
-broadly conceptualize (a la Richardson, 1939).
+broadly conceptualize (a la Richardson, 1939). In other words, the
+mutual mobilization isn't coincidental or a function of other priorities.
 
 The data I recreate here follow Gibler et al. (2005), but use newer
 capabilities and rivalry data. I further employ some case exclusion rules
@@ -54,7 +55,7 @@ we might comfortably note a war is ongoing (see: the various World War 1
 arms races). Further, I often extend a year to an arms race if one side
 started mobilizing first and the other side only started mobilizing the next
 year and/or one side continued mobilizing for a year after the other stopped.
-This is why, for example, I have an extra in the Spain-Morocco build-up in
+This is why, for example, I have an extra year in the Spain-Morocco build-up in
 the early 1970s (Spain mobilized through 1975). There were some cases where
 I disagreed that something could be considered an arms race/mutual military
 build-up by this metric. For example, the build-up observed between Somalia
@@ -63,8 +64,9 @@ it's clear Ethiopia is mobilizing. However, the data suggest only one year
 of mobilization for Somalia (1974). I remove those cases from my recreation.
 }
 \references{
-Gibler, Douglas M. 2005. "Takign Arms against a Sea of Troubles: Conventional
-Arms Races during Periods of Rivalry" \emph{Journal of Peace Research} 42(2): 131-47
+Gibler, Douglas M. 2005. "Taking Arms against a Sea of Troubles: Conventional
+Arms Races during Periods of Rivalry" \emph{Journal of Peace Research} 42(2):
+131-47.
 
 Gibler, Douglas M., and Steven V. Miller. 2024a. "The Militarized Interstate
 Confrontation Dataset, 1816-2014." \emph{Journal of Conflict Resolution} 68(2–3):
