@@ -4,6 +4,11 @@ Additions include:
 
 - `mmb_war`: a data set on mutual military build-ups and war.
 
+Updates include:
+
+- `GHR04` has a change in the `pubhlthexppgdp` variable.
+- Assorted documentation updates
+
 # stevedata 1.6.0
 
 Additions include:

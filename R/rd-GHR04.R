@@ -36,13 +36,19 @@ NULL
 #' mention led to this reduced form of their data, which almost perfectly replicates
 #' their results. The differences are typically in the hundredths, and often in
 #' the thousandths, and should be considered "good enough" for replication
-#' purposes. The only real confusion on my end is why I ended up with one more
-#' observation than they report in their analyses. This suggests one (or more?)
-#' of their variables they use has an `NA`, but I have no way of knowing what it
-#' could be.
+#' purposes. The descriptive statistics correspond with what the authors report
+#' in their analyses for all variables, except the Polity variable. I have no
+#' way of knowing how they got the median they report. It should be 6, not 7.
+#'
+#' The only real confusion on my end is why I ended up with one more
+#' observation than they report in Tables 1 and 3, and two more observations than
+#' they report in Table 2. This suggests one (or more?) of their variables
+#' they use has an `NA`, but I have no way of knowing what it could be.
 #'
 #' @source
 #'
-#' Ghobarah, Hazem Adam, Paul Huth, and Bruce Russett. 2004. "Comparative Public Health: The Political Economy of Human Misery and Well-Being" International Studies Quarterly 48: 73-94
+#' Ghobarah, Hazem Adam, Paul Huth, and Bruce Russett. 2004. "Comparative Public
+#' Health: The Political Economy of Human Misery and Well-Being"
+#' *International Studies Quarterly* 48: 73-94
 #'
 "GHR04"
