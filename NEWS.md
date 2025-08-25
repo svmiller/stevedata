@@ -3,11 +3,14 @@
 Additions include:
 
 - `mmb_war`: a data set on mutual military build-ups and war.
+- `stevesteps: a data set on Steve's steps in a day. Hey, that's me!
 
 Updates include:
 
 - `GHR04` has a change in the `pubhlthexppgdp` variable.
-- Assorted documentation updates
+- Assorted documentation updates for clarity.
+- File compression for space considerations.
+
 
 # stevedata 1.6.0
 

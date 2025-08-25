@@ -42,12 +42,15 @@ NULL
 #' magnitude change across a standard deviation on the scale. The "polyarchy"
 #' estimate has a theoretical minimum of 0 and a theoretical maximum of 1. In
 #' the regression context, that would mean a coefficient communicates a min/max
-#' effect. The Polity project estimate comes from a usual scale of -10 to 10 and
-#' a regression coefficient communicates something much less exotic. It's a unit
-#' change on this scale.
+#' effect. The Polity project estimate comes from a usual, additive index scale
+#' of -10 to 10 and a regression coefficient communicates something much less
+#' exotic. It's a unit change on this scale.
 #'
 #' In all cases, higher values of democracy = more "democraticness", for lack
-#' of a better term.
+#' of a better term. The "Quick UDS" estimate has the added quirk that converting
+#' the quantity to a probability (by way of `pnorm()`) communicates a probability
+#' that the observation in question is a 1 (i.e. a democracy). Try it out with
+#' some of the highest and lowest observations to see this in practice.
 #'
 #' @references
 #'
