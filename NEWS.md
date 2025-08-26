@@ -4,6 +4,7 @@ Additions include:
 
 - `mmb_war`: a data set on mutual military build-ups and war.
 - `stevesteps`: a data set on Steve's steps in a day. Hey, that's me!
+- `Weede84`: a data set for replicating Table 3 in Weede (1984).
 
 Updates include:
 
