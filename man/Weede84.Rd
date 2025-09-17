@@ -9,6 +9,7 @@ A data frame with 101 observations on the following 3 variables.
 \describe{
 \item{\code{ccode}}{a Correlates of War state code}
 \item{\code{country}}{a slightly more informative identifier for the Correlates of War state code}
+\item{\code{dem}}{a binary indicator for whether Weede (1984, Table 3) identifies the state as a democracy}
 \item{\code{butter}}{a count(?) variable of conflicts with over 100 casualties}
 \item{\code{kende}}{a count(?) variable of wars, according to Kende (1982)}
 \item{\code{ssiw}}{a count of involvement in Singer and Small (1972) inter-state wars}

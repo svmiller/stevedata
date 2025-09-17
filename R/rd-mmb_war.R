@@ -15,7 +15,7 @@ NULL
 #' \item{\code{micnum}}{the start year of a confrontation between the two states}
 #' \item{\code{year}}{the start year of a confrontation between the two states}
 #' \item{\code{dyfatmin}}{the minimum estimated dyadic fatalities in the confrontation}
-#' \item{\code{dyfatmin}}{the maximum estimated dyadic fatalities in the confrontation}
+#' \item{\code{dyfatmax}}{the maximum estimated dyadic fatalities in the confrontation}
 #' \item{\code{sumevents}}{the total number of events in the confrontation}
 #' \item{\code{mmb}}{a dummy variable that equals 1 if the confrontation came after the start of a mutual military build-up}
 #' }
