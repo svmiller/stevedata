@@ -7,7 +7,7 @@
 
     <a class="navbar-brand me-2" href="../index.html">stevedata</a>
 
-    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">1.7.0</small>
+    <small class="nav-text text-muted me-auto" data-bs-toggle="tooltip" data-bs-placement="bottom" title="">1.7.9</small>
 
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -48,8 +48,11 @@
 
     <div class="section level2">
     <h2 id="format">Format<a class="anchor" aria-label="anchor" href="#format"></a></h2>
-    <p>A data frame with 4530 observations on the following 4 variables.</p><dl><dt><code>country</code></dt>
+    <p>A data frame with 4264 observations on the following 6 variables.</p><dl><dt><code>country</code></dt>
 <dd><p>a character vector for the country</p></dd>
+
+<dt><code>iso2c</code></dt>
+<dd><p>a two-character vector of the country's ISO code</p></dd>
 
 <dt><code>member</code></dt>
 <dd><p>a numeric vector indicating whether the importer is or is not a member of the International Coffee Organization</p></dd>
@@ -60,15 +63,25 @@
 <dt><code>value</code></dt>
 <dd><p>a numeric vector for the coffee imports for all select importing countries (in thousand 60-kg bags)</p></dd>
 
+<dt><code>pop</code></dt>
+<dd><p>a numeric vector for the population size, in units of humans</p></dd>
+
 
 </dl></div>
     <div class="section level2">
     <h2 id="details">Details<a class="anchor" aria-label="anchor" href="#details"></a></h2>
-    <p>Data come from the International Coffee Organization, of which I
-feel I should be a member.</p>
-<p>Observations for the People's Republic of China are removed because those can
-be obtained by adding together the values for "Macao", "Hong Kong", and
-"China (Mainland)".</p>
+    <p>Coffee consumption data come from the International Coffee Organization, of
+which I feel I should be a member. Population data come from the UN Population
+Division. Observations for Yugoslavia in 1990 and 1991 are imputed manually.
+The observation for 1990 comes from a UN Population Division report. The 1991
+observation comes from the Yugoslavian census.</p>
+<p>The membership variable is agnostic to when a state became a member.</p>
+<p>Observations for the People's Republic of China are broken into components of
+China (Mainland), Hong Kong, and Macao. The consumption data for the People's
+Republic of China are simply the sum of the <code>value</code> variable for those three
+observations in a given year. The population variable is not; it codes the
+entire of Chinese population (including Hong Kong and Macao). Use with that
+in mind.</p>
 <p>The user may want to be mindful about when 0s in the value data are actually
 communicating that the entry did not exist at the time, or no longer exists.
 For example, there is no independent Armenia in 1990 (and whatever imports
