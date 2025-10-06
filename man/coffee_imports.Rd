@@ -5,12 +5,14 @@
 \alias{coffee_imports}
 \title{Coffee Imports for Select Importing Countries}
 \format{
-A data frame with 4530 observations on the following 4 variables.
+A data frame with 4264 observations on the following 6 variables.
 \describe{
 \item{\code{country}}{a character vector for the country}
+\item{\code{iso2c}}{a two-character vector of the country's ISO code}
 \item{\code{member}}{a numeric vector indicating whether the importer is or is not a member of the International Coffee Organization}
 \item{\code{year}}{a numeric vector for the year}
 \item{\code{value}}{a numeric vector for the coffee imports for all select importing countries (in thousand 60-kg bags)}
+\item{\code{pop}}{a numeric vector for the population size, in units of humans}
 }
 }
 \usage{
@@ -20,12 +22,20 @@ coffee_imports
 A simple panel on coffee imports for importing countries.
 }
 \details{
-Data come from the International Coffee Organization, of which I
-feel I should be a member.
+Coffee consumption data come from the International Coffee Organization, of
+which I feel I should be a member. Population data come from the UN Population
+Division. Observations for Yugoslavia in 1990 and 1991 are imputed manually.
+The observation for 1990 comes from a UN Population Division report. The 1991
+observation comes from the Yugoslavian census.
 
-Observations for the People's Republic of China are removed because those can
-be obtained by adding together the values for "Macao", "Hong Kong", and
-"China (Mainland)".
+The membership variable is agnostic to when a state became a member.
+
+Observations for the People's Republic of China are broken into components of
+China (Mainland), Hong Kong, and Macao. The consumption data for the People's
+Republic of China are simply the sum of the \code{value} variable for those three
+observations in a given year. The population variable is not; it codes the
+entire of Chinese population (including Hong Kong and Macao). Use with that
+in mind.
 
 The user may want to be mindful about when 0s in the value data are actually
 communicating that the entry did not exist at the time, or no longer exists.

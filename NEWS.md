@@ -1,3 +1,9 @@
+# stevedata 1.8.0
+
+Updates include:
+
+- `coffee_imports` has a population variable now and a two-character ISO code for information.
+
 # stevedata 1.7.0
 
 Additions include:
