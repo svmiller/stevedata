@@ -1,17 +1,17 @@
 library(tidyverse)
 library(WDI)
-
-WDI(country = c("AT", "BE", "BG", "HR",
-                "CY", "CZ", "DK", "EE",
-                "FI", "FR", "DE", "GR",
-                "HU", "IE", "IT", "LV",
-                "LT", "LU", "MT", "NL",
-                "PL", "PT", "RO", "SK",
-                "SI", "ES", "SE", "JP",
-                "NO", "RU", "CH", "TN",
-                "GB", "US"),
-    indicator = c("pop" = "SP.POP.TOTL"),
-    start = 1990, end = 2019) -> Pop
+#
+# WDI(country = c("AT", "BE", "BG", "HR",
+#                 "CY", "CZ", "DK", "EE",
+#                 "FI", "FR", "DE", "GR",
+#                 "HU", "IE", "IT", "LV",
+#                 "LT", "LU", "MT", "NL",
+#                 "PL", "PT", "RO", "SK",
+#                 "SI", "ES", "SE", "JP",
+#                 "NO", "RU", "CH", "TN",
+#                 "GB", "US"),
+#     indicator = c("pop" = "SP.POP.TOTL"),
+#     start = 1990, end = 2019) -> Pop
 
 WDI(indicator = c("pop" = "SP.POP.TOTL"),
     start = 1990, end = 2019) %>%
@@ -61,9 +61,8 @@ BL %>%
          prop = pop/tpop,
          value = value*prop, .by=year) %>%
   select(country, year, value, member) %>%
-  bind_rows(A[[1]], .) %>%
-  arrange(year) %>%
-  na.omit %>%
+  bind_rows(A[[1]] %>% select(-bl), .) %>%
+  arrange(year) %>% filter(!is.na(value)) %>%
   mutate(iso2c = countrycode::countrycode(country, "country.name.en", "iso2c")) %>%
   left_join(., Pop %>% select(iso2c, year, pop)) -> Members
 
@@ -107,6 +106,9 @@ Nonmembers %>%
 
 coffee_imports %>%
   filter(!is.na(country))  -> coffee_imports
+
+coffee_imports %>%
+  arrange(year, -member, country) -> coffee_imports
 
 save(coffee_imports, file="data/coffee_imports.rda")
 
