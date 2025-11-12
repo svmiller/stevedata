@@ -86,8 +86,11 @@ postcol_growth %>%
 save(postcol_growth, file="data/postcol_growth.rda")
 
 Data %>%
-  mutate(growth = (mrgdppc5 - mrgdppcind)/mrgdppcind,
+  mutate(growth = ((mrgdppc15 - mrgdppcind)/mrgdppcind)*100,
          brit = ifelse(colmast  == "United Kingdom", 1, 0),
          brit = ifelse(is.na(colmast), NA, brit)) -> Data
 
 t.test(growth ~ brit, Data)
+
+Data %>%
+  select(ccode, cw_name, mrgdppcind, mrgdppc15, growth, brit)
