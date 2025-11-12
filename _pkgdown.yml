@@ -11,3 +11,5 @@ figures:
 permissions:
   id-token: write
   pages: write
+
+llm-docs: false

@@ -1,5 +1,9 @@
 # stevedata 1.8.0
 
+Additions include:
+
+- `postcol_growth`: a data set on growth rates in the African continent post-empire.
+
 Updates include:
 
 - `coffee_imports` has a population variable now and a two-character ISO code for information.

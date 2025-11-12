@@ -43,10 +43,8 @@ It's possible that the language "win outright" is doing some heavy-lifting in
 how Bet365 lets you place wagers on winning the table.
 
 I'm also aware of the reason these odds do not sum to 1, and in fact exceed
-\enumerate{
-\item If anything, I think "overrounding" is its own pedagogical tool for why
+it. If anything, I think "overrounding" is its own pedagogical tool for why
 odds can be wonky things to learn in relation to its use in the statistical
 modeling context.
-}
 }
 \keyword{datasets}
