@@ -38,7 +38,6 @@ Origins of Comparative Development: An Empirical Investigation". \emph{American
 Economic Review} 91(5): 1369--1401.
 
 La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer and Robert W.
-Vishny. 1999. "The Quality of Government" \emph{Journal of Law, Economics, and
-Organization} 15(1): 222-79.
+Vishny. 1999.\emph{Journal of Law, Economics, and Organization} 15(1): 222-79.
 }
 \keyword{datasets}

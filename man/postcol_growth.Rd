@@ -78,5 +78,33 @@ Data." \emph{Journal of Conflict Resolution} 66(3): 553--91.
 
 Hensel, Paul R. 2018. "ICOW Colonial History Data Set, version 1.1." Available
 at \url{https://www.paulhensel.org/icowcol.html}.
+\subsection{Other Points of Departure}{
+
+The intended use of these data is to instruct students about \emph{t}-tests with
+an application to the development trajectories of former colonies in the
+African continent. This particular topic is definitely fraught with caveats
+to consider, and such a simple data set intended to teach students rudimentary
+methods around a question that might understand just cannot cover all these
+issues. Please consider the following scholarship on this topic.
+
+Acemoglu, Daron, Simon Johnson, and James A. Robinson. 2001. "The Colonial
+Origins of Comparative Development: An Empirical Investigation". \emph{American
+Economic Review} 91(5): 1369--1401.
+
+Bolt, Jutta and Dirk Bezemer. 2009. "Understanding Long-Run African Growth:
+Colonial Institutions or Colonial Education?" \emph{The Journal of Development
+Studies} 45(1): 24--54.
+
+Gallup, John Luke, Jeffrey D. Sachs, and Andrew D. Mellinger. 1999. "Geography
+and Economic Development." \emph{International Regional Science Review} 22(2):
+179--232.
+
+Glaeser, Edward L., Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei
+Shleifer. 2004. "Do Institutions Cause Growth?" \emph{Journal of Economic Growth}
+9: 271--303.
+
+La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer and Robert W.
+Vishny. 1999. \emph{Journal of Law, Economics, and Organization} 15(1): 222-79.
+}
 }
 \keyword{datasets}
