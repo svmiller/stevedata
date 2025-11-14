@@ -60,7 +60,11 @@ NULL
 #' in the sources in the reference section, or in the documentation for the
 #' `cw_gdppop` data frame in the \pkg{isard} package.
 #'
-#' Colonial history data come by way of ICOW (v. 1.1).
+#' Colonial history data come by way of ICOW (v. 1.1). Use with that in mind,
+#' and the reasonable disagreement that can follow about how one should understand
+#' this information in relation to what I want it to communicate for the sake
+#' of this exercise. This will prominently concern Libya, among other cases (I'm
+#' sure).
 #'
 #' @references
 #'
