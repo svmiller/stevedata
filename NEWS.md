@@ -1,3 +1,9 @@
+# stevedata 1.9.0
+
+Updates include:
+
+- Various documentation updates for clarity.
+
 # stevedata 1.8.0
 
 Additions include:

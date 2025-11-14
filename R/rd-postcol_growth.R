@@ -105,7 +105,8 @@ NULL
 #' 9: 271--303.
 #'
 #' La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer and Robert W.
-#' Vishny. 1999. *Journal of Law, Economics, and Organization* 15(1): 222-79.
+#' Vishny. 1999. "Quality of Government" *Journal of Law, Economics, and
+#' Organization* 15(1): 222-79.
 #'
 #'
 #'
