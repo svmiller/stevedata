@@ -1,7 +1,12 @@
 # stevedata 1.9.0
 
+Additions include:
+
+- `shuparks`: a data set on the mitigation of urban parks on urban heat islands with an application to Shanghai.
+
 Updates include:
 
+- More information added to `postcol_growth`.
 - Various documentation updates for clarity.
 
 # stevedata 1.8.0

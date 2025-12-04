@@ -81,7 +81,20 @@ postcol_growth <- Data
 
 
 postcol_growth %>%
+  mutate(iso3c = countrycode::countrycode(ccode, "cown", "iso3c")) %>%
+  select(ccode, iso3c, everything()) %>%
   select(-start) -> postcol_growth
+
+readxl::read_excel("~/Koofr/data/laporta/Quality_of_Govt.xls",
+                   sheet = 2) %>%
+  select(flopcode, legor_uk:legor_fr, lat_abst) %>%
+  rename(iso3c = flopcode) %>%
+  mutate(iso3c = toupper(iso3c)) %>%
+  filter(!is.na(iso3c)) %>%
+  left_join(postcol_growth, .,
+            by = c("iso3c" = "iso3c")) %>%
+  select(ccode:colmast, legor_uk, legor_fr, lat_abst, everything()) -> postcol_growth
+
 
 save(postcol_growth, file="data/postcol_growth.rda")
 

@@ -7,9 +7,10 @@ NULL
 #'  for intended use to instruct students about *t*-tests around the application
 #'  of colonial legacies.
 #'
-#' @format A data frame with 53 observations on the following 11 variables.
+#' @format A data frame with 53 observations on the following 15 variables.
 #' \describe{
 #' \item{\code{ccode}}{a Correlates of War state code}
+#' \item{\code{iso3c}}{a three-character ISO code corresponding to the state}
 #' \item{\code{cw_name}}{a Correlates of War state name}
 #' \item{\code{styear}}{the start year for latest system entry for the state}
 #' \item{\code{IndFrom}}{a Correlates of War state code, if applicable,
@@ -17,6 +18,12 @@ NULL
 #' gained independence}
 #' \item{\code{colmast}}{a character vector largely corresponding with the
 #' information in \code{IndFrom} with only slight changes}
+#' \item{\code{legor_uk}}{a dummy variable indicating whether the company law or
+#' commercial code of the state is British}
+#' \item{\code{legor_fr}}{a dummy variable indicating whether the company law or
+#' commercial code of the state is French}
+#' \item{\code{lat_abst}}{the absolute latitude of the capital, scaled to take
+#' values between 0 and 1}
 #' \item{\code{mrgdppcind}}{an estimate of GDP per capita for the year identified
 #' in the \code{styear} column, itself largely corresponding with independence
 #' from the state identified in \code{IndFrom} and \code{colmast}}
@@ -66,6 +73,9 @@ NULL
 #' of this exercise. This will prominently concern Libya, among other cases (I'm
 #' sure).
 #'
+#' Data for the legal origin indicators and the latitude of the capital come from
+#' LaPorta et al. (1999).
+#'
 #' @references
 #'
 #' Bolt, Jutta, Robert Inklaar, Herman de Jong, and Luiten Janvan Zanden. 2018.
@@ -79,14 +89,18 @@ NULL
 #' Hensel, Paul R. 2018. "ICOW Colonial History Data Set, version 1.1." Available
 #' at \url{https://www.paulhensel.org/icowcol.html}.
 #'
+#' La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer and Robert W.
+#' Vishny. 1999. "Quality of Government" *Journal of Law, Economics, and
+#' Organization* 15(1): 222-79.
+#'
 #' ## Other Points of Departure
 #'
 #' The intended use of these data is to instruct students about *t*-tests with
 #' an application to the development trajectories of former colonies in the
 #' African continent. This particular topic is definitely fraught with caveats
 #' to consider, and such a simple data set intended to teach students rudimentary
-#' methods around a question that might understand just cannot cover all these
-#' issues. Please consider the following scholarship on this topic.
+#' methods around a question that they might understand just cannot cover all
+#' these issues. Please consider the following scholarship on this topic.
 #'
 #' Acemoglu, Daron, Simon Johnson, and James A. Robinson. 2001. "The Colonial
 #' Origins of Comparative Development: An Empirical Investigation". *American
@@ -103,12 +117,6 @@ NULL
 #' Glaeser, Edward L., Rafael La Porta, Florencio Lopez-de-Silanes, and Andrei
 #' Shleifer. 2004. "Do Institutions Cause Growth?" *Journal of Economic Growth*
 #' 9: 271--303.
-#'
-#' La Porta, Rafael, Florencio Lopez-de-Silanes, Andrei Shleifer and Robert W.
-#' Vishny. 1999. "Quality of Government" *Journal of Law, Economics, and
-#' Organization* 15(1): 222-79.
-#'
-#'
 #'
 #'
 "postcol_growth"
