@@ -2,6 +2,7 @@
 
 Additions include:
 
+- `eurouhi`: a data set on European urban heat islands and green land use.
 - `shuparks`: a data set on the mitigation of urban parks on urban heat islands with an application to Shanghai.
 
 Updates include:

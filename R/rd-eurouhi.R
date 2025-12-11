@@ -26,7 +26,7 @@ NULL
 #' @details
 #'
 #' Data are able to replicate Figures 2, 3, and 4 in Nastran et al. (2019). Consult
-#' that article for more information
+#' that article for more information.
 #'
 #' @references
 #'

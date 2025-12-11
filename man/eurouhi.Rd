@@ -31,7 +31,7 @@ A data set on urban heat island magnitude in European cities.
 }
 \details{
 Data are able to replicate Figures 2, 3, and 4 in Nastran et al. (2019). Consult
-that article for more information
+that article for more information.
 }
 \references{
 Nastran, Mojca, Milan Kobal, and Klemen Eler. 2019. "Urban Heat Islands in
