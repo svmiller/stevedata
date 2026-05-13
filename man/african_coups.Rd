@@ -102,7 +102,8 @@ These data come from 1965 in that data set. Jackman and Johnson et al. are
 assuredly using Morrison's almanac. That information is in Table 4.11 of
 Morrison et al. (1989), though it's possible the estimates contained therein
 are slightly different than what was reported in the first edition. I cannot
-know for sure.
+know for sure. No matter, the data that come by way of Morrison's almanac
+are more complete and should be used for replication.
 
 Ethiopia is conspicuously missing in the party dominance variable. That's by
 design, and apparently its omission warranted ample discussion both by
