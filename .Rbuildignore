@@ -14,3 +14,5 @@ Makefile
 ^CRAN-SUBMISSION$
 ^_dross$
 ^_pilot$
+^\.positai$
+^\.claude$
