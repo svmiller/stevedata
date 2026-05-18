@@ -11,6 +11,7 @@ Updates include:
 
 - More information added to `postcol_growth`.
 - Various documentation updates for clarity.
+- File recompression.
 
 # stevedata 1.8.0
 

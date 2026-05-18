@@ -7,7 +7,7 @@ NULL
 #'  individual correlates of the Trump vote in 2016. Code/analysis heavily indebted
 #'  to a 2017 analysis I did on my blog (see references).
 #'
-#' @format A data frame with 64600 observations on the following 21 variables.
+#' @format A data frame with 44932 observations on the following 21 variables.
 #' \describe{
 #'  \item{\code{uid}}{a numeric vector, a unique identifier for the respondent as they first appear in the CCES data.}
 #'  \item{\code{state}}{a character vector for the state in which the respondent resides}
@@ -32,9 +32,17 @@ NULL
 #'  \item{\code{lemprac}}{a numeric vector that serves as a latent estimate for empathetic racism. This is derived from the \code{fearraces} and \code{angryracism} variables.}
 #' }
 #'
-#' @details The latent estimates for religiosity, cognitive racism, and empathetic
-#' racism come from a graded response model estimated in \code{mirt}. The concepts of
+#' @details
+#'
+#' The latent estimates for religiosity, cognitive racism, and empathetic racism
+#' come from a graded response model estimated in \pkg{mirt}. The concepts of
 #' "cognitive racism" and "empathetic racism" come from DeSante and Smith.
+#'
+#' Earlier versions of these data (pre: v. 1.9.0) included the NAs on the
+#' \code{votetrump} variable. Those have since been removed for concern of space
+#' limitations. These data are intended for use in regression modeling anyway.
+#' The `data-raw` directory has the earlier version of these data for those
+#' interested.
 #'
 #' @source Cooperative Congressional Election Study, 2016
 #'
