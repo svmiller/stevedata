@@ -80,7 +80,7 @@ NATO5 %>%
   rename(gdp = val) %>%
   mutate(year = as.numeric(str_remove(year, "e"))) %>%
   select(-country) %>%
-  left_join(natodefspend, .)
+  left_join(natodefspend, .) -> natodefspend
 
 
 

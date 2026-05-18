@@ -5,7 +5,7 @@
 \alias{TV16}
 \title{The Individual Correlates of the Trump Vote in 2016}
 \format{
-A data frame with 64600 observations on the following 21 variables.
+A data frame with 44932 observations on the following 21 variables.
 \describe{
 \item{\code{uid}}{a numeric vector, a unique identifier for the respondent as they first appear in the CCES data.}
 \item{\code{state}}{a character vector for the state in which the respondent resides}
@@ -42,8 +42,8 @@ individual correlates of the Trump vote in 2016. Code/analysis heavily indebted
 to a 2017 analysis I did on my blog (see references).
 }
 \details{
-The latent estimates for religiosity, cognitive racism, and empathetic
-racism come from a graded response model estimated in \code{mirt}. The concepts of
+The latent estimates for religiosity, cognitive racism, and empathetic racism
+come from a graded response model estimated in \pkg{mirt}. The concepts of
 "cognitive racism" and "empathetic racism" come from DeSante and Smith.
 }
 \references{

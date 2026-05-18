@@ -38,12 +38,6 @@ NULL
 #' come from a graded response model estimated in \pkg{mirt}. The concepts of
 #' "cognitive racism" and "empathetic racism" come from DeSante and Smith.
 #'
-#' Earlier versions of these data (pre: v. 1.9.0) included the NAs on the
-#' \code{votetrump} variable. Those have since been removed for concern of space
-#' limitations. These data are intended for use in regression modeling anyway.
-#' The `data-raw` directory has the earlier version of these data for those
-#' interested.
-#'
 #' @source Cooperative Congressional Election Study, 2016
 #'
 #' @references \url{https://svmiller.com/blog/2017/04/age-income-racism-partisanship-trump-vote-2016/}
