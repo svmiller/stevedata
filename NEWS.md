@@ -2,9 +2,9 @@
 
 Additions include:
 
-- `EUCC`: a data set on European Union fiscal performance with respect to Maastrict and Stability and Growth Pact criteria for the year 2025.
+- `EUCC`: a data set on European Union fiscal performance with respect to Maastricht and Stability and Growth Pact criteria for the year 2025.
 - `eurouhi`: a data set on European urban heat islands and green land use.
-- `natodefspend`: a data set on miltitary expenditures for NATO states from 2014 to 2025.
+- `natodefspend`: a data set on military expenditures for NATO states from 2014 to 2025.
 - `shuparks`: a data set on the mitigation of urban parks on urban heat islands with an application to Shanghai.
 
 Updates include:
