@@ -1,7 +1,7 @@
 #' @importFrom tibble tibble
 NULL
 
-#' NYSE Arca Steel Index data, 2017–present
+#' NYSE Arca Steel Index data, 2017–2020
 #'
 #' Daily data on the NYSE Arca Steel Index. These data are useful for me in
 #'  teaching how Trump's 2018 steel tariffs didn't do much good for the steel industry.
@@ -16,7 +16,7 @@ NULL
 #' }
 #'
 #' @details These data are taken from \code{investing.com}.
-#' See: \url{https://www.investing.com/indices/arca-steel-historical-data}
+#' Code name: \code{STTL}.
 #'
 
 "Arca"

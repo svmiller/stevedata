@@ -43,8 +43,8 @@ researcher may be tempted to treat as drawn from a normal distribution),
 the canonical case of [illiteracy rates in the 1930 U.S.
 Census](https://github.com/svmiller/stevedata/blob/master/man/illiteracy30.Rd)
 (as an illustration of an [ecological
-fallacy](https://www.britannica.com/science/ecological-fallacy)), and
-many, many more topics.
+fallacy](https://en.wikipedia.org/wiki/Ecological_fallacy)), and many,
+many more topics.
 
 Second, my students in these classes (but especially my methods classes)
 should find this R package useful. I will also be having my methods

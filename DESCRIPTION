@@ -2,7 +2,7 @@ Package: stevedata
 Type: Package
 Title: Steve's Toy Data for Teaching About a Variety of Methodological, Social, and Political Topics
 Depends: R (>= 3.5.0)
-Version: 1.8.9
+Version: 1.9.0
 Authors@R: person("Steve", "Miller",
                   email = "steve@svmiller.com", 
                   role = c("aut", "cre"),
@@ -19,7 +19,7 @@ LazyData: true
 LazyDataCompression: xz
 RoxygenNote: 7.3.3
 Roxygen: list(markdown = TRUE)
-URL: http://svmiller.com/stevedata/
+URL: https://svmiller.com/stevedata/
 BugReports: https://github.com/svmiller/stevedata/issues/
 Suggests: 
     knitr,

@@ -3,7 +3,7 @@
 \docType{data}
 \name{Arca}
 \alias{Arca}
-\title{NYSE Arca Steel Index data, 2017–present}
+\title{NYSE Arca Steel Index data, 2017–2020}
 \format{
 A data frame with 966 observations on the following 6 variables.
 \describe{
@@ -23,6 +23,6 @@ teaching how Trump's 2018 steel tariffs didn't do much good for the steel indust
 }
 \details{
 These data are taken from \code{investing.com}.
-See: \url{https://www.investing.com/indices/arca-steel-historical-data}
+Code name: \code{STTL}.
 }
 \keyword{datasets}

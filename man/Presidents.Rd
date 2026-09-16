@@ -20,7 +20,7 @@ This should be self-evident. Here are all U.S. presidents who have completed
 their terms in office (i.e. excluding the current one).
 }
 \details{
-I scraped this from \url{https://www.presidentsusa.net/presvplist.html}.
+I scraped this from \url{https://www.presidentsusa.net}.
 Data frame is capital-P "Presidents" to avoid a conflict with the
 \code{presidents} data frame from the \code{datasets} package.
 }
