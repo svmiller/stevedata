@@ -42,7 +42,7 @@ postcol_growth
 }
 \description{
 A simple data set on post-colonial growth trajectories in the African continent,
-for intended use to instruct students about \emph{t}-tests around the application
+for intended use teaching students about \emph{t}-tests around the application
 of colonial legacies.
 }
 \details{
@@ -98,7 +98,7 @@ Vishny. 1999. "Quality of Government" \emph{Journal of Law, Economics, and
 Organization} 15(1): 222-79.
 \subsection{Other Points of Departure}{
 
-The intended use of these data is to instruct students about \emph{t}-tests with
+The goal of these data is to teach students about \emph{t}-tests with
 an application to the development trajectories of former colonies in the
 African continent. This particular topic is definitely fraught with caveats
 to consider, and such a simple data set intended to teach students rudimentary

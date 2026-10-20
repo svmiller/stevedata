@@ -25,9 +25,9 @@ NULL
 #'
 #' Data are taken Appell and Loyle's (2012) replication data set. Users should
 #' read their article in *Journal of Peace Research* for more information about
-#' the topic, the stake, and how the data were collected. This is just a simple,
-#' reduced form of the data they make available that is minimally sufficient for
-#' reproducing the first model of their Table I.
+#' the topic, the goal of the analysis, and how the data were collected. This is
+#' just a simple, reduced form of the data they make available that is
+#' minimally sufficient for reproducing the first model of their Table I.
 #'
 #' @references
 #'

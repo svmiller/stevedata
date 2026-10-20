@@ -22,7 +22,7 @@ NULL
 #'
 #' @details
 #'
-#' The unit of analysis for these data are non-directed dyadic confrontations
+#' The unit of analysis for these data is non-directed dyadic confrontations
 #' for strategic rivals. Be mindful that confrontations start with the first
 #' event of any kind. See Gibler and Miller (2024a, 2024b) for more about events
 #' and confrontations. See Thompson et al. (2021) for more information about
@@ -36,7 +36,8 @@ NULL
 #' previous year, 4) for at least three years where 5) historical evidence largely
 #' corroborates a directionality in the mobilization of the kind we would
 #' broadly conceptualize (a la Richardson, 1939). In other words, the
-#' mutual mobilization isn't coincidental or a function of other priorities.
+#' mutual mobilization isn't coincidental or a function of other priorities (like
+#' concurrent civil conflicts).
 #'
 #' The data I recreate here follow Gibler et al. (2005), but use newer
 #' capabilities and rivalry data. I further employ some case exclusion rules

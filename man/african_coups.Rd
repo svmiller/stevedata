@@ -48,12 +48,12 @@ a copy of a 1989 update, though. That's what I consulted in constructing
 this data set.
 
 Jackman (1978) is deceptively opaque on what he's doing for the ethnic group
-variable and arguably misleads on what his turnout variable is actually from.
-In the case of the ethnic group variable, it's the difference between saying
-the largest ethnic group in Rwanda is 98\% of the population versus 80\% of
-the population. In short, it's the difference of saying whether there are
-any Tutsi at all in the country. Basically, I'm uncertain with what he's
-doing with what Morrison et al. (1989) define as "ethnic clusters".
+variable and arguably misleads on what his turnout variable is. In the case
+of the ethnic group variable, it's the difference between saying the largest
+ethnic group in Rwanda is 98\% of the population versus 80\% of the population.
+In short, it's the difference of saying whether there are any Tutsi at all in
+the country. Basically, I'm uncertain with what he's doing with what Morrison
+et al. (1989) define as "ethnic clusters".
 
 Related: the agricultural variable is a midway point between columns B and
 columns C in Table 3.11 of Morrison et al. (1989). I do not think this is too

@@ -65,13 +65,13 @@ NULL
 #' Opponent fatalities are strictly dyadic and are derived from the Militarized
 #' Interstate Events data.
 #'
-#' Capabilities, GDP, and democracy data come from \pkg{peacesciencer} for a
-#' forthcoming v. 1.2.0 release. See package for more information, though
-#' references are also included below. Variables are mostly lagged to the year
-#' prior to the participant observation year. However, there are several cases
-#' in the data that are born into war (see: India, Pakistan, North and South
-#' Korea, North and South Vietnam). In cases of missing data, information from
-#' the observation year is used.
+#' Capabilities, GDP, and democracy data come from \pkg{peacesciencer} for its
+#' v. 1.2.0 release. See package for more information, though references are
+#' also included below. Variables are mostly lagged to the year prior to the
+#' participant observation year. However, there are several cases in the data
+#' that are born into war (see: India, Pakistan, North and South Korea, North
+#' and South Vietnam). In cases of missing data, information from the
+#' observation year is used.
 #'
 #' The \code{tpop} and \code{wbpopest} columns are measuring the same thing but
 #' are derived from two different data sets with two different data-generating

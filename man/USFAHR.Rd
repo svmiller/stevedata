@@ -32,7 +32,7 @@ USFAHR
 }
 \description{
 A data set on economic aid allocation by the United States for assorted years.
-These are useful for illustrative cross-sectional relationships between human
+These are useful for illustrating cross-sectional relationships between human
 rights and U.S. aid allocation at what amounts to midway points for various
 presidential administrations.
 }
@@ -71,16 +71,16 @@ and its \code{add_minimum_distance()} function. Check package documentation
 for appropriate citation for any serious use.
 
 Estimates of gross domestic product ("GDP") and population come by way of
-\pkg{peacesciencer} and its \code{add_sdp_gdp()} function. Check package
-documentation for appropriate citations for any serious use. GDP is in
-actual dollars.
+\pkg{peacesciencer} and its since-deprecated \code{add_sdp_gdp()} function.
+Check package documentation for appropriate citations for any serious use. GDP
+is in actual dollars.
 
 Trade data come from Correlates of War trade data by way of \pkg{peacesciencer}
 and its \code{add_cow_trade()} function. Check package documentation for
 appropriate citations for any serious use.
 
 Military expenditure and capabilities data come from Correlates of War by way
-of \pkg{peacesciencer} and its \code{add_cow_trade()} function. Check package
-documentation for  appropriate citations for any serious use.
+of \pkg{peacesciencer} and its \code{add_cow_nmc()} function. Check package
+documentation for appropriate citations for any serious use.
 }
 \keyword{datasets}

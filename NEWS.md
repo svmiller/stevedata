@@ -4,6 +4,10 @@ Additions include:
 
 - `Sambanis00`: a data set on civil wars, recurrence, and partition. Useful for teaching Chi-square tests.
 
+Updates include:
+
+- Various documentation updates for clarity.
+
 # stevedata 1.9.0
 
 Additions include:
