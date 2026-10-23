@@ -7,6 +7,7 @@ Additions include:
 Updates include:
 
 - Various documentation updates for clarity.
+- `postcol_growth` is now `postcolgrow`.
 
 # stevedata 1.9.0
 

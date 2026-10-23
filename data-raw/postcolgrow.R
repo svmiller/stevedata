@@ -95,15 +95,18 @@ readxl::read_excel("~/Koofr/data/laporta/Quality_of_Govt.xls",
             by = c("iso3c" = "iso3c")) %>%
   select(ccode:colmast, legor_uk, legor_fr, lat_abst, everything()) -> postcol_growth
 
+postcolgrow <- postcol_growth
 
-save(postcol_growth, file="data/postcol_growth.rda")
+save(postcolgrow, file="data/postcolgrow.rda")
+
+Data <- postcolgrow
 
 Data %>%
-  mutate(growth = ((mrgdppc25 - mrgdppcind)/mrgdppcind)*100,
+  mutate(growth = ((mrgdppc5 - mrgdppcind)/mrgdppcind)*100,
          brit = ifelse(colmast  == "United Kingdom", 1, 0),
          brit = ifelse(is.na(colmast), NA, brit)) -> Data
 
-t.test(growth ~ brit, subset(Data, ccode < 600))
+t.test(growth ~ legor_uk, subset(Data, ccode < 600))
 
 Data %>%
   select(ccode, cw_name, mrgdppcind, mrgdppc15, growth, brit)

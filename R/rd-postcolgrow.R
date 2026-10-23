@@ -118,5 +118,8 @@ NULL
 #' Shleifer. 2004. "Do Institutions Cause Growth?" *Journal of Economic Growth*
 #' 9: 271--303.
 #'
+#' Klerman, Daniel M., Paul G. Mahoney, Holger Spamann, and Mark I. Weinstein.
+#' 2011. "Legal Origin or Colonial History?" 3(2): 379--409.
 #'
-"postcol_growth"
+#'
+"postcolgrow"
