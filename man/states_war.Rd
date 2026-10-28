@@ -97,9 +97,9 @@ Valeriya Mechkova, Johannes von Romer, Aksel Sundtrom, Eitan Tzelgov,
 Luca Uberti, Yi-ting Wang, Tore Wig, and Daniel Ziblatt. 2020.
 "V-Dem Codebook v10" Varieties of Democracy (V-Dem) Project.
 
-Gibler, Douglas M., and Steven V. Miller. Forthcoming. “The Militarized
+Gibler, Douglas M., and Steven V. Miller. 2024. “The Militarized
 Interstate Events (MIE) Dataset, 1816–2014.” \emph{Conflict Management and Peace
-Science.}
+Science.} 41(4): 463--81.
 
 Gibler, Douglas M., and Steven V. Miller. 2023. “The Militarized Interstate
 Confrontation Dataset, 1816-2014.” Journal of Conflict Resolution 68(2–3):

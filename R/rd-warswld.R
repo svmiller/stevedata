@@ -1,0 +1,88 @@
+#' @importFrom tibble tibble
+NULL
+
+#' The Outcomes of Wars (Win, Lose, or Draw)
+#'
+#' A data set on participants in wars and whether they won, lost, or fought to
+#' a stalemate. Useful for teaching multinomial models.
+#'
+#' @format A data frame with 590 observations on the following 10 variables.
+#' \describe{
+#' \item{\code{micnum}}{a numeric confrontation identifier}
+#' \item{\code{confname}}{a name for the confrontation}
+#' \item{\code{ccode1}}{a Correlates of War state code for a participant}
+#' \item{\code{ccode2}}{a Correlates of War state code for an adversary}
+#' \item{\code{outcome}}{a character vector for the war outcome for the participant,
+#' one of "Win", "Lose", or "Draw"}
+#' \item{\code{lowfatrat1}}{the minimum estimated fatalities the participant
+#' imposed on the adversary (divided by its military personnel), divided over
+#' the maximum fatalities the participant incurred (divided by its military
+#' personnel) plus the minimum estimated fatalities the participant imposed on
+#' the adversary (divided by its military personnel).}
+#' \item{\code{relpow1}}{the highest composite index of national capabilities
+#' (CINC) score of the participant, divided over the max of the participant and
+#' adversary over the course of the war.}
+#' \item{\code{sidea1}}{a dummy variable identifying whether `ccode1` is on the
+#' side of the confrontation responsible for the first event that led to the war.}
+#' \item{\code{maxquds1}}{the maximum level of democracy for `ccode1` observed
+#' over the course of the war.}
+#' \item{\code{bilat}}{a dummy variable identifying whether the war was bilateral.}
+#' }
+#'
+#' @details
+#'
+#' I created these data for a lecture in my international conflict course at
+#' Clemson University. That lecture was on March 8, 2022. The data are basically
+#' "as is" from that date. Use with caution. The goal for these data is to
+#' provide an example data set for which a multinomial model would be useful.
+#'
+#' Data omit World War 2 (MIC#0258) and the Lithuanian War of Independence
+#' (MIC#2604). These two cases are conspicuous in the data as the only instances
+#' in which a state switched sides during war.
+#'
+#' Confrontation data and fatalities come by way of what would eventually become
+#' v. 1.0 of the Militarized Interstate Confrontation data set. We no doubt
+#' revised a lot of these figures before that publication came out. Definitely
+#' use with caution.
+#'
+#' War outcomes hand-coded by my discretion. Feel free to disagree with me. Again,
+#' use these data with caution and don't ascribe too much inferential value to
+#' them.
+#'
+#' \pkg{peacesciencer} is responsible for the capabilities, military personnel,
+#' and democracy data. Democracy data were originally in the `ccode_democracy`
+#' data and came by way of Xavier Marquez' `QuickUDS` package. Capabilities and
+#' personnel data are version 6.0 of the Correlates of War National Material
+#' Capabilities data.
+#'
+#' To use the Iran-Iraq War (MIC#2115) as an illustration, consider that at least
+#' 95,147 Iraqis died during the war (in the version of these data). At its peak,
+#' Correlates of War says Iraq had an estimated million soldiers. At most, Iran
+#' lost 255,824 troops in the war. At its peak, Iran had around 654,000 soldiers.
+#' Iran's fatality ratio comes out to around .196.
+#'
+#' @references
+#'
+#' Gibler, Douglas M., and Steven V. Miller. 2023. “The Militarized Interstate
+#' Confrontation Dataset, 1816-2014.” Journal of Conflict Resolution 68(2–3):
+#' 562–86
+#'
+#' Marquez, Xavier, "A Quick Method for Extending the Unified Democracy
+#' Scores" (March 23, 2016).  \doi{10.2139/ssrn.2753830}
+#'
+#' Miller Steven V. 2022. “peacesciencer: An R Package for Quantitative Peace
+#' Science Research.” *Conflict Management and Peace Science*, 39(6), 755–779.
+#'
+#' Pemstein, Daniel, Stephen Meserve, and James Melton. 2010. "Democratic
+#' Compromise: A Latent Variable Analysis of Ten Measures of Regime Type."
+#' *Political Analysis* 18(4): 426-449.
+#'
+#' Singer, J. David, Stuart Bremer, and John Stuckey. (1972). "Capability
+#' Distribution, Uncertainty, and Major Power War, 1820-1965." in Bruce Russett
+#' (ed) *Peace, War, and Numbers*, Beverly Hills: Sage, 19-48.
+#'
+#' Singer, J. David. 1987. "Reconstructing the Correlates of War Dataset on
+#' Material Capabilities of States, 1816-1985" *International Interactions*,
+#' 14: 115-32.
+#'
+"warswld"
