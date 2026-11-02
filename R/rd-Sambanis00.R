@@ -21,8 +21,6 @@ NULL
 #' @details Sambanis (2000) does not say this outright, but it's implied that the
 #' ongoing wars are ongoing as of 2000 (as opposed to some other date).
 #'
-#'
-#'
 #' @references
 #'
 #' Sambanis, Nicholas. 2000. "Partition as a Solution to Ethnic War: An Empirical
