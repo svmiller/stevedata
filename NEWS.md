@@ -2,6 +2,7 @@
 
 Additions include:
 
+- `itarriv`: a data set on the correlates of international tourism arrivals, from around 2019. Useful for teaching simple linear models.
 - `Sambanis00`: a data set on civil wars, recurrence, and partition. Useful for teaching Chi-square tests.
 - `warswld`: a data set on inter-state war outcomes, useful for teaching multinomial models.
 

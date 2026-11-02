@@ -36,6 +36,11 @@ NULL
 #' "as is" from that date. Use with caution. The goal for these data is to
 #' provide an example data set for which a multinomial model would be useful.
 #'
+#' The unit of analysis is the directed war-dyad, excluding 1) participation in
+#' war short of mutual attack (e.g. France and the UK in the Franco-Siamese War)
+#' and 2) "irrelevant" war dyads (think: Brazil-Japan in WW2, or South Korea-China
+#' in the Vietnam War).
+#'
 #' Data omit World War 2 (MIC#0258) and the Lithuanian War of Independence
 #' (MIC#2604). These two cases are conspicuous in the data as the only instances
 #' in which a state switched sides during war.
