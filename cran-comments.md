@@ -1,6 +1,6 @@
 ## Test environments
 
-* ubuntu 22.04, R 4.1.2
+* ubuntu 22.04, R 4.5.3
 
 ## R CMD check results
 
